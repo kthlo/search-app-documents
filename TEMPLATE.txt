@@ -1,0 +1,28 @@
+Document storage template
+
+For each document, please copy the relevant attributes into the template below. The template is split into four sections
+  1. Violence tag: one of the 12 forms of school violence
+  2. Document title: the title of the document
+  3. Document text: the text body of the document
+  4. Search tags: supplemental tags to facilitate document search and retrieval
+
+Additional notes:
+  - If not applicable, please leave the section blank but leave the asterisks in place (e.g., if no search tags required)
+  - If multiple tags are applicable, please enter each tag on a new line
+  - Please delete the brackets when filling in the template
+
+-------START-OF-TEMPLATE-------
+
+[REPLACE WITH VIOLENCE TAG 1]
+[REPLACE WITH VIOLENCE TAG 2]
+[REPLACE WITH VIOLENCE TAG 3]
+***
+[REPLACE WITH DOCUMENT TITLE]
+***
+[REPLACE WITH DOCUMENT TEXT]
+***
+[REPLACE WITH SEARCH TAG 1]
+[REPLACE WITH SEARCH TAG 2]
+[REPLACE WITH SEARCH TAG 3]
+
+-------END-OF-TEMPLATE-------
