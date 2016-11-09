@@ -1,7 +1,9 @@
-stealing
-weapons
+stealing, weapons
+
 ***
+
 Technology and Youth Violence
+
 ***
 Young people are using media technology, including cell phones, personal data assistants, and the Internet, to communicate with others in the United States and throughout the world. Communication avenues, such as text messaging, chat rooms, and social networking websites, such as Twitter and Facebook, allow youth to easily develop relationships, some with people they have never met in person.
 Media technology has many potential benefits for youth. It allows young people to communicate with family and friends on a regular basis. This technology also provides opportunities to make rewarding social connections for those teens and pre-teens who have difficulty developing friendships in traditional social settings or because of limited contact with same-aged peers. In addition, regular Internet access allows young people to quickly increase their knowledge on a wide variety of topics.
@@ -9,14 +11,26 @@ Media technology has many potential benefits for youth. It allows young people t
 However, the explosion in communication tools and avenues does not come without possible risks. Youth can use electronic media to embarrass, harass or threaten their peers. Increasing numbers of teens and pre-teens are becoming victims of this new form of violence. Although many different terms, such as “cyberbullying,” “Internet harassment,” and “Internet bullying,” have been used to describe this type of violence, “electronic aggression” is the term that most accurately captures all types of violence that occur electronically. Like traditional forms of youth violence, electronic aggression is associated with emotional distress and conduct problems at school. In fact, recent research suggests that youth who are victimized electronically are also very likely to also be victimized off-line. That is, they are likely to be sexually harassed, psychologically or emotionally abused by a caregiver, witness an assault with a weapon, and raped.1
 The Centers for Disease Control and Prevention (CDC) convened a panel of experts to discuss issues related to the emerging public health problem of electronic aggression. The panel included representatives from research universities, public school systems, federal agencies, and nonprofit organizations. A special issue of the Journal of Adolescent Health summarizes the data and recommendations from this expert panel meeting.
 The following resources provide additional information on electronic aggression, youth violence prevention, and safe schools.
+
 ***
+
+
 excessive fear, worrying, or crying
+
 loss of appetite
+
 sudden changes in weight
+
 excessive worry about weight gain
+
 sudden changes in sleep habits
+
 visible prolonged sadness
+
 substance use or abuse
+
 seeing or hearing things that are not there
+
 comments or writings that suggest a desire to harm himself or others
+
 thinks others are plotting against him
