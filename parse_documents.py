@@ -1,6 +1,7 @@
 # coding: utf-8
 import os
 import json
+import re
 
 document_sections = [
     'violence_tags',
@@ -28,8 +29,9 @@ def clean_tag(tag):
 
 def parse_tags(contents, tag_name):
 
+    tags_raw = contents.get(tag_name, '')
     # Split tags sections into individual tags
-    tags = filter(remove_blank_str, contents.get(tag_name, '').split('\n'))
+    tags = filter(remove_blank_str, re.split('\n|\r|,', tags_raw))
 
     # Clean individual tags
     tags = [clean_tag(tag) for tag in tags]
