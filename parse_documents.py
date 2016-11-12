@@ -9,6 +9,12 @@ document_sections = [
     'search_tags'
 ]
 
+document_sections_abbr = [
+    'violence_tags',
+    'document_text',
+    'search_tags'
+]
+
 
 def remove_blank_str(string):
     return (string != '') & (string is not None)
@@ -35,7 +41,10 @@ def parse_file_contents(file_raw):
 
     # Split file by deliminter and store as dict
     file_contents = file_raw.split('***')
-    contents = dict(zip(document_sections, file_contents))
+    if len(file_contents) == 3:
+        contents = dict(zip(document_sections_abbr, file_contents))
+    elif len(file_contents) == 4:
+        contents = dict(zip(document_sections, file_contents))
 
     # Split tags sections into individual tags
     contents['violence_tags'] = parse_tags(contents, 'violence_tags')
