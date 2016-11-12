@@ -31,10 +31,10 @@ def parse_tags(contents, tag_name):
 
     tags_raw = contents.get(tag_name, '')
     # Split tags sections into individual tags
-    tags = filter(remove_blank_str, re.split('\n|\r|,', tags_raw))
+    tags = re.split('\n|\r|,', tags_raw)
 
     # Clean individual tags
-    tags = [clean_tag(tag) for tag in tags]
+    tags = filter(remove_blank_str, [clean_tag(tag) for tag in tags])
 
     return tags
 
