@@ -45,6 +45,12 @@ def parse_file_contents(file_raw):
         contents = dict(zip(document_sections_abbr, file_contents))
     elif len(file_contents) == 4:
         contents = dict(zip(document_sections, file_contents))
+    elif len(file_contents) > 4:
+        raise ValueError(
+            'Document has too many sections: ' + str(len(file_contents)))
+    else:
+        raise ValueError(
+            'Document has too few sections: ' + str(len(file_contents)))
 
     # Split tags sections into individual tags
     contents['violence_tags'] = parse_tags(contents, 'violence_tags')
@@ -64,7 +70,13 @@ def parse_files(dirname, verbose=False):
                 print "Reading {}".format(filename)
             with open(os.path.join(dirname, filename)) as f:
                 file_raw = f.read()
-                doc_clean = parse_file_contents(file_raw)
+                try:
+                    doc_clean = parse_file_contents(file_raw)
+                except ValueError as error:
+                    print 'File: ' + str(filename)
+                    print repr(error)
+                except UnicodeDecodeError as err:
+                    print repr(err)
                 docs_clean[filename] = doc_clean
 
     print "Read {} files from directory {}".format(len(docs_clean), dirname)
@@ -72,6 +84,5 @@ def parse_files(dirname, verbose=False):
 
 if __name__ == "__main__":
     docs_clean = parse_files("documents")
-    print docs_clean
     with open('docs_clean.json', 'w') as f:
         json.dump(docs_clean, f)
