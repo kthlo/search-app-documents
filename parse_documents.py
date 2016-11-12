@@ -25,6 +25,7 @@ def clean_tag(tag):
     tag_clean = ' '.join(filter(remove_blank_str, tag.lower().strip().split()))
     tag_clean = ' '.join(filter(remove_blank_str, tag_clean.split('.')))
     tag_clean = tag_clean.replace('\xc2\xa0', ' ').strip()
+    tag_clean = tag_clean.replace('-', ' ')
     return tag_clean
 
 
