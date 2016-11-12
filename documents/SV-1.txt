@@ -1,13 +1,11 @@
+vandalism, gang activities, stealing, weapons use,
+verbal bullying, fighting
+***
 
 
 Morbidity and Mortality Weekly Report
 
 Surveillance Summaries / Vol. 65 / No. 6	June 10, 2016
-
-
-
-vandalism, gang activities, stealing, weapons use,
-***
 
 
 
@@ -17,7 +15,6 @@ United States, 2015
 
 ***
 
-verbal bullying, fighting
 
 
 
@@ -533,7 +530,7 @@ Attempted Suicide
 
 Nationwide, 8.6% of students had attempted suicide one or more times during the 12 months before the survey (Table 27). The prevalence of having attempted suicide was higher among female (11.6%) than male (5.5%) students; higher among white female (9.8%) and Hispanic female (15.1%) than white male (3.7%) and Hispanic male (7.6%) students, respectively; and higher among 9th-grade female (15.1%), 10th-grade female (13.0%), and 11th-grade female (10.2%) than 9th-grade male (5.1%), 10th-grade male (5.7%), and 11th-grade male (5.8%) students, respectively. The prevalence of having attempted suicide was higher among Hispanic (11.3%) than white (6.8%) students, higher among Hispanic female (15.1%) than white female (9.8%) and black female (10.2%) students, and higher among black male (7.2%) and Hispanic male (7.6%) than white male (3.7%) students. The prevalence of having attempted suicide was higher among 9th-grade (9.9%) than 11th-grade (8.0%) students; higher among 9th-grade (9.9%) and 10th-grade (9.4%) than 12th-grade (6.2%) students; higher among 9th-grade female (15.1%) than 11th -grade female (10.2%) students; and higher among 9th-grade female (15.1%), 10th-grade female (13.0%), and 11th-grade female (10.2%) than 12th-grade female (7.2%) students.
 
-During 1991–2015, a significant linear decrease occurred overall in the prevalence of having attempted suicide (7.3%–8.6%). *** A significant quadratic trend was not identified. The prevalence having attempted suicide did not change significantly from 2013 (8.0%) to 2015 (8.6%).
+During 1991–2015, a significant linear decrease occurred overall in the prevalence of having attempted suicide (7.3%–8.6%). ** A significant quadratic trend was not identified. The prevalence having attempted suicide did not change significantly from 2013 (8.0%) to 2015 (8.6%).
 
 Across 35 states, the prevalence of having attempted suicide ranged from 5.9% to 12.7% (median: 9.6%) (Table 28). Across 19 large urban school districts, the prevalence ranged from 6.4% to 20.7% (median: 9.9%).
 
@@ -835,7 +832,7 @@ Tried Marijuana Before Age 13 Years
 
 Nationwide, 7.5% of students had tried marijuana for the first time before age 13 years (Table 53). The prevalence of having tried marijuana before age 13 years was higher among male (9.2%) than female (5.6%) students; higher among white male (6.7%), black male (13.0%), and Hispanic male (13.6%) than white female (4.2%), black female (7.4%), and Hispanic female (8.2%) students, respectively; and higher among 11th-grade male (8.9%) and 12th-grade male (8.5%) than 11th-grade female (4.5%) and 12th-grade female (3.7%) students, respectively. The prevalence of having tried marijuana before age 13 years was higher among black (10.6%) and Hispanic (10.9%) than white (5.4%) students, higher among black female (7.4%) and Hispanic female (8.2%) than white female (4.2%) students, and higher among black male (13.0%) and Hispanic male (13.6%) than white male (6.7%) students. The prevalence of having tried marijuana before age 13 years was higher among 9th-grade (8.5%) and 10th-grade (8.3%) than 12th-grade (6.1%) students and higher among 9th-grade female (6.8%) and 10th-grade female (7.2%) than 11th-grade female (4.5%) and 12th-grade female (3.7%) students.
 
-During 1991–2015, a significant linear decrease occurred overall in the prevalence of having tried marijuana before age 13 years (7.4%-7.5%).*** A significant quadratic trend also was identified. The prevalence of having tried marijuana before age 13 years increased during 1991–1999 (7.4%–11.3%) and then decreased during 1999–2015 (11.3%–7.5%). The prevalence of having tried marijuana before age 13 years did not change significantly from 2013 (8.6%) to 2015 (7.5%).
+During 1991–2015, a significant linear decrease occurred overall in the prevalence of having tried marijuana before age 13 years (7.4%-7.5%).** A significant quadratic trend also was identified. The prevalence of having tried marijuana before age 13 years increased during 1991–1999 (7.4%–11.3%) and then decreased during 1999–2015 (11.3%–7.5%). The prevalence of having tried marijuana before age 13 years did not change significantly from 2013 (8.6%) to 2015 (7.5%).
 
 Across 35 states, the prevalence of having tried marijuana before age 13 years ranged from 5.3% to 16.5% (median: 7.2%) (Table 54). Across 18 large urban school districts, the prevalence ranged from 5.7% to 15.7% (median: 8.9%).
 
@@ -6342,13 +6339,13 @@ The target setting method for this objective was a 10% improvement from the base
 
 ***
 
-has few friends and is often rejected by other children because of his or her behavior 
- 
-makes friends with other children known to be unruly or aggressive 
+has few friends and is often rejected by other children because of his or her behavior
 
-consistently does not listen to adults 
+makes friends with other children known to be unruly or aggressive
 
-not sensitive to the feelings of others 
+consistently does not listen to adults
+
+not sensitive to the feelings of others
 
 cruel or violent toward pets or other animals
 
@@ -6390,9 +6387,9 @@ bullied
 
 gun owner family
 
-trouble paying attention and concentrating 
+trouble paying attention and concentrating
 
-disrupts classroom activities 
+disrupts classroom activities
 
 
 
