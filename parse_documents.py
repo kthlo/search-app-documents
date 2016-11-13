@@ -31,11 +31,15 @@ def clean_tag(tag):
     return tag_clean.strip()
 
 
-def parse_tags(contents, tag_name):
+def parse_tags(contents, tag_name, delim_comma=True):
 
     tags_raw = contents.get(tag_name, '')
+    delims = '\n|\r|\xe2\x80\xa8'
+    if delim_comma:
+        delims = delims + '|,'
+
     # Split tags sections into individual tags
-    tags = re.split('\n|\r|,', tags_raw)
+    tags = re.split(delims, tags_raw)
 
     # Clean individual tags
     tags = filter(remove_blank_str, [clean_tag(tag) for tag in tags])
@@ -60,7 +64,8 @@ def parse_file_contents(file_raw):
 
     # Split tags sections into individual tags
     contents['violence_tags'] = parse_tags(contents, 'violence_tags')
-    contents['search_tags'] = parse_tags(contents, 'search_tags')
+    contents['search_tags'] = parse_tags(
+        contents, 'search_tags', delim_comma=False)
 
     # Return dictionary of cleaned file contents
     return contents
