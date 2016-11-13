@@ -38,6 +38,16 @@ def parse_tags(contents, tag_name, delim_comma=True):
     if delim_comma:
         delims = delims + '|,'
 
+    # Quick fixes
+    tags_raw = tags_raw.replace("intense anger,\rblame, or revenge",
+                                "intense anger, blame, or revenge")
+    tags_raw = tags_raw.replace("intense anger, \rblame, or revenge",
+                                "intense anger, blame, or revenge")
+    tags_raw = tags_raw.replace("intense anger,\nblame, or revenge",
+                                "intense anger, blame, or revenge")
+    tags_raw = tags_raw.replace("intense anger, \nblame, or revenge",
+                                "intense anger, blame, or revenge")
+
     # Split tags sections into individual tags
     tags = re.split(delims, tags_raw)
 
