@@ -100,7 +100,8 @@ def parse_files(dirname, verbose=False):
                     print repr(err)
                 docs_clean[filename] = doc_clean
 
-    print "Read {} files from directory {}".format(len(docs_clean), dirname)
+    if verbose:
+        print "Read {} files from directory {}".format(len(docs_clean), dirname)
     return docs_clean
 
 if __name__ == "__main__":
