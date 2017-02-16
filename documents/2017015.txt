@@ -1,0 +1,10729 @@
+
+
+vandalismverbal bullying
+intimidation•••
+
+ 2015 School
+Crime Supplement 
+•••
+(SCS) to the National Crime
+Victimization Survey (NCVS).1 The Web Tables
+show the extent to which students with different
+personal characteristics report being bullied.
+Estimates include responses by student
+characteristics: student sex, race/ethnicity, grade,
+and household income. The U.S. Census Bureau
+(Census) appended additional data from the
+2013–14 Common Core of Data (CCD) and the
+2013–14 Private School Universe Survey (PSS) to
+the SCS to show the extent to which bullying
+victimization is reported by students in schools
+with different characteristics.2 School
+characteristics appended to the file are region;
+sector (public or private); locale; level; enrollment
+size; student-to-full-time-equivalent (FTE) teacher
+ratio; percentage of combined American
+Indian/Alaska Native, Asian/ Native
+Hawaiian/Other Pacific Islander, Black/African
+American, Hispanic/Latino, and students of Two or
+more races; and percentage of students eligible
+for free or reduced-priced lunch. Not all
+respondents in the SCS data file could be matched
+to a school in the CCD or the PSS.
+The SCS data tables show the relationship
+between reported bullying victimization and other
+crime-related variables, such as reported
+presence of gangs, guns, drugs, and alcohol, and
+hate-related graffiti at school; selected school
+security measures; student criminal victimization;
+and personal fear, avoidance behaviors, fighting,
+and weapon carrying at school.
+These Web Tables were prepared for the National Center for Education Statistics
+under Contract No. ED-IES-12D-0010/0004 with Synergy Enterprises, Incorporated (SEI).
+Mention of trade names, commercial products, or organizations does not imply
+endorsement by the U.S. Government. This Web Table Report was prepared by
+Deborah Lessne and Christina Yanez of SEI.
+
+The 2015 SCS included an embedded, randomized
+split-half experiment to compare two versions of
+an updated series of questions on bullying
+victimization.3 The updated questions were
+designed to collect additional data that align with
+the Centers for Disease Control and Prevention
+(CDC) and U.S. Department of Education’s uniform
+definition of bullying released in 2013.4 To
+maintain comparability with previous
+administrations of the SCS, these Web Tables
+include only data from respondents who received
+Version 1 of the SCS. Version 1 used the same
+question format for determining bullying
+victimization as the 2005, 2007, 2009, 2011 and
+2013 administrations. Analysis of the respondents
+on both versions of the survey administered in
+2015 indicates that the populations are similar
+based on distributions for key variables, including
+respondent age, sex, race, grade, and school
+characteristics.
+The tables are grouped into three sections.
+Section 1 is an overview table, showing the
+number and percentage of students ages 12
+through 18 who reported being bullied at school
+by type of bullying experienced (table 1.1).
+Section 2 displays estimates for the reported
+locations in school at which bullying victimization
+occurred, and the percentage distribution of the
+frequency, type, and impacts of bullying
+victimization reported by students ages 12
+
+through 18, by selected student and school
+characteristics (tables 2.1–2.10).
+
+specified in a set of SCS screening questions.
+These criteria require students to be currently
+enrolled in a primary or secondary education
+program leading to a high school diploma or
+enrolled sometime during the school year of the
+interview; not enrolled in fifth grade or under5;
+and not exclusively homeschooled during the
+school year.6
+
+Section 3 displays the percentages of students
+who reported being bullied at school by student
+reports of other unfavorable school conditions;
+selected school security measures; criminal
+victimization at school; and personal fear,
+avoidance behaviors, fighting, and weapon
+carrying at school (tables 3.1–3.4).
+
+To be included in this report, additional criteria
+were applied. Students had to be enrolled in
+grades 6 through 12, and could not have received
+any part of their education through
+homeschooling during the school year.
+
+Data
+
+The estimates presented in the tables originate
+from the 2015 SCS to the NCVS. The SCS collects
+information about student and school
+characteristics related to criminal victimization on
+a national level. The SCS was conducted in 1989,
+1995, and biennially since 1999 as a supplement
+to the NCVS. Census selects addresses for the
+NCVS using a stratified, multistage cluster
+sampling design. Within the sample, all persons in
+the household ages 12 and older participate in the
+NCVS every 6 months (for a total of seven
+interviews over a 3-year period) to determine the
+extent of their victimization during the 6 months
+preceding the interview.
+
+In 2015, a total of 2,694 NCVS respondents were
+screened for Version 1 of the 2015 SCS, 2,344 met
+the criteria for completing the survey, and 2,317
+met the additional criteria for inclusion in this
+report.7 Details about specific variables used to
+define the report criteria appear in the glossary.
+All interviews for the 2015 NCVS/SCS are
+administered using computer assisted
+interviewing. Among newly sampled NCVS
+households, the NCVS/SCS interview is
+administered face-to-face while interviews with
+recurring households are administered face-toface or by telephone.
+
+Respondents complete the SCS after finishing the
+NCVS basic questionnaire and crime incident
+report. All NCVS respondents between the ages of
+12 and 18 are eligible to complete the SCS. The
+SCS is administered between January and June of
+the year of data collection. In 2015, approximately
+57,227 sampled households were eligible to
+participate in the NCVS, and those NCVS
+households included 9,372 members between the
+ages of 12 and 18. The 2015 SCS was administered
+in two different versions. Prior to administration,
+households were randomly assigned to receive
+one of two versions of the SCS survey. All
+members of the same household received the
+same version of the survey. Version 1 was
+assigned to 4,663 household members, and
+Version 2 was assigned to 4,709 household
+members. Only household members who received
+Version 1 of the survey are included in this report
+so that estimates of bullying victimization are
+comparable to previous years. After completing
+the NCVS, the 12- to 18-year-olds in participating
+households must also meet certain criteria
+
+The survey data file used to produce the SCS
+estimates, as well as the SCS questionnaire, are
+available for download through the InterUniversity Consortium for Political and Social
+Research (ICPSR) via the Student Surveys link at
+the NCES Crime and Safety Surveys portal, located
+at http://nces.ed.gov/programs/crime. The final
+data file is available in multiple software formats
+and contains variables collected in the SCS and
+cleared for release. Additionally, selected
+variables that were collected in the NCVS Basic
+Screen Questionnaire (NCVS-1) and NCVS Crime
+Incident Report (NCVS-2), and selected school
+characteristics from the CCD or PSS are appended
+to the SCS data file.
+The statistical programs used to calculate the
+population estimates, percentages, and standard
+errors for the Web Tables were SAS 9.3 and SASCallable SUDAAN Release 11.0. The model applied
+
+2
+
+in the calculation of standard errors was the
+Taylor series method with replacement and
+clustering (NEST variables PSEUDOSTRATUM and
+SEUCODE) using WEIGHT variable SCS PERSON
+WEIGHT doubled for the analysis of only Version 1
+respondents from the split sample administration.
+
+Northeast had significantly lower response bias
+estimates compared to other race and region
+subgroups. Based on the analysis, Census
+concluded that there are significant nonresponse
+biases in the 2015 SCS data. Readers should use
+caution when comparing responses among
+subgroups in the SCS.
+
+Response rates
+
+Other data sources
+
+Unit response rates were calculated by Census
+using the full response population (those receiving
+Version 1 and Version 2). Because the SCS
+interview is conducted with students after their
+households have responded to the NCVS, the unit
+completion rate for the SCS reflects both the
+household interview completion rate (82.5
+percent) and the student interview completion
+rate (57.8 percent). The overall weighted SCS unit
+response rate (calculated by multiplying the
+household completion rate by the student
+completion rate) was 47.7 percent.
+
+The characteristics of the schools attended by SCS
+respondents appear in tables 2.2, 2.4, 2.6, 2.8, and
+2.10. In the SCS interview, respondents provided
+the school name, school location, and other
+information that was linked to school data in the
+2013–14 CCD or 2013–14 PSS. Census captured
+the school characteristics from those external
+datasets and appended school characteristic
+variables into the SCS data set. Further
+information about the CCD is available at
+http://nces.ed.gov/ccd/ and information on the
+PSS is available at
+http://nces.ed.gov/surveys/pss/. Readers should
+note that data are weighted to be representative
+of youth ages 12 through 18 in U.S. households
+only. School characteristics are not included in
+the weighting process and estimates by school
+characteristics are presented for descriptive
+purposes only.
+
+Furthermore, as in most surveys, some individuals
+did not give a response to every item. However,
+individual item response rates for the 2015 SCS
+were high—the unweighted item response rates
+for all Version 1 respondents on all items included
+in this report exceeded 85 percent. On the
+majority of items, the response rate was 95
+percent or higher.
+
+Missing data
+
+When calculating column totals, readers should
+note that there are several sources of missing
+data. In the responses for Version 1, 33 student
+records were missing responses on all subparts of
+the bullying victimization indicator (SC134-SC140).
+These students were excluded from all Web
+Tables and represent a total weighted number of
+about 379,000 students missing bullying
+victimization information. The total weighted
+number of students with bullying victimization
+data is 24,243,000. Due to the missing data, table
+details do not reflect the total weighted student
+population of the Version 1 SCS (24,622,000).
+Among the 2,284 SCS students included in the
+bullying analysis, 2,203 (or 96.5 percent) were
+matched to schools on the CCD or PSS files. The
+remaining 81 students, who represent
+approximately 859,000 students when sample
+weights are applied, could not be matched to
+schools and were excluded from the tables
+
+NCES requires that any stage of data collection
+within a survey that has a base-weighted response
+rate of less than 85 percent be evaluated for
+nonresponse bias before the data or any analyses
+are released. For the 2015 SCS, Census completed
+a unit nonresponse bias analysis.8 Respondents on
+both versions of the survey were included in the
+analysis. The unit nonresponse bias analysis takes
+into account nonresponse on both the NCVS and
+the SCS. For the 2015 NCVS interview, Census
+found evidence of unit nonresponse bias within
+Hispanic origin, urbanicity, region and age
+subgroups. Within the SCS portion of the
+interview, race, urbanicity, region and age
+subgroups showed significant unit nonresponse
+bias. Further analysis indicated that respondents
+in the age 14 and the rural subgroups had
+significantly higher nonresponse bias estimates
+compared to other age and urbanicity subgroups,
+while respondents who were Asian and from the
+
+3
+
+showing school characteristics (tables 2.2, 2.4, 2.6,
+2.8, and 2.10). Additional sources of missing data
+should be considered when examining the tables.
+In the SCS data file, only student characteristic
+variables taken from the NCVS (sex, race, income)
+include edited and imputed values. All school
+characteristic and student response variables may
+have missing values which are not shown in these
+tables.
+
+Students in ungraded programs can complete
+the SCS.
+6 Persons who have dropped out of school, have
+been expelled or suspended from school, or are
+temporarily absent from school for any other
+reason, such as illness or vacation, can complete
+the SCS as long as they have attended school at
+any time during the school year of the interview.
+7 The 27 respondents who completed Version 1 of
+the survey but did not meet the criteria for
+inclusion in the report are 13 partially
+homeschooled students, 5 students in ungraded
+classrooms, and 9 students for whom grade was
+missing.
+8 Memorandum for Michael Planty and Rachel
+Hansen from James B. Treat, Subject: National
+Crime Victimization Survey: Nonresponse Bias
+Report for the 2015 School Crime Supplement,
+March 24, 2016.
+5
+
+For more information, contact
+Rachel Hansen
+Project Officer
+National Center for Education Statistics
+550 12th St., SW
+Room 4012
+Washington, DC 20202
+(202) 245-7082
+Rachel.Hansen@ed.gov
+
+___________________________________________
+ENDNOTES
+
+The SCS data are available for download through
+the Inter-University Consortium for Political and
+Social Research (ICPSR) via the Student Surveys
+link at the National Center for Education Statistics
+(NCES) Crime and Safety Survey portal, located at
+http://nces.ed.gov/programs/crime.
+2 Prior to 2015, appended school characteristic
+data was not available for public use. Estimates of
+responses by school characteristic data were
+provided by Census for reports prior to 2015.
+3 For a complete discussion of the split-half
+methodology and results see Lessne, D., and
+Cidade, M. (2017). Methodology Report: Split-Half
+Administration of the 2015 School Crime
+Supplement to the National Crime Victimization
+Survey (NCES 2017-004). U.S. Department of
+Education, Washington, DC. National Center for
+Education Statistics.
+4 For a review the uniform definition components
+see Gladden, R.M., Vivolo-Kantor, A.M.,
+Hamburger, M.E., and Lumpkin C.D. (2013).
+Bullying Surveillance Among Youths: Uniform
+Definitions for Public Health and Recommended
+Data Elements, Version 1.0. Atlanta, GA; National
+Center for Injury Prevention and Control, Centers
+for Disease Control and Prevention and U.S.
+Department of Education.
+1
+
+4
+
+National Center for Education Statistics
+Table 1.1
+
+Number and percentage distribution of students ages 12 through 18 who reported being bullied at
+school, by type of bullying: School year 2014–15
+
+Type of bullying reported
+
+Estimated number of students
+
+Percent of students
+
+Total bullied and not bullied
+24,243,000
+100.0
+Bullied
+5,041,000
+20.8
+Made fun of, called names, or insulted
+3,223,000
+13.3
+Subject of rumors
+2,968,000
+12.2
+Threatened with harm
+941,000
+3.9
+Pushed, shoved, tripped, or spit on
+1,235,000
+5.1
+Tried to make do things they did not want to do
+607,000
+2.5
+Excluded from activities on purpose
+1,220,000
+5.0
+Property destroyed on purpose
+440,000
+1.8
+Not bullied
+19,202,000
+79.2
+NOTE: Tabular data include only students who reported being enrolled in grades 6 through 12 and not receiving any of their
+education through homeschooling during the school year reported. Bullied “at school” includes the school building, school
+property, school bus, or going to and from school. Numbers reporting bullying types sum to more than total reported because
+students could have reported more than one type of bullying. Total bullied and not bullied is based on respondents for whom
+data on bullying are available. Population estimate based on Version 1 of the 2015 SCS for all students meeting the age, grade
+and school criteria is 24,622,000.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National
+Crime Victimization Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents
+completing Version 1 of the survey are included in these estimates. A complete discussion of the split-half methodology and
+results can be found at http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T-1
+
+National Center for Education Statistics
+Table S1.1
+
+Standard errors for table 1.1: Number and percentage distribution of students ages 12 through 18 who
+reported being bullied at school, by type of bullying: School year 2014–15
+
+Type of bullying reported
+
+Estimated number of students
+
+Percent of students
+
+Total bullied and not bullied
+763,200
+†
+Bullied
+292,400
+0.99
+Made fun of, called names, or insulted
+238,100
+0.87
+Subject of rumors
+220,200
+0.83
+Threatened with harm
+109,800
+0.44
+Pushed, shoved, tripped, or spit on
+116,200
+0.49
+Tried to make do things they did not want to do
+89,400
+0.36
+Excluded from activities on purpose
+129,600
+0.52
+Property destroyed on purpose
+72,200
+0.30
+Not bullied
+644,100
+0.99
+† Not applicable.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime
+Victimization Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing
+Version 1 of the survey are included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T-2
+
+National Center for Education Statistics
+
+Table 2.1 Number and percentage distribution of students ages 12 through 18 who reported being bullied at school, by
+location of bullying and selected student characteristics: School year 2014–15
+Among students who reported being bullied: Location of bullying
+
+Student characteristic
+Total bullied and
+not bullied
+
+Estimated
+number
+of students Not bullied Bullied
+
+In a
+classroom
+
+In a
+hallway or
+stairwell
+
+In a
+bathroom/
+locker
+room
+
+Cafeteria at
+school
+
+Outside on
+school
+grounds
+
+School
+bus
+
+Online
+or by
+text
+
+24,243,000
+
+79.2
+
+20.8
+
+33.6
+
+41.7
+
+9.4
+
+22.2
+
+19.3
+
+10.0
+
+11.5
+
+12,208,000
+12,036,000
+
+81.2
+77.2
+
+18.8
+22.8
+
+35.1
+32.4
+
+41.8
+41.6
+
+14.0
+5.6
+
+22.8
+21.7
+
+23.6
+15.8
+
+13.8
+6.8
+
+6.1
+15.9
+
+White, not Hispanic
+or Latino
+
+12,960,000
+
+78.4
+
+21.6
+
+32.6
+
+44.3
+
+9.4
+
+22.4
+
+19.6
+
+12.7
+
+13.5
+
+Black, not Hispanic
+or Latino
+Hispanic or Latino
+
+3,319,000
+5,941,000
+
+75.3
+82.8
+
+24.7
+17.2
+
+30.2
+33.8
+
+48.0
+32.2
+
+‡
+7.3
+
+20.7
+21.7
+
+18.2
+20.0
+
+‡
+9.9!
+
+Asian, not Hispanic
+or Latino
+
+1,151,000
+
+84.4
+
+15.6
+
+51.5
+
+35.3
+
+25.2 !
+
+‡
+
+‡
+
+#
+
+All other races, not
+Hispanic or Latino
+
+873,000
+
+74.1
+
+25.9
+
+43.8
+
+36.0
+
+13.6 !
+
+33.5 !
+
+23.1!
+
+#
+
+28.4 !
+
+2,029,000
+3,766,000
+3,870,000
+3,961,000
+3,749,000
+3,699,000
+3,169,000
+
+69.0
+74.9
+77.8
+81.0
+78.8
+84.2
+85.1
+
+31.0
+25.1
+22.2
+19.0
+21.2
+15.8
+14.9
+
+37.4
+39.1
+30.3
+38.4
+33.5
+29.4
+21.1
+
+26.3
+45.5
+51.1
+37.0
+40.6
+39.9
+49.0
+
+8.2
+12.2
+13.3
+13.8
+‡
+10.1
+‡
+
+21.1
+22.2
+26.0
+23.4
+17.7
+17.5 !
+28.6
+
+34.0
+22.4
+15.7
+‡
+14.4!
+30.9
+14.2!
+
+16.1!
+14.1
+8.7!
+14.2
+‡
+‡
+‡
+
+‡
+8.1 !
+15.5
+‡
+18.1
+11.2 !
+18.7 !
+
+937,000
+1,436,000
+2,376,000
+2,713,000
+3,739,000
+13,042,000
+
+76.8
+76.1
+78.1
+75.6
+78.2
+81.0
+
+23.2
+23.9
+21.9
+24.4
+21.8
+19.0
+
+20.7
+29.0
+40.1
+31.9
+36.8
+33.5
+
+62.0
+45.5
+42.0
+38.2
+35.9
+42.2
+
+17.9
+‡
+10.6
+10.3
+8.8
+8.6
+
+17.4 !
+20.3 !
+20.4
+21.8
+16.8
+25.3
+
+‡
+20.1!
+23.4
+23.9
+20.2
+16.9
+
+‡
+‡
+‡
+9.7!
+12.1!
+10.1
+
+‡
+#
+‡
+11.9 !
+19.7
+11.7
+
+Sex
+Male
+Female
+Race/ethnicity1
+
+‡
+11.1 !
+#
+
+Grade2
+6th
+7th
+8th
+9th
+10th
+11th
+12th
+Household income
+Less than $7,500
+$7,500–14,999
+$15,000–24,999
+$25,000–34,999
+$35,000–49,999
+$50,000 or more
+
+!
+!
+!
+!
+
+!
+!
+!
+!
+
+# Rounds to zero.
+! Interpret data with caution. The standard error for this estimate is 30 to 50 percent of the estimate’s value.
+‡ Reporting standards not met. The standard error for this estimate is equal to 50 percent or more of the estimate’s value.
+1 Respondents who identified themselves as being of Hispanic or Latino origin were classified as “Hispanic or Latino,” regardless of their race. “Black, not
+Hispanic or Latino” includes African Americans. “All other races, not Hispanic or Latino” includes Native Hawaiians or Other Pacific Islanders, American
+Indians or Alaska Natives, and respondents of Two or more races (8 percent of all respondents).
+2 The School Crime Supplement sample includes students ages 12–18 and, therefore, might not be representative of students in 6th grade. Comparisons
+between students in 6th grade and those in other grades should be made with caution.
+NOTE: Tabular data include only students who reported being enrolled in grades 6 through 12 and not receiving any of their education through
+homeschooling during the school year reported. “Bullied” includes students who reported being made fun of, called names, or insulted; being the subject of
+rumors; being threatened with harm; being pushed, shoved, tripped, or spit on; being pressured into doing things they did not want to do; being excluded
+from activities on purpose; and having property destroyed on purpose. “At school” includes the school building, school property, school bus, or going to
+and from school. Location totals may sum to more than 100 percent because students could have been bullied in more than one location. Detail may not
+sum to totals because of rounding and missing data. Total bullied and not bullied is based on respondents for whom data on bullying are available.
+Population estimate based on Version 1 of the 2015 SCS for all students meeting the age, grade and school criteria is 24,622,000.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime Victimization
+Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1 of the survey are
+included in these estimates. A complete discussion of the split-half methodology and results can be found at http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T-3
+
+National Center for Education Statistics
+Table S2.1
+
+Standard errors for table 2.1: Number and percentage distribution of students ages 12 through 18 who
+reported being bullied at school, by location of bullying and selected student characteristics: School year
+2014-15
+Among students who reported being bullied: Location of bullying
+In a
+In a bathroom/
+hallway or
+locker
+room
+stairwell
+
+Outside
+Cafeteria on school
+at school grounds
+
+Estimated
+number of
+students
+
+Not
+bullied
+
+Bullied
+
+In a
+classroom
+
+763,200
+
+0.99
+
+0.99
+
+2.46
+
+2.30
+
+1.37
+
+2.12
+
+484,300
+460,800
+
+1.31
+1.39
+
+1.31
+1.39
+
+3.50
+3.12
+
+3.28
+2.99
+
+2.49
+1.54
+
+White, not Hispanic
+or Latino
+
+539,300
+
+1.43
+
+1.43
+
+3.16
+
+3.21
+
+Black, not Hispanic
+or Latino
+Hispanic or Latino
+
+326,400
+406,700
+
+3.29
+1.58
+
+3.29
+1.58
+
+6.05
+5.32
+
+Asian, not Hispanic
+or Latino
+
+124,300
+
+4.02
+
+4.02
+
+All other races, not
+Hispanic or Latino
+
+125,900
+
+4.91
+
+156,600
+236,300
+219,100
+214,800
+221,700
+221,200
+200,900
+
+3.53
+2.48
+2.41
+2.11
+2.13
+2.24
+2.18
+
+Student characteristic
+Total bullied and
+not bullied
+Sex
+Male
+Female
+
+School
+bus
+
+Online or
+by text
+
+1.82
+
+1.58
+
+1.67
+
+3.08
+2.89
+
+2.92
+2.27
+
+2.76
+1.69
+
+1.71
+2.61
+
+1.97
+
+2.79
+
+2.41
+
+2.34
+
+2.49
+
+6.23
+5.27
+
+†
+2.16
+
+5.45
+4.50
+
+5.27
+4.14
+
+†
+3.43
+
+†
+3.40
+
+12.35
+
+13.63
+
+10.64
+
+†
+
+†
+
+†
+
+†
+
+4.91
+
+9.15
+
+10.39
+
+6.34
+
+11.11
+
+8.82
+
+†
+
+8.52
+
+3.53
+2.48
+2.41
+2.11
+2.13
+2.24
+2.18
+
+6.97
+5.55
+5.72
+6.91
+6.11
+5.98
+6.50
+
+6.05
+5.06
+6.08
+6.10
+5.42
+7.38
+8.29
+
+3.66
+3.52
+4.44
+4.45
+†
+4.02
+†
+
+4.87
+4.54
+5.01
+4.94
+4.44
+5.55
+7.32
+
+7.13
+4.19
+4.23
+†
+4.77
+6.65
+5.60
+
+5.74
+3.59
+3.60
+4.90
+†
+†
+†
+
+†
+3.83
+4.06
+†
+5.09
+4.19
+6.83
+
+Race/ethnicity
+
+Grade
+6th
+7th
+8th
+9th
+10th
+11th
+12th
+
+Household income
+Less than $7,500
+151,000
+4.86
+4.86
+8.82
+13.58
+8.56
+8.29
+†
+†
+†
+$7,500–14,999
+188,400
+5.72
+5.72
+10.35
+9.06
+†
+7.37
+7.69
+†
+†
+$15,000–24,999
+228,300
+3.06
+3.06
+8.69
+7.45
+4.43
+6.10
+5.58
+†
+†
+$25,000–34,999
+218,700
+2.74
+2.74
+5.01
+6.83
+4.08
+5.29
+5.59
+3.89
+4.53
+$35,000–49,999
+281,900
+2.61
+2.61
+5.81
+6.12
+3.37
+4.55
+4.43
+4.34
+5.38
+$50,000 or more
+557,400
+1.30
+1.30
+3.28
+3.22
+2.02
+2.86
+2.77
+2.36
+2.27
+† Not applicable.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime Victimization
+Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1 of the survey are
+included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T-4
+
+National Center for Education Statistics
+Table 2.2
+
+Number and percentage distribution of students ages 12 through 18 who reported being bullied at school, by
+location of bullying and selected school characteristics: School year 2014–15
+Among students who reported being bullied: Location of bullying
+In a
+In a
+Outside
+hallway bathroom/
+locker Cafeteria on school
+or
+room at school grounds
+stairwell
+
+Estimated
+number of
+students
+
+Not
+bullied
+
+Bullied
+
+In a
+classroom
+
+23,384,000
+
+79.1
+
+20.9
+
+34.3
+
+41.0
+
+9.5
+
+22.5
+
+19.1
+
+10.3
+
+11.6
+
+3,714,000
+5,749,000
+8,449,000
+5,471,000
+
+81.7
+76.5
+78.8
+80.4
+
+18.3
+23.5
+21.2
+19.6
+
+52.7
+36.5
+31.1
+25.3
+
+33.8
+49.2
+49.1
+22.4
+
+9.6 !
+7.3 !
+12.0
+8.1
+
+25.2
+28.0
+21.0
+16.9
+
+14.2 !
+19.0
+10.9
+35.6
+
+12.9!
+7.6!
+12.4
+8.4!
+
+10.4!
+7.5
+13.3
+14.6
+
+22,050,000
+1,334,000
+499,000
+230,000
+330,000
+
+78.7
+84.7
+81.3
+79.8
+90.7
+
+21.3
+15.3
+18.7 !
+20.2 !
+‡
+
+34.0
+41.6
+41.8 !
+47.8 !
+#
+
+41.1
+36.8 !
+55.7
+‡
+‡
+
+9.6
+‡
+‡
+‡
+#
+
+22.3
+28.4!
+48.0!
+#
+‡
+
+18.8
+26.1 !
+30.6 !
+#
+‡
+
+10.4
+‡
+#
+#
+‡
+
+11.2
+21.3!
+‡
+#
+‡
+
+Locale
+City
+Suburb
+Town
+Rural
+
+7,091,000
+9,090,000
+2,491,000
+4,701,000
+
+78.7
+78.7
+79.7
+80.0
+
+21.3
+21.3
+20.3
+20.0
+
+37.9
+30.0
+36.1
+36.2
+
+39.7
+39.0
+44.7
+44.9
+
+7.6 !
+8.7
+8.0 !
+14.9
+
+21.7
+25.3
+15.4!
+22.4
+
+23.2
+16.3
+18.1 !
+18.6
+
+11.2
+11.5
+‡
+9.1!
+
+10.5
+11.1
+12.9!
+13.7!
+
+Level1
+Primary
+Middle
+High
+Other
+
+1,227,000
+7,296,000
+13,292,000
+1,229,000
+
+78.2
+74.1
+81.1
+85.7
+
+21.8
+25.9
+18.9
+14.3
+
+43.9
+36.0
+31.4
+29.7 !
+
+29.6 !
+44.2
+40.7
+37.9 !
+
+‡
+13.6
+7.7
+‡
+
+22.6!
+24.4
+20.7
+33.5!
+
+26.8 !
+22.6
+14.9
+25.9 !
+
+‡
+12.5
+8.2
+‡
+
+‡
+9.1
+13.6
+‡
+
+2,208,000
+4,510,000
+5,940,000
+4,373,000
+3,043,000
+3,127,000
+
+78.6
+78.8
+76.3
+79.9
+79.5
+83.5
+
+21.4
+21.2
+23.7
+20.1
+20.5
+16.5
+
+35.1
+44.1
+32.6
+26.8
+38.9
+26.4
+
+33.1
+40.0
+45.6
+46.6
+31.6
+37.6
+
+‡
+‡
+17.2
+12.3
+9.0 !
+‡
+
+18.1
+18.6
+26.3
+19.1
+31.1
+19.4
+
+32.0
+16.4
+22.5
+15.8
+13.6 !
+14.5 !
+
+‡
+7.1!
+13.8
+13.6!
+‡
+12.1!
+
+‡
+11.5!
+12.6
+13.6!
+18.3!
+‡
+
+3,607,000
+
+75.1
+
+24.9
+
+43.0
+
+39.4
+
+5.1 !
+
+18.6
+
+18.7
+
+10.4!
+
+10.7
+
+5,908,000
+
+80.1
+
+19.9
+
+31.7
+
+51.1
+
+12.5
+
+22.7
+
+14.0
+
+16.2
+
+13.8!
+
+7,469,000
+5,338,000
+
+78.7
+79.8
+
+21.3
+20.2
+
+35.7
+25.8
+
+43.3
+28.8
+
+11.6
+8.4
+
+30.0
+14.5
+
+13.9
+31.9
+
+8.7
+7.0!
+
+School characteristic
+Total bullied and
+not bullied
+Region
+Northeast
+Midwest
+South
+West
+Sector
+Public
+Private
+Catholic
+Other religious
+Nonsectarian
+
+Enrollment size
+Less than 300
+300–599
+600–999
+1,000–1,499
+1,500–1,999
+Student-to-full-timeequivalent (FTE)
+teacher ratio
+Less than 13 students
+13 to less than 16
+students
+16 to less than 20
+students
+20 or more students
+See notes at end of table.
+
+T-5
+
+School Online or
+bus
+by text
+
+11.4
+10.8 !
+
+National Center for Education Statistics
+Table 2.2
+
+Number and percentage distribution of students ages 12 through 18 who reported being bullied at school, by
+location of bullying and selected school characteristics: School year 2014–15—Continued
+Among students who reported being bullied: Location of bullying
+
+Bullied
+
+In a
+classroom
+
+In a
+hallway
+or
+stairwell
+
+In a
+bathroom/
+locker
+room
+
+81.4
+
+18.6
+
+33.3
+
+30.7
+
+‡
+
+5,173,000
+
+82.3
+
+17.7
+
+26.6
+
+52.5
+
+7.5 !
+
+6,822,000
+9,364,000
+
+74.8
+79.7
+
+25.2
+20.3
+
+37.7
+34.3
+
+40.8
+37.6
+
+3,242,000
+
+84.7
+
+15.3
+
+19.1 !
+
+47.6
+
+Estimated
+number of
+students
+
+Not
+bullied
+
+1,579,000
+
+5 to less than 20
+percent
+20 to less than 50
+percent
+50 percent or more
+
+School characteristic
+Percent of combined
+American Indian/
+Alaska Native, Asian/
+Native Hawaiian/
+Other Pacific Islander,
+Black/African
+American, Hispanic/
+Latino, and Two or
+more races students
+Less than 5 percent
+
+Outside
+Cafeteria on school
+at school grounds
+
+School
+bus
+
+Online
+
+‡
+
+‡
+
+‡
+
+26.7
+
+22.8
+
+14.0
+
+10.9!
+
+9.4
+12.3
+
+25.8
+19.3
+
+19.1
+18.1
+
+9.5
+8.9
+
+16.1
+7.3
+
+‡
+
+28.1
+
+25.1
+
+‡
+
+‡
+
+13.9 !
+
+Percent of students
+eligible for free or
+reduced-price
+lunch2
+0 to less than 20
+percent
+
+20 to less than 50
+percent
+8,479,000
+77.9
+22.1
+35.1
+39.0
+10.9
+22.5
+17.4
+12.8
+15.3
+50 percent or more
+10,103,000
+77.5
+22.5
+35.8
+41.4
+9.6
+21.1
+18.6
+8.6
+8.7!
+# Rounds to zero.
+! Interpret data with caution. The standard error for this estimate is 30 to 50 percent of the estimate’s value.
+‡ Reporting standards not met. The standard error for this estimate is equal to 50 percent or more of the estimate’s value.
+1
+The School Crime Supplement sample includes students ages 12–18 who were enrolled in grades 6–12 and, therefore, might not be representative
+of students in primary schools. Comparisons between students in primary schools and those in other school levels should be made with caution.
+2
+Data on free or reduced-price lunch eligibility are only available for public schools.
+NOTE: Tabular data include only students who reported being enrolled in grades 6 through 12 and not receiving any of their education through
+homeschooling during the school year reported. “Bullied” includes students who reported being made fun of, called names, or insulted; being the
+subject of rumors; being threatened with harm; being pushed, shoved, tripped, or spit on; being pressured into doing things they did not want to do;
+being excluded from activities on purpose; and having property destroyed on purpose. “At school” includes the school building, school property,
+school bus, or going to and from school. Location totals may sum to more than 100 percent because students could have been bullied in more than
+one location. Total bullied and not bullied are reported for respondents for whom data on school and bullying are available. No school match was
+available for 859,000 students. Additional missing and not applicable school characteristic data are not shown for locale; school level; enrollment
+size; student to FTE teacher ratio; percent of combined American Indian/Alaska Native, Asian/Native, Hawaiian/Other Pacific Islander, Black/African
+American, Hispanic/Latino, and Two or more races students; and percent of students eligible for free or reduced price lunch. Detail may not sum to
+totals because of rounding and these missing data. Population estimate based on Version 1 of the 2015 SCS for all students meeting the criteria the
+age, grade and school criteria is 24,622,000.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime Victimization
+Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1 of the survey are
+included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T-6
+
+National Center for Education Statistics
+Table S2.2
+
+Standard errors for table 2.2: Number and percentage distribution of students ages 12 through 18 who
+reported being bullied at school, by location of bullying and selected school characteristics: School year
+2014–15
+Among students who reported being bullied: Location of bullying
+In a
+In a bathroom/
+locker
+In a class- hallway or
+room
+stairwell
+Bullied
+room
+
+Outside
+Cafeteria on school
+grounds
+at school
+
+Estimated
+number of
+students
+
+Not
+bullied
+
+748,400
+
+1.01
+
+1.01
+
+2.48
+
+2.36
+
+1.40
+
+2.15
+
+Region
+Northeast
+Midwest
+South
+West
+
+271,500
+375,900
+455,700
+377,200
+
+2.30
+2.00
+1.97
+1.62
+
+2.30
+2.00
+1.97
+1.62
+
+6.78
+3.44
+4.32
+4.32
+
+6.76
+4.15
+3.96
+3.68
+
+3.79
+2.56
+2.96
+1.43
+
+Sector
+Public
+Private
+Catholic
+Other religious
+Nonsectarian
+
+734,400
+152,400
+95,200
+57,700
+64,300
+
+1.05
+3.43
+6.20
+8.43
+5.81
+
+1.05
+3.43
+6.20
+8.43
+†
+
+2.45
+12.29
+19.52
+23.79
+†
+
+2.40
+11.14
+16.17
+†
+†
+
+Locale
+City
+Suburb
+Town
+Rural
+
+456,600
+465,800
+263,800
+358,400
+
+1.73
+1.55
+3.00
+2.53
+
+1.73
+1.55
+3.00
+2.53
+
+3.67
+4.25
+7.65
+5.17
+
+Level
+Primary
+Middle
+High
+Other
+
+130,600
+359,100
+513,000
+145,900
+
+3.85
+1.90
+1.21
+3.43
+
+3.85
+1.90
+1.21
+3.43
+
+222,300
+308,100
+340,500
+318,800
+238,300
+231,100
+
+2.81
+2.27
+1.86
+2.28
+2.85
+2.65
+
+316,800
+
+13 to less than 16
+students
+
+380,500
+
+16 to less than 20
+students
+
+446,700
+
+1.85
+
+1.85
+
+4.32
+
+3.89
+
+2.80
+
+4.10
+
+3.01
+
+2.42
+
+3.06
+
+20 or more students
+
+402,900
+
+1.80
+
+1.80
+
+4.61
+
+4.53
+
+1.49
+
+3.12
+
+4.44
+
+2.92
+
+4.13
+
+School characteristic
+Total bullied and
+not bullied
+
+Enrollment size
+Less than 300
+300–599
+600–999
+1,000–1,499
+1,500–1,999
+2,000 or more
+Student-to-full-timeequivalent (FTE)
+teacher ratio
+Less than 13 students
+
+School
+bus
+
+Online or
+by text
+
+1.81
+
+1.63
+
+1.68
+
+6.63
+4.63
+3.54
+3.60
+
+4.89
+3.47
+2.26
+3.64
+
+5.14
+2.79
+2.69
+3.23
+
+3.63
+2.23
+3.24
+3.67
+
+1.45
+†
+†
+†
+†
+
+2.16
+11.84
+19.70
+†
+†
+
+1.84
+10.10
+14.21
+†
+†
+
+1.66
+†
+†
+†
+†
+
+1.72
+10.14
+†
+†
+†
+
+4.09
+3.76
+8.70
+5.36
+
+2.62
+1.78
+3.67
+4.21
+
+3.67
+3.32
+6.10
+4.68
+
+3.94
+2.96
+5.54
+4.01
+
+2.84
+2.90
+†
+3.05
+
+2.34
+2.54
+4.26
+4.79
+
+10.38
+4.11
+3.19
+10.92
+
+9.08
+3.85
+3.45
+11.53
+
+†
+2.76
+1.71
+†
+
+8.34
+3.23
+2.97
+11.10
+
+8.93
+3.42
+2.63
+11.00
+
+†
+2.89
+2.09
+†
+
+†
+2.33
+2.57
+†
+
+2.81
+2.27
+1.86
+2.28
+2.85
+2.65
+
+7.79
+5.73
+4.38
+5.00
+5.80
+5.81
+
+7.03
+5.24
+4.62
+6.92
+5.45
+6.86
+
+†
+†
+3.63
+3.60
+3.96
+†
+
+5.41
+4.27
+4.24
+5.09
+7.34
+5.41
+
+8.20
+4.15
+3.41
+4.10
+4.69
+5.83
+
+†
+2.95
+3.16
+4.46
+†
+4.85
+
+†
+3.75
+3.04
+4.93
+5.56
+†
+
+2.55
+
+2.55
+
+5.62
+
+5.76
+
+2.37
+
+4.97
+
+4.69
+
+4.05
+
+2.88
+
+2.10
+
+2.10
+
+4.73
+
+5.63
+
+3.47
+
+4.34
+
+3.46
+
+3.98
+
+4.24
+
+See notes at end of table.
+
+T-7
+
+National Center for Education Statistics
+Table S2.2
+
+Standard errors for table 2.2: Number and percentage distribution of students ages 12 through 18 who
+reported being bullied at school, by location of bullying and selected school characteristics: School year
+2014–15—Continued
+Among students who reported being bullied: Location of bullying
+
+School
+bus
+
+Somewhere
+else at
+school
+
+†
+
+†
+
+†
+
+6.10
+
+4.07
+
+3.90
+
+3.64
+
+2.19
+2.58
+
+3.74
+3.31
+
+3.49
+2.86
+
+2.62
+2.18
+
+3.16
+2.07
+
+7.47
+
+†
+
+6.28
+
+5.70
+
+†
+
+†
+
+3.56
+
+2.13
+
+3.24
+
+2.90
+
+2.82
+
+3.06
+
+In a
+In a bathroom/
+locker
+In a class- hallway or
+room
+stairwell
+Bullied
+room
+
+Outside
+Cafeteria on school
+grounds
+at school
+
+Estimated
+number of
+students
+
+Not
+bullied
+
+Less than 5 percent
+
+263,500
+
+3.62
+
+3.62
+
+8.97
+
+7.47
+
+†
+
+6.80
+
+5 to less than 20
+percent
+
+352,000
+
+1.78
+
+1.78
+
+4.41
+
+5.68
+
+3.17
+
+20 to less than 50
+percent
+50 percent or more
+
+424,700
+506,200
+
+2.08
+1.44
+
+2.08
+1.44
+
+4.15
+4.00
+
+4.09
+4.21
+
+0 to less than 20
+percent
+
+287,800
+
+2.20
+
+2.20
+
+5.80
+
+20 to less than 50
+percent
+
+423,000
+
+1.63
+
+1.63
+
+3.74
+
+School characteristic
+Percent of combined
+American Indian/
+Alaska Native, Asian/
+Native Hawaiian/
+Other Pacific Islander,
+Black/African
+American, Hispanic/
+Latino, and two or
+more races students
+
+Percent of students
+eligible for free or
+reduced-price lunch
+
+50 percent or more
+509,000
+1.70
+1.70
+3.38
+3.69
+2.29
+3.24
+2.67
+2.23
+2.70
+† Not applicable.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime
+Victimization Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1 of
+the survey are included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T-8
+
+National Center for Education Statistics
+Table 2.3
+
+Number and percentage distribution of students ages 12 through 18 who reported being bullied at school, by the
+frequency of bullying, whether an adult was notified, and selected student characteristics: School year 2014–15
+Among students who reported being bullied
+Percentage distribution of the frequency of bullying1
+
+Bullied
+
+Once or
+twice in the
+school year
+
+Once or
+twice a
+month
+
+Once or
+twice a
+week
+
+Almost
+every day
+
+Adult was
+notified
+
+79.2
+
+20.8
+
+66.8
+
+19.3
+
+9.6
+
+4.2
+
+43.1
+
+12,208,000
+12,036,000
+
+81.2
+77.2
+
+18.8
+22.8
+
+63.8
+69.4
+
+20.7
+18.2
+
+11.4
+8.1
+
+4.2 !
+4.3
+
+40.5
+45.3
+
+12,960,000
+
+78.4
+
+21.6
+
+64.3
+
+24.9
+
+6.5
+
+4.3
+
+43.1
+
+3,319,000
+
+75.3
+
+24.7
+
+71.0
+
+12.3 !
+
+16.7
+
+#
+
+45.4
+
+5,941,000
+
+82.8
+
+17.2
+
+71.9
+
+11.2 !
+
+10.9
+
+5.9 !
+
+42.5
+
+1,151,000
+
+84.4
+
+15.6
+
+66.2
+
+‡
+
+‡
+
+#
+
+33.4 !
+
+873,000
+
+74.1
+
+25.9
+
+60.6
+
+‡
+
+‡
+
+‡
+
+45.6
+
+2,029,000
+3,766,000
+3,870,000
+3,961,000
+3,749,000
+3,699,000
+3,169,000
+
+69.0
+74.9
+77.8
+81.0
+78.8
+84.2
+85.1
+
+31.0
+25.1
+22.2
+19.0
+21.2
+15.8
+14.9
+
+48.9
+59.2
+64.2
+72.8
+76.1
+73.2
+78.2
+
+8.1 !
+5.6 !
+‡
+‡
+‡
+‡
+‡
+
+60.3
+56.9
+48.2
+35.6
+30.6
+35.4
+26.1
+
+Student characteristic
+Total bullied and
+not bullied
+
+Estimated
+number of
+students
+
+Not bullied
+
+24,243,000
+
+Sex
+Male
+Female
+Race/ethnicity2
+White, not Hispanic
+or Latino
+Black, not Hispanic
+or Latino
+Hispanic or Latino
+Asian, not Hispanic
+or Latino
+All other races, not
+Hispanic or Latino
+Grade3
+6th
+7th
+8th
+9th
+10th
+11th
+12th
+
+25.4
+25.8
+13.5
+18.2
+16.9 !
+18.4 !
+16.0 !
+
+17.6
+9.5 !
+18.5
+7.5 !
+‡
+‡
+‡
+
+Household income
+Less than $7,500
+937,000
+76.8
+23.2
+50.0
+24.0 !
+21.0 !
+‡
+62.2
+$7,500–14,999
+1,436,000
+76.1
+23.9
+69.7
+18.5 !
+‡
+‡
+45.3
+$15,000–24,999
+2,376,000
+78.1
+21.9
+68.3
+13.7 !
+10.0 !
+‡
+45.3
+$25,000–34,999
+2,713,000
+75.6
+24.4
+66.9
+17.7
+10.7 !
+‡
+49.8
+$35,000–49,999
+3,739,000
+78.2
+21.8
+71.7
+12.5 !
+14.1 !
+‡
+42.4
+13,042,000
+81.0
+19.0
+66.0
+22.9
+7.2
+3.9 !
+39.1
+$50,000 or more
+# Rounds to zero.
+! Interpret data with caution. The standard error for this estimate is 30 to 50 percent of the estimate’s value.
+‡ Reporting standards not met. The standard error for this estimate is equal to 50 percent or more of the estimate’s value.
+1
+Students who responded "don't know" when asked about the frequency of bullying are treated as missing in calculating frequencies.
+2
+Respondents who identified themselves as being of Hispanic or Latino origin were classified as “Hispanic or Latino” regardless of their race.
+“Black, not Hispanic or Latino” includes African Americans. “All other races, not Hispanic or Latino” includes Native Hawaiians or Other Pacific
+Islanders, American Indians or Alaska Natives, and respondents of Two or more races (8 percent of all respondents).
+3
+The School Crime Supplement sample includes students ages 12–18 and, therefore, might not be representative of students in 6th grade.
+Comparisons between students in 6th grade and those in other grades should be made with caution.
+NOTE: Tabular data include only students who reported being enrolled in grades 6 through 12 and not receiving any of their education through
+homeschooling during the school year reported. “Bullied” includes students who reported being made fun of, called names, or insulted; being the
+subject of rumors; being threatened with harm; being pushed, shoved, tripped, or spit on; being pressured into doing things they did not want to do;
+being excluded from activities on purpose; and having property destroyed on purpose. “At school” includes the school building, school property,
+school bus, or going to and from school. Missing data are not shown for household income. Total bullied and not bullied is based on respondents
+for whom data on bullying are available. Detail may not sum to totals because of rounding and missing data. Population estimate based on Version
+1 of the 2015 SCS for all students meeting the age, grade and school criteria is 24,622,000.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime
+Victimization Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1 of
+the survey are included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T-9
+
+National Center for Education Statistics
+Table S2.3
+
+Standard errors for table 2.3: Number and percentage distribution of students ages 12 through 18 who
+reported being bullied at school, by the frequency of bullying, whether an adult was notified, and
+selected student characteristics: School year 2014–15
+Among students who reported being bullied
+Percentage distribution of the frequency of bullying
+Once or
+twice a
+month
+
+Once or
+twice a
+week
+
+Almost
+every day
+
+Adult was
+notified
+
+2.27
+
+1.75
+
+1.36
+
+0.93
+
+2.53
+
+1.31
+1.39
+
+3.78
+2.76
+
+2.87
+2.44
+
+2.27
+1.59
+
+1.31
+1.24
+
+3.59
+3.27
+
+1.43
+
+1.43
+
+2.98
+
+2.50
+
+1.68
+
+1.22
+
+3.41
+
+326,400
+406,700
+
+3.29
+1.58
+
+3.29
+1.58
+
+5.49
+4.92
+
+4.44
+3.73
+
+4.45
+2.57
+
+†
+2.40
+
+7.15
+5.10
+
+Asian, not Hispanic
+or Latino
+
+124,300
+
+4.02
+
+4.02
+
+13.44
+
+†
+
+†
+
+†
+
+10.11
+
+All other races, not
+Hispanic or Latino
+
+125,900
+
+4.91
+
+4.91
+
+9.26
+
+†
+
+†
+
+†
+
+9.92
+
+156,600
+236,300
+219,100
+214,800
+221,700
+221,200
+200,900
+
+3.53
+2.48
+2.41
+2.11
+2.13
+2.24
+2.18
+
+3.53
+2.48
+2.41
+2.11
+2.13
+2.24
+2.18
+
+6.47
+5.63
+5.65
+5.12
+5.62
+5.92
+6.10
+
+5.43
+5.07
+4.02
+4.12
+5.14
+5.57
+5.73
+
+4.75
+3.28
+4.56
+3.30
+†
+†
+†
+
+3.60
+2.28
+†
+†
+†
+†
+†
+
+5.67
+6.00
+6.40
+6.36
+5.77
+6.66
+7.32
+
+Once or
+twice in the
+Bullied school year
+
+Estimated
+number of
+students
+
+Not bullied
+
+763,200
+
+0.99
+
+0.99
+
+484,300
+460,800
+
+1.31
+1.39
+
+White, not Hispanic
+or Latino
+
+539,300
+
+Black, not Hispanic
+or Latino
+Hispanic or Latino
+
+Student characteristic
+Total bullied and
+not bullied
+Sex
+Male
+Female
+Race/ethnicity
+
+Grade
+6th
+7th
+8th
+9th
+10th
+11th
+12th
+
+Household income
+Less than $7,500
+151,000
+4.86
+4.86
+10.18
+9.98
+9.05
+†
+11.63
+$7,500–14,999
+188,400
+5.72
+5.72
+7.02
+6.54
+†
+†
+9.16
+$15,000–24,999
+228,300
+3.06
+3.06
+7.88
+5.10
+4.29
+†
+7.26
+$25,000–34,999
+218,700
+2.74
+2.74
+6.83
+5.30
+4.81
+†
+6.81
+$35,000–49,999
+281,900
+2.61
+2.61
+5.32
+4.75
+4.43
+†
+6.24
+557,400
+1.30
+1.30
+3.23
+2.80
+1.78
+1.25
+3.36
+$50,000 or more
+† Not applicable.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime
+Victimization Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing
+Version 1 of the survey are included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 10
+
+National Center for Education Statistics
+Table 2.4
+
+Number and percentage distribution of students ages 12 through 18 who reported being bullied at
+school, by the frequency of bullying, whether an adult was notified, and selected school characteristics:
+School year 2014–15
+Among students who reported being bullied
+Percentage distribution of the frequency of bullying1
+Once or
+twice a
+month
+
+Once or
+twice a
+week
+
+Almost
+every day
+
+Adult was
+notified
+
+66.4
+
+19.5
+
+9.7
+
+4.3
+
+42.9
+
+18.3
+23.5
+21.2
+19.6
+
+55.4
+62.5
+70.6
+71.5
+
+27.1
+21.9
+17.1
+15.9
+
+13.2
+10.4
+8.7 !
+8.4 !
+
+‡
+5.3!
+3.6!
+‡
+
+48.4
+38.3
+44.2
+43.2
+
+78.7
+84.7
+81.3
+79.8
+90.7
+
+21.3
+15.3
+18.7 !
+20.2 !
+‡
+
+66.9
+55.4
+63.1
+48.7 !
+‡
+
+18.9
+34.8 !
+‡
+51.3 !
+62.7 !
+
+9.9
+‡
+‡
+#
+#
+
+4.3
+‡
+‡
+#
+#
+
+43.1
+38.3!
+45.9!
+52.0!
+#
+
+7,091,000
+9,090,000
+2,491,000
+4,701,000
+
+78.7
+78.7
+79.7
+80.0
+
+21.3
+21.3
+20.3
+20.0
+
+63.4
+68.3
+74.8
+62.9
+
+15.6
+22.3
+19.6
+20.1
+
+15.3
+6.7
+‡
+10.4 !
+
+5.7!
+2.7!
+‡
+6.7!
+
+48.0
+38.6
+42.4
+44.0
+
+1,227,000
+7,296,000
+13,292,000
+1,229,000
+
+78.2
+74.1
+81.1
+85.7
+
+21.8
+25.9
+18.9
+14.3
+
+58.0
+57.3
+74.6
+60.9
+
+15.0 !
+22.8
+17.7
+‡
+
+14.8 !
+15.6
+4.7
+‡
+
+‡
+4.4!
+3.0!
+‡
+
+57.5
+55.2
+33.0
+35.4!
+
+Enrollment size
+Less than 300
+300–599
+600–999
+1,000–1,499
+1,500–1,999
+2,000 or more
+
+2,208,000
+4,510,000
+5,940,000
+4,373,000
+3,043,000
+3,127,000
+
+78.6
+78.8
+76.3
+79.9
+79.5
+83.5
+
+21.4
+21.2
+23.7
+20.1
+20.5
+16.5
+
+60.3
+65.7
+56.4
+68.7
+79.3
+81.0
+
+20.9
+21.5
+27.1
+15.3
+9.3 !
+14.6 !
+
+13.1
+9.9 !
+10.8
+11.4 !
+7.7 !
+‡
+
+‡
+‡
+5.7!
+4.5!
+‡
+‡
+
+54.6
+47.3
+42.6
+41.4
+33.2
+39.5
+
+Student-to-full-timeequivalent (FTE)
+teacher ratio
+Less than 13 students
+
+Once or
+twice in the
+Bullied school year
+
+Estimated
+number of
+students
+
+Not bullied
+
+23,384,000
+
+79.1
+
+20.9
+
+3,714,000
+5,749,000
+8,449,000
+5,471,000
+
+81.7
+76.5
+78.8
+80.4
+
+22,050,000
+1,334,000
+499,000
+230,000
+330,000
+
+Locale
+City
+Suburb
+Town
+Rural
+Level2
+Primary
+Middle
+High
+Other
+
+School characteristic
+Total bullied and
+not bullied
+Region
+Northeast
+Midwest
+South
+West
+Sector
+Public
+Private
+Catholic
+Other religious
+Nonsectarian
+
+3,607,000
+
+75.1
+
+24.9
+
+60.7
+
+24.8
+
+10.5 !
+
+4.0!
+
+36.4
+
+13 to less than 16
+students
+
+5,908,000
+
+80.1
+
+19.9
+
+59.8
+
+22.3
+
+12.3
+
+5.6 !
+
+49.4
+
+16 to less than 20
+students
+20 or more students
+
+7,469,000
+5,338,000
+
+78.7
+79.8
+
+21.3
+20.2
+
+64.8
+79.2
+
+20.6
+11.0
+
+10.8
+5.4 !
+
+3.9 !
+4.4!
+
+43.0
+39.9
+
+See notes at end of table.
+
+T - 11
+
+National Center for Education Statistics
+Table 2.4
+
+Number and percentage distribution of students ages 12 through 18 who reported being bullied at
+school, by the frequency of bullying, whether an adult was notified, and selected school characteristics:
+School year 2014–15—Continued
+Among students who reported being bullied
+Percentage distribution of the frequency of bullying1
+
+School characteristic
+
+Estimated
+number of
+students
+
+Not bullied
+
+Percent of combined
+American Indian/
+Alaska Native, Asian/
+Native Hawaiian/
+Other Pacific Islander,
+Black/African
+American, Hispanic/
+Latino, and Two or
+more races students
+Less than 5 percent
+
+Once or
+twice in the
+Bullied school year
+
+Once or
+twice a
+month
+
+Once or
+twice a
+week
+
+Almost
+every day
+
+Adult was
+notified
+
+1,579,000
+
+81.4
+
+18.6
+
+76.4
+
+19.6 !
+
+#
+
+‡
+
+43.3
+
+5 to less than 20
+percent
+
+5,173,000
+
+82.3
+
+17.7
+
+68.6
+
+20.2
+
+‡
+
+6.4 !
+
+37.2
+
+20 to less than 50
+percent
+50 percent or more
+
+6,822,000
+9,364,000
+
+74.8
+79.7
+
+25.2
+20.3
+
+60.9
+68.8
+
+26.0
+13.3
+
+9.6
+13.6
+
+3.4 !
+4.3!
+
+47.9
+41.4
+
+3,242,000
+
+84.7
+
+15.3
+
+70.8
+
+21.8
+
+‡
+
+‡
+
+49.5
+
+Percent of students
+eligible for free or
+reduced-price lunch3
+0 to less than 20
+percent
+
+20 to less than 50
+percent
+8,479,000
+77.9
+22.1
+65.9
+22.3
+5.4 !
+6.3
+44.9
+50 percent or more
+10,103,000
+77.5
+22.5
+66.6
+15.8
+14.7
+2.9!
+40.1
+# Rounds to zero.
+! Interpret data with caution. The standard error for this estimate is 30 to 50 percent of the estimate’s value.
+‡ Reporting standards not met. The standard error for this estimate is equal to 50 percent or more of the estimate’s value.
+1
+Students who responded "don't know" when asked about the frequency of bullying are treated as missing in calculating frequencies.
+2
+The School Crime Supplement sample includes students ages 12–18 who were enrolled in grades 6–12 and, therefore, might not be
+representative of students in primary schools. Comparisons between students in primary schools and those in other school levels should be
+made with caution.
+3
+Data on free or reduced-price lunch eligibility are only available for public schools.
+NOTE: Tabular data include only students who reported being enrolled in grades 6 through 12 and not receiving any of their education
+through homeschooling during the school year reported. “Bullied” includes students who reported being made fun of, called names, or
+insulted; being the subject of rumors; being threatened with harm; being pushed, shoved, tripped, or spit on; being pressured into doing
+things they did not want to do; being excluded from activities on purpose; and having property destroyed on purpose. “At school” includes
+the school building, school property, school bus, or going to and from school. Total bullied and not bullied are based on respondents for
+whom data on school and bullying are available. No school match was available for 859,000 students. Additional missing and not
+applicable school characteristic data are not shown for locale; school level; enrollment size; student to FTE teacher ratio; percent of
+combined American Indian/Alaska Native, Asian/Native, Hawaiian/Other Pacific Islander, Black/African American, Hispanic/Latino, and
+Two or more races students; and percent of students eligible for free or reduced price lunch. Detail may not sum to totals because of
+rounding and these missing data. Population estimate based on Version 1 of the 2015 SCS for all students meeting the age, grade and
+school criteria is 24,622,000.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime
+Victimization Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing
+Version 1 of the survey are included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 12
+
+National Center for Education Statistics
+Table S2.4
+
+Standard errors for table 2.4: Number and percentage distribution of students ages 12 through 18 who
+reported being bullied at school, by the frequency of bullying, whether an adult was notified, and
+selected school characteristics: School year 2014–15
+Among students who reported being bullied
+Percentage distribution of the frequency of bullying
+Once or
+twice a
+month
+
+Once or
+twice a
+week
+
+Almost
+every day
+
+Adult was
+notified
+
+2.33
+
+1.80
+
+1.38
+
+0.96
+
+2.62
+
+2.30
+2.00
+1.97
+1.62
+
+6.64
+4.38
+3.98
+4.92
+
+6.40
+3.76
+2.75
+4.21
+
+3.74
+2.29
+2.68
+2.64
+
+†
+2.08
+1.38
+†
+
+6.34
+4.35
+4.90
+5.12
+
+1.05
+3.43
+6.20
+8.43
+5.81
+
+1.05
+3.43
+6.20
+8.43
+†
+
+2.36
+11.54
+15.74
+23.64
+†
+
+1.76
+11.90
+†
+23.6
+30.3
+
+1.43
+†
+†
+†
+†
+
+0.98
+†
+†
+†
+†
+
+2.70
+11.54
+18.14
+23.79
+†
+
+456,600
+465,800
+263,800
+358,400
+
+1.73
+1.55
+3.00
+2.53
+
+1.73
+1.55
+3.00
+2.53
+
+4.01
+3.87
+5.86
+5.14
+
+3.25
+3.34
+5.59
+4.58
+
+2.75
+1.87
+†
+3.91
+
+1.88
+1.08
+†
+2.61
+
+4.75
+3.41
+7.98
+5.96
+
+Level
+Primary
+Middle
+High
+Other
+
+130,600
+359,100
+513,000
+145,900
+
+3.85
+1.90
+1.21
+3.43
+
+3.85
+1.90
+1.21
+3.43
+
+10.05
+4.07
+3.08
+11.70
+
+7.03
+3.22
+2.67
+†
+
+7.01
+2.83
+1.35
+†
+
+†
+1.46
+1.12
+†
+
+10.42
+3.90
+3.21
+11.68
+
+Enrollment size
+Less than 300
+300–599
+600–999
+1,000–1,499
+1,500–1,999
+2,000 or more
+
+222,300
+308,100
+340,500
+318,800
+238,300
+231,100
+
+2.81
+2.27
+1.86
+2.28
+2.85
+2.65
+
+2.81
+2.27
+1.86
+2.28
+2.85
+2.65
+
+7.35
+4.99
+4.52
+5.53
+5.27
+5.68
+
+6.21
+4.75
+4.06
+4.01
+4.07
+4.64
+
+2.93
+3.36
+2.60
+4.03
+2.91
+†
+
+†
+†
+1.99
+2.05
+†
+†
+
+6.94
+5.56
+4.60
+6.20
+5.77
+7.38
+
+Student-to-full-timeequivalent (FTE)
+teacher ratio
+Less than 13 students
+
+Once or
+twice in the
+Bullied school year
+
+Estimated
+number of
+students
+
+Not bullied
+
+748,400
+
+1.01
+
+1.01
+
+Region
+Northeast
+Midwest
+South
+West
+
+271,500
+375,900
+455,700
+377,200
+
+2.30
+2.00
+1.97
+1.62
+
+Sector
+Public
+Private
+Catholic
+Other religious
+Nonsectarian
+
+734,400
+152,400
+95,200
+57,700
+64,300
+
+Locale
+City
+Suburb
+Town
+Rural
+
+School characteristic
+Total bullied and
+not bullied
+
+316,800
+
+2.55
+
+2.55
+
+5.51
+
+4.93
+
+3.30
+
+2.01
+
+5.84
+
+13 to less than 16
+students
+
+380,500
+
+2.10
+
+2.10
+
+5.10
+
+4.19
+
+3.45
+
+2.19
+
+5.38
+
+16 to less than 20
+students
+20 or more students
+
+446,700
+402,900
+
+1.85
+1.80
+
+1.85
+1.80
+
+4.39
+3.67
+
+3.67
+2.88
+
+2.74
+2.13
+
+1.49
+1.96
+
+4.20
+5.60
+
+See notes at end of table.
+
+T - 13
+
+National Center for Education Statistics
+Table S2.4
+
+Standard errors for table 2.4: Number and percentage distribution of students ages 12 through 18
+who reported being bullied at school, by the frequency of bullying, whether an adult was notified,
+and selected school characteristics: School year 2014–15—Continued
+Among students who reported being bullied
+Percentage distribution of the frequency of bullying
+
+School characteristic
+Percent of combined
+American Indian/
+Alaska Native, Asian/
+Native Hawaiian/
+Other Pacific Islander,
+Black/African
+American, Hispanic/
+Latino, and Two or
+more races students
+Less than 5 percent
+
+Estimated
+number of
+students
+
+Not bullied
+
+Once or
+twice in the
+Bullied school year
+
+Once or
+twice a
+month
+
+Once or
+twice a
+week
+
+Almost
+every day
+
+Adult was
+notified
+
+263,500
+
+3.62
+
+3.62
+
+10.60
+
+8.74
+
+†
+
+†
+
+11.87
+
+5 to less than 20
+percent
+
+352,000
+
+1.78
+
+1.78
+
+5.03
+
+4.25
+
+†
+
+2.60
+
+4.63
+
+20 to less than 50
+percent
+50 percent or more
+
+424,700
+506,200
+
+2.08
+1.44
+
+2.08
+1.44
+
+3.91
+4.00
+
+3.58
+2.82
+
+2.26
+2.64
+
+1.37
+1.61
+
+4.23
+4.33
+
+287,800
+
+2.20
+
+2.20
+
+6.67
+
+6.36
+
+†
+
+†
+
+8.59
+
+Percent of students
+eligible for free or
+reduced-price lunch
+0 to less than 20
+percent
+
+20 to less than 50
+percent
+423,000
+1.63
+1.63
+3.80
+2.99
+1.71
+1.90
+3.93
+50 percent or more
+509,000
+1.70
+1.70
+3.55
+2.91
+2.41
+1.14
+3.71
+† Not applicable.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime
+Victimization Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing
+Version 1 of the survey are included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 14
+
+National Center for Education Statistics
+Table 2.5
+
+Number and percentage distribution of students ages 12 through 18 who reported being bullied at
+school, by type of bullying and selected student characteristics: School year 2014–15
+Type of bullying reported
+
+Pushed,
+shoved,
+Spread Threatened tripped, or
+spit on
+rumors
+with harm
+
+Tried to
+make do
+things
+they did
+not want
+to do
+
+Excluded
+Property
+from
+activities destroyed
+on
+on
+purpose
+purpose
+
+Estimated
+number of
+students
+
+Not
+bullied
+
+Bullied
+
+Made fun
+of, called
+names or
+insulted
+
+24,243,000
+
+79.2
+
+20.8
+
+13.3
+
+12.3
+
+3.9
+
+5.1
+
+2.5
+
+5.0
+
+1.8
+
+12,208,000
+12,036,000
+
+81.2
+77.2
+
+18.8
+22.8
+
+12.7
+13.9
+
+9.1
+15.5
+
+4.8
+2.9
+
+6.0
+4.2
+
+2.7
+2.3
+
+4.4
+5.7
+
+1.9
+1.8
+
+White, not Hispanic
+or Latino
+
+12,960,000
+
+78.4
+
+21.6
+
+14.2
+
+12.8
+
+3.9
+
+5.3
+
+2.1
+
+5.6
+
+1.6
+
+Black, not Hispanic
+or Latino
+Hispanic or Latino
+
+3,319,000
+5,941,000
+
+75.3
+82.8
+
+24.7
+17.2
+
+17.2
+9.5
+
+14.3
+10.4
+
+5.2
+2.9
+
+5.6
+3.7
+
+3.4!
+2.1!
+
+4.9
+3.4
+
+1.6!
+2.0!
+
+Asian, not Hispanic
+or Latino
+
+1,151,000
+
+84.4
+
+15.6
+
+10.1!
+
+4.9!
+
+‡
+
+3.9!
+
+‡
+
+‡
+
+‡
+
+All other races, not
+Hispanic or Latino
+
+873,000
+
+74.1
+
+25.9
+
+16.4
+
+18.6
+
+8.9!
+
+11.2!
+
+9.1!
+
+9.8!
+
+‡
+
+Student characteristic
+Total bullied and
+not bullied
+Sex
+Male
+Female
+Race/ethnicity1
+
+Grade
+6th
+2,029,000
+69.0
+31.0
+21.4
+17.7
+7.3
+13.1
+5.2
+10.1
+4.0!
+7th
+3,766,000
+74.9
+25.1
+18.6
+12.9
+3.8
+7.8
+2.9!
+6.4
+2.7!
+5.1
+3.0!
+8th
+3,870,000
+77.8
+22.2
+15.6
+13.1
+5.0
+7.5
+2.9!
+9th
+3,961,000
+81.0
+19.0
+12.5
+10.6
+2.8!
+4.4
+2.7!
+4.4
+1.3!
+10th
+3,749,000
+78.8
+21.2
+12.6
+12.9
+2.9!
+2.2!
+1.7!
+5.7
+1.2!
+11th
+3,699,000
+84.2
+15.8
+8.8
+10.2
+4.2
+2.1!
+‡
+3.0!
+‡
+12th
+3,169,000
+85.1
+14.9
+6.2
+10.8
+2.5!
+1.6!
+2.4!
+2.4!
+‡
+Household income
+Less than $7,500
+937,000
+76.8
+23.2
+19.3
+13.7
+4.9!
+7.4!
+‡
+‡
+‡
+76.1
+23.9
+15.7!
+11.5
+7.8!
+8.0!
+4.2!
+‡
+‡
+$7,500–14,999
+1,436,000
+$15,000–24,999
+2,376,000
+78.1
+21.9
+13.7
+13.1
+4.9
+6.5
+3.2!
+7.0
+2.5!
+$25,000–34,999
+2,713,000
+75.6
+24.4
+16.0
+14.3
+4.0
+7.8
+‡
+5.9
+2.2!
+$35,000–49,999
+3,739,000
+78.2
+21.8
+13.5
+13.8
+3.0!
+4.3
+3.1!
+4.9
+2.7!
+$50,000 or more
+13,042,000
+81.0
+19.0
+11.9
+11.2
+3.4
+4.0
+2.2
+5.0
+1.3
+! Interpret data with caution. The standard error for this estimate is 30 to 50 percent of the estimate’s value.
+‡ Reporting standards not met. The standard error for this estimate is equal to 50 percent or more of the estimate’s value.
+1
+Respondents who identified themselves as being of Hispanic or Latino origin were classified as “Hispanic or Latino,” regardless of their race.
+“Black, not Hispanic or Latino” includes African Americans. “All other races, not Hispanic or Latino” includes Native Hawaiians or Other Pacific
+Islanders, American Indians or Alaska Natives, and respondents of two or more races (8 percent of all respondents).
+2
+The School Crime Supplement sample includes students ages 12–18 and, therefore, might not be representative of students in 6th grade.
+Comparisons between students in 6th grade and those in other grades should be made with caution.
+NOTE: Population estimate for all students meeting the criteria for inclusion based on Version 1 of the 2015 SCS in this table is “Bullied” includes
+students who reported being made fun of, called names, or insulted; being the subject of rumors; being threatened with harm; being pushed,
+shoved, tripped, or spit on; being pressured into doing things they did not want to do; being excluded from activities on purpose; and having
+property destroyed on purpose. “At school” includes the school building, school property, school bus, or going to and from school. Bullying types
+may sum to more than total because students could have experienced more than one type of bullying. Missing data are not shown for household
+income. Total bullied and not bullied is based on respondents for whom data on bullying are available. Detail may not sum to totals because of
+rounding and missing data. Population estimate based on Version 1 of the 2015 SCS for all students meeting the age, grade and school criteria is
+24,622,000.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime Victimization
+Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1 of the survey are
+included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+2
+
+T - 15
+
+National Center for Education Statistics
+Table S2.5
+
+Standard errors for table 2.5: Number and percentage distribution of students ages 12 through 18 who reported
+being bullied at school, by type of bullying and selected student characteristics: School year 2014–15
+Type of bullying reported
+Pushed,
+shoved,
+tripped,
+or spit
+on
+
+Tried to
+make do
+things
+they did
+not want
+to do
+
+Excluded
+from
+activities
+on
+purpose
+
+Property
+destroyed
+on
+purpose
+
+Estimated
+number of
+students
+
+Not
+bullied
+
+Bullied
+
+Made
+fun of,
+called
+names
+or
+insulted
+
+763,200
+
+0.99
+
+0.99
+
+0.87
+
+0.83
+
+0.44
+
+0.49
+
+0.36
+
+0.52
+
+0.30
+
+484,300
+460,800
+
+1.31
+1.39
+
+1.31
+1.39
+
+1.14
+1.13
+
+0.95
+1.22
+
+0.64
+0.50
+
+0.75
+0.63
+
+0.55
+0.50
+
+0.67
+0.78
+
+0.44
+0.39
+
+White, not Hispanic
+or Latino
+
+539,300
+
+1.43
+
+1.43
+
+1.22
+
+1.18
+
+0.58
+
+0.65
+
+0.46
+
+0.80
+
+0.36
+
+Black, not Hispanic
+or Latino
+Hispanic or Latino
+
+326,400
+406,700
+
+3.29
+1.58
+
+3.29
+1.58
+
+2.98
+1.34
+
+2.51
+1.52
+
+1.56
+0.71
+
+1.66
+0.80
+
+1.25
+0.70
+
+1.37
+0.74
+
+0.75
+0.62
+
+Asian, not Hispanic
+or Latino
+
+124,300
+
+4.02
+
+4.02
+
+3.12
+
+2.15
+
+†
+
+1.89
+
+†
+
+†
+
+†
+
+All other races, not
+Hispanic or Latino
+
+125,900
+
+4.91
+
+4.91
+
+4.07
+
+4.31
+
+3.90
+
+3.89
+
+3.17
+
+3.61
+
+†
+
+Grade
+6th
+7th
+8th
+9th
+10th
+11th
+12th
+
+156,600
+236,300
+219,100
+214,800
+221,700
+221,200
+200,900
+
+3.53
+2.48
+2.41
+2.11
+2.13
+2.24
+2.18
+
+3.53
+2.48
+2.41
+2.11
+2.13
+2.24
+2.18
+
+3.38
+2.16
+2.06
+1.88
+1.94
+1.72
+1.53
+
+3.18
+1.84
+2.06
+1.91
+1.82
+1.81
+1.99
+
+2.05
+1.00
+1.23
+0.91
+0.90
+1.23
+0.95
+
+2.45
+1.42
+1.56
+1.16
+0.80
+0.86
+0.73
+
+1.25
+0.91
+0.88
+1.00
+0.67
+†
+1.15
+
+2.29
+1.27
+1.14
+1.08
+1.40
+0.96
+0.93
+
+1.61
+0.82
+0.93
+0.63
+0.58
+†
+†
+
+Household income
+Less than $7,500
+$7,500–14,999
+$15,000–24,999
+$25,000–34,999
+$35,000–49,999
+
+151,000
+188,400
+228,300
+218,700
+281,900
+
+4.86
+5.72
+3.06
+2.74
+2.61
+
+4.86
+5.72
+3.06
+2.74
+2.61
+
+4.52
+5.27
+2.62
+2.64
+2.34
+
+3.63
+3.18
+2.39
+2.45
+2.19
+
+2.15
+3.15
+1.37
+1.06
+0.96
+
+2.83
+2.89
+1.58
+1.45
+1.21
+
+†
+1.93
+1.26
+†
+1.07
+
+†
+†
+1.96
+1.47
+1.33
+
+†
+†
+1.12
+0.95
+0.87
+
+Student characteristic
+Total bullied and
+not bullied
+Sex
+Male
+Female
+
+Spread Threatened
+rumors with harm
+
+Race/ethnicity
+
+$50,000 or more
+557,400
+1.30
+1.30
+1.06
+1.02
+0.52
+0.58
+0.42
+0.72
+0.36
+† Not applicable.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime Victimization
+Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1 of the survey are
+included in these estimates. A complete discussion of the split-half methodology and results can be found at http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 16
+
+National Center for Education Statistics
+Table 2.6
+
+Number and percentage distribution of students ages 12 through 18 who reported being bullied at
+school, by type of bullying and selected school characteristics: School year 2014–15
+Type of bullying reported
+
+Pushed,
+shoved,
+Spread Threatened tripped, or
+spit on
+rumors
+with harm
+
+Tried to
+make do
+things
+they did
+not want
+to do
+
+Excluded
+from Property
+activities destroyed
+on
+on
+purpose
+purpose
+
+Estimated
+number of
+students
+
+Not
+bullied
+
+Bullied
+
+Made fun
+of, called
+names or
+insulted
+
+23,384,000
+
+79.1
+
+20.9
+
+13.4
+
+12.4
+
+4.0
+
+5.1
+
+2.5
+
+5.1
+
+1.8
+
+3,714,000
+5,749,000
+8,449,000
+5,471,000
+
+81.7
+76.5
+78.8
+80.4
+
+18.3
+23.5
+21.2
+19.6
+
+10.5
+16.4
+14.2
+11.1
+
+10.3
+14.1
+12.8
+11.4
+
+3.2
+3.4
+4.8
+3.9
+
+4.8
+4.3
+6.5
+3.9
+
+‡
+3.4
+3.0
+1.4!
+
+6.6
+7.4
+4.2
+3.1
+
+1.6!
+2.3
+1.7
+1.8!
+
+22,050,000
+1,334,000
+499,000
+230,000
+330,000
+
+78.7
+84.7
+81.3
+79.8
+90.7
+
+21.3
+15.3
+18.7 !
+20.2 !
+‡
+
+13.7
+9.3
+12.5 !
+‡
+‡
+
+12.5
+10.1
+11.3!
+‡
+‡
+
+4.2
+‡
+#
+‡
+#
+
+5.3
+‡
+#
+‡
+‡
+
+2.6
+‡
+#
+#
+‡
+
+5.1
+4.9 !
+‡
+‡
+‡
+
+1.9
+‡
+‡
+‡
+#
+
+Locale
+City
+Suburb
+Town
+Rural
+
+7,091,000
+9,090,000
+2,491,000
+4,701,000
+
+78.7
+78.7
+79.7
+80.0
+
+21.3
+21.3
+20.3
+20.0
+
+15.2
+12.8
+9.6
+14.1
+
+11.3
+13.2
+11.5
+13.0
+
+3.9
+3.9
+3.5 !
+4.5
+
+5.9
+4.3
+5.6
+5.1
+
+3.1
+2.6
+‡
+1.7!
+
+5.6
+5.5
+4.8
+3.8
+
+2.5
+2.0
+‡
+‡
+
+Level1
+Primary
+Middle
+High
+Other
+
+1,227,000
+7,296,000
+13,292,000
+1,229,000
+
+78.2
+74.1
+81.1
+85.7
+
+21.8
+25.9
+18.9
+14.3
+
+13.2
+19.0
+10.7
+11.3
+
+14.9
+13.8
+11.9
+7.7!
+
+‡
+6.0
+3.2
+‡
+
+5.9!
+9.2
+3.0
+3.6!
+
+‡
+3.8
+2.0
+‡
+
+7.4 !
+6.7
+4.2
+2.5 !
+
+‡
+3.2
+1.1
+‡
+
+Enrollment size
+Less than 300
+300–599
+600–999
+1,000–1,499
+1,500–1,999
+2,000 or more
+
+2,208,000
+4,510,000
+5,940,000
+4,373,000
+3,043,000
+3,127,000
+
+78.6
+78.8
+76.3
+79.9
+79.5
+83.5
+
+21.4
+21.2
+23.7
+20.1
+20.5
+16.5
+
+13.2
+14.4
+16.0
+12.7
+10.9
+11.1
+
+13.9
+11.4
+14.2
+12.5
+11.1
+10.5
+
+‡
+4.2
+5.9
+3.6
+3.2 !
+3.0 !
+
+4.7
+5.8
+8.0
+5.8
+‡
+1.6!
+
+‡
+1.6!
+4.4
+2.7!
+‡
+1.5!
+
+4.6 !
+5.7
+6.5
+4.0
+5.9
+3.2 !
+
+‡
+‡
+4.3
+1.1!
+‡
+‡
+
+Student-to-full-timeequivalent (FTE)
+teacher ratio
+Less than 13 students
+
+3,607,000
+
+75.1
+
+24.9
+
+15.8
+
+13.9
+
+4.8
+
+6.1
+
+2.9!
+
+8.0
+
+1.7!
+
+13 to less than 16
+students
+
+5,908,000
+
+80.1
+
+19.9
+
+14.2
+
+12.0
+
+4.3
+
+6.5
+
+3.6
+
+4.7
+
+1.2!
+
+16 to less than 20
+students
+20 or more students
+
+7,469,000
+5,338,000
+
+78.7
+79.8
+
+21.3
+20.2
+
+14.2
+10.3
+
+12.9
+12.2
+
+4.2
+3.3
+
+4.8
+3.8
+
+2.3
+1.5 !
+
+5.3
+3.7
+
+2.0
+2.5
+
+School characteristic
+Total bullied and
+not bullied
+Region
+Northeast
+Midwest
+South
+West
+Sector
+Public
+Private
+Catholic
+Other religious
+Nonsectarian
+
+See notes at end of table.
+
+T - 17
+
+National Center for Education Statistics
+Table 2.6
+
+Number and percentage distribution of students ages 12 through 18 who reported being bullied at
+school, by type of bullying and selected school characteristics: School year 2014–15—Continued
+Type of bullying reported
+
+Pushed,
+shoved,
+Spread Threatened tripped, or
+spit on
+rumors
+with harm
+
+Tried to
+make do
+things
+they did
+not want
+to do
+
+Excluded
+from Property
+activities destroyed
+on
+on
+purpose
+purpose
+
+Estimated
+number of
+students
+
+Not
+bullied
+
+Bullied
+
+Made fun
+of, called
+names or
+insulted
+
+1,579,000
+
+81.4
+
+18.6
+
+11.4
+
+10.7!
+
+4.4 !
+
+7.4!
+
+‡
+
+2.9 !
+
+‡
+
+5 to less than 20
+percent
+
+5,173,000
+
+82.3
+
+17.7
+
+10.4
+
+10.5
+
+2.1 !
+
+3.3
+
+1.6!
+
+5.1
+
+0.9!
+
+20 to less than 50
+percent
+50 percent or more
+
+6,822,000
+9,364,000
+
+74.8
+79.7
+
+25.2
+20.3
+
+16.1
+13.7
+
+16.0
+11.1
+
+5.2
+4.2
+
+5.7
+5.4
+
+3.6
+2.2
+
+7.1
+4.0
+
+2.6
+1.8
+
+3,242,000
+
+84.7
+
+15.3
+
+8.8
+
+8.7
+
+2.3 !
+
+3.4
+
+‡
+
+4.9
+
+‡
+
+School characteristic
+Percent of combined
+American Indian/
+Alaska Native, Asian/
+Native Hawaiian/
+Other Pacific Islander,
+Black/African
+American, Hispanic/
+Latino, and Two or
+more races students
+Less than 5 percent
+
+Percent of students
+eligible for free or
+reduced-price lunch2
+0 to less than 20
+percent
+
+20 to less than 50
+percent
+8,479,000
+77.9
+22.1
+15.1
+13.3
+5.1
+5.2
+3.3
+6.6
+2.5
+50 percent or more
+10,103,000
+77.5
+22.5
+14.1
+13.2
+4.0
+6.1
+2.4
+4.1
+1.7
+# Rounds to zero.
+! Interpret data with caution. The standard error for this estimate is 30 to 50 percent of the estimate’s value.
+‡ Reporting standards not met. The standard error for this estimate is equal to 50 percent or more of the estimate’s value.
+1
+The School Crime Supplement sample includes students ages 12–18 who were enrolled in grades 6–12 and, therefore, might not be
+representative of students in primary schools. Comparisons between students in primary schools and those in other school levels should be made
+with caution.
+2
+Data on free or reduced-price lunch eligibility are only available for public schools.
+NOTE: Tabular data include only students who reported being enrolled in grades 6 through 12 and not receiving any of their education through
+homeschooling during the school year reported. “Bullied” includes students who reported being made fun of, called names, or insulted; being the
+subject of rumors; being threatened with harm; being pushed, shoved, tripped, or spit on; being pressured into doing things they did not want to do;
+being excluded from activities on purpose; and having property destroyed on purpose. “At school” includes the school building, school property,
+school bus, or going to and from school. Bullying types may sum to more than total because students could have experienced more than one type
+of bullying. Total bullied and not bullied are reported for respondents for whom data on school and bullying are available. No school match was
+available for 859,000 students. Additional missing and not applicable school characteristic data are not shown for locale; school level; enrollment
+size; student to FTE teacher ratio; percent of combined American Indian/Alaska Native, Asian/Native, Hawaiian/Other Pacific Islander,
+Black/African American, Hispanic/Latino, and two or more races students; and percent of students eligible for free or reduced price lunch. Detail
+may not sum to totals because of rounding and these missing data. Population estimate based on Version 1 of the 2015 SCS for all students
+meeting the age, grade and school criteria is 24,622,000.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime Victimization
+Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1 of the survey are
+included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 18
+
+National Center for Education Statistics
+Table S2.6
+
+Standard errors for table 2.6: Number and percentage distribution of students ages 12 through 18
+who reported being bullied at school, by type of bullying and selected school characteristics:
+School year 2014–15
+
+School characteristic
+Total bullied and
+not bullied
+
+Estimated
+number of
+students Not bullied
+
+Bullied
+
+Made fun
+of, called
+names or
+insulted
+
+Spread
+rumors
+
+Type of bullying reported
+Tried to
+make do
+things
+Pushed,
+they did
+shoved,
+not want
+Threatened tripped, or
+to do
+spit on
+with harm
+
+Excluded
+Property
+from
+activities destroyed
+on
+on
+purpose
+purpose
+
+748,400
+
+1.01
+
+1.01
+
+0.88
+
+0.86
+
+0.46
+
+0.49
+
+0.36
+
+0.53
+
+0.30
+
+Region
+Northeast
+Midwest
+South
+West
+
+271,500
+375,900
+455,700
+377,200
+
+2.30
+2.00
+1.97
+1.62
+
+2.30
+2.00
+1.97
+1.62
+
+1.67
+1.68
+1.77
+1.39
+
+1.96
+1.71
+1.59
+1.61
+
+0.89
+0.74
+0.89
+1.00
+
+1.29
+0.86
+1.01
+0.74
+
+†
+0.87
+0.72
+0.55
+
+1.81
+1.06
+0.73
+0.83
+
+0.55
+0.68
+0.49
+0.58
+
+Sector
+Public
+Private
+Catholic
+Other religious
+Nonsectarian
+
+734,400
+152,400
+95,200
+57,700
+64,300
+
+1.05
+3.43
+6.20
+8.43
+5.81
+
+1.05
+3.43
+6.20
+8.43
+†
+
+0.92
+2.59
+4.81
+†
+†
+
+0.88
+2.87
+4.72
+†
+†
+
+0.49
+†
+†
+†
+†
+
+0.52
+†
+†
+†
+†
+
+0.38
+†
+†
+†
+†
+
+0.55
+1.97
+†
+†
+†
+
+0.31
+†
+†
+†
+†
+
+Locale
+City
+Suburb
+Town
+Rural
+
+456,600
+465,800
+263,800
+358,400
+
+1.73
+1.55
+3.00
+2.53
+
+1.73
+1.55
+3.00
+2.53
+
+1.57
+1.26
+2.14
+2.21
+
+1.47
+1.29
+2.56
+1.88
+
+0.79
+0.66
+1.15
+1.20
+
+0.96
+0.78
+1.53
+1.24
+
+0.64
+0.61
+†
+0.63
+
+0.94
+0.95
+1.28
+0.99
+
+0.62
+0.48
+†
+†
+
+Level
+Primary
+Middle
+High
+Other
+
+130,600
+359,100
+513,000
+145,900
+
+3.85
+1.90
+1.21
+3.43
+
+3.85
+1.90
+1.21
+3.43
+
+3.21
+1.75
+1.00
+2.97
+
+3.30
+1.43
+1.00
+2.60
+
+†
+0.99
+0.48
+†
+
+2.26
+1.15
+0.50
+1.71
+
+†
+0.67
+0.46
+†
+
+2.76
+1.00
+0.63
+1.23
+
+†
+0.73
+0.30
+†
+
+Enrollment size
+Less than 300
+300–599
+600–999
+1,000–1,499
+1,500–1,999
+2,000 or more
+
+222,300
+308,100
+340,500
+318,800
+238,300
+231,100
+
+2.81
+2.27
+1.86
+2.28
+2.85
+2.65
+
+2.81
+2.27
+1.86
+2.28
+2.85
+2.65
+
+2.54
+1.98
+1.65
+2.15
+1.92
+2.14
+
+2.51
+1.66
+1.51
+1.66
+2.16
+2.01
+
+†
+0.97
+1.02
+1.05
+1.06
+1.04
+
+1.30
+1.15
+1.27
+1.26
+†
+0.76
+
+†
+0.67
+0.92
+1.07
+†
+0.75
+
+1.68
+1.21
+1.03
+1.13
+1.52
+0.99
+
+†
+†
+0.94
+0.52
+†
+†
+
+Student-to-full-timeequivalent (FTE)
+teacher ratio
+Less than 13 students
+
+316,800
+
+2.55
+
+2.55
+
+2.13
+
+1.90
+
+1.21
+
+1.26
+
+0.94
+
+1.64
+
+0.57
+
+13 to less than 16
+students
+
+380,500
+
+2.10
+
+2.10
+
+1.81
+
+1.58
+
+0.90
+
+1.18
+
+0.93
+
+0.89
+
+0.47
+
+16 to less than 20
+students
+
+446,700
+
+1.85
+
+1.85
+
+1.46
+
+1.48
+
+0.76
+
+0.83
+
+0.62
+
+0.85
+
+0.58
+
+20 or more students
+
+402,900
+
+1.80
+
+1.80
+
+1.30
+
+1.65
+
+0.95
+
+0.74
+
+0.55
+
+0.88
+
+0.66
+
+See notes at end of table.
+
+T - 19
+
+National Center for Education Statistics
+Table S2.6
+
+Standard errors for table 2.6: Number and percentage distribution of students ages 12 through 18
+who reported being bullied at school, by type of bullying and selected school characteristics:
+School year 2014–15—Continued
+Type of bullying reported
+
+School characteristic
+Percent of combined
+American Indian/
+Alaska Native, Asian/
+Native Hawaiian/
+Other Pacific Islander,
+Black/African
+American, Hispanic/
+Latino, and Two or
+more races students
+Less than 5 percent
+
+Estimated
+number of
+students Not bullied
+
+Bullied
+
+Made fun
+of, called
+names or
+insulted
+
+Spread
+rumors
+
+Pushed,
+shoved,
+Threatened tripped, or
+spit on
+with harm
+
+Tried to
+make do
+things
+they did
+not want
+to do
+
+Excluded
+from
+activities
+on
+purpose
+
+Property
+destroyed
+on
+purpose
+
+263,500
+
+3.62
+
+3.62
+
+2.85
+
+3.28
+
+1.65
+
+2.29
+
+†
+
+1.37
+
+†
+
+5 to less than 20
+percent
+
+352,000
+
+1.78
+
+1.78
+
+1.46
+
+1.43
+
+0.65
+
+0.76
+
+0.58
+
+1.18
+
+0.45
+
+20 to less than 50
+percent
+50 percent or more
+
+424,700
+506,200
+
+2.08
+1.44
+
+2.08
+1.44
+
+1.67
+1.30
+
+1.72
+1.28
+
+0.92
+0.82
+
+0.89
+0.85
+
+0.80
+0.49
+
+0.97
+0.76
+
+0.67
+0.45
+
+0 to less than 20
+percent
+
+287,800
+
+2.20
+
+2.20
+
+1.53
+
+1.64
+
+0.82
+
+1.00
+
+†
+
+1.37
+
+†
+
+20 to less than 50
+percent
+
+423,000
+
+1.63
+
+1.63
+
+1.51
+
+1.26
+
+0.93
+
+0.76
+
+0.66
+
+1.01
+
+0.58
+
+Percent of students
+eligible for free or
+reduced-price lunch
+
+50 percent or more
+509,000
+1.70
+1.70
+1.36
+1.43
+0.75
+0.90
+0.55
+0.69
+0.42
+† Not applicable.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime Victimization
+Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1 of the survey are
+included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 20
+
+National Center for Education Statistics
+Table 2.7
+
+Number and percentage distribution of students ages 12 through 18 who reported being bullied at school,
+by reported negative effects and selected student characteristics: School year 2014–15
+Among students who reported being bullied: Negative effect
+reported1
+
+School work
+
+Relationships
+with family
+and friends
+
+Feelings
+about self
+
+Physical
+health
+
+20.8
+
+13.7
+
+14.2
+
+19.3
+
+9.1
+
+81.2
+77.2
+
+18.8
+22.8
+
+12.6
+14.7
+
+12.1
+16.0
+
+16.0
+22.0
+
+7.5
+10.4
+
+12,960,000
+
+78.4
+
+21.6
+
+11.5
+
+15.9
+
+18.9
+
+9.4
+
+Black, not Hispanic
+or Latino
+Hispanic or Latino
+
+3,319,000
+5,941,000
+
+75.3
+82.8
+
+24.7
+17.2
+
+17.7 !
+13.9
+
+14.1 !
+7.1!
+
+25.4
+14.2
+
+6.2 !
+10.3
+
+Asian, not Hispanic
+or Latino
+
+1,151,000
+
+84.4
+
+15.6
+
+19.2 !
+
+All other races, not
+Hispanic or Latino
+
+873,000
+
+74.1
+
+25.9
+
+22.3 !
+
+Estimated
+number of
+students
+
+Not bullied
+
+Bullied
+
+24,243,000
+
+79.2
+
+12,208,000
+12,036,000
+
+White, not Hispanic
+or Latino
+
+Student characteristic
+Total bullied and
+not bullied
+Sex
+Male
+Female
+Race/ethnicity2
+
+‡
+26.1 !
+
+29.4 !
+‡
+
+‡
+‡
+
+Grade
+6th
+2,029,000
+69.0
+31.0
+16.9
+7.1 !
+30.8
+10.4 !
+7th
+3,766,000
+74.9
+25.1
+21.1
+17.0
+24.5
+9.2 !
+8th
+3,870,000
+77.8
+22.2
+10.8 !
+16.4
+23.9
+10.4 !
+9th
+3,961,000
+81.0
+19.0
+16.3
+15.1
+17.2
+9.8 !
+10th
+3,749,000
+78.8
+21.2
+8.7 !
+14.3
+12.5 !
+10.6 !
+11th
+3,699,000
+84.2
+15.8
+‡
+12.6 !
+7.6 !
+‡
+12th
+3,169,000
+85.1
+14.9
+14.4 !
+14.7 !
+14.0 !
+‡
+Household income
+Less than $7,500
+937,000
+76.8
+23.2
+19.4 !
+‡
+23.7 !
+‡
+$7,500–14,999
+1,436,000
+76.1
+23.9
+15.6 !
+‡
+‡
+‡
+$15,000–24,999
+2,376,000
+78.1
+21.9
+22.6 !
+22.1 !
+12.1 !
+8.7 !
+$25,000–34,999
+2,713,000
+75.6
+24.4
+18.6
+15.3 !
+25.1
+11.9 !
+$35,000–49,999
+3,739,000
+78.2
+21.8
+8.3 !
+11.6 !
+16.6
+6.9 !
+$50,000 or more
+13,042,000
+81.0
+19.0
+11.6
+13.1
+20.5
+8.7
+! Interpret data with caution. The standard error for this estimate is 30 to 50 percent of the estimate’s value.
+‡ Reporting standards not met. The standard error for this estimate is equal to 50 percent or more of the estimate’s value.
+1
+Includes students who reported being effected "somewhat" or "a lot".
+2
+Respondents who identified themselves as being of Hispanic or Latino origin were classified as “Hispanic or Latino,” regardless of their race.
+“Black, not Hispanic or Latino” includes African Americans. “All other races, not Hispanic or Latino” includes Native Hawaiians or Other Pacific
+Islanders, American Indians or Alaska Natives, and respondents of two or more races (8 percent of all respondents).
+3
+The School Crime Supplement sample includes students ages 12–18 and, therefore, might not be representative of students in 6th grade.
+Comparisons between students in 6th grade and those in other grades should be made with caution.
+NOTE: Tabular data include only students who reported being enrolled in grades 6 through 12 and not receiving any of their education through
+homeschooling during the school year reported. “Bullied” includes students who reported being made fun of, called names, or insulted; being the
+subject of rumors; being threatened with harm; being pushed, shoved, tripped, or spit on; being pressured into doing things they did not want to do;
+being excluded from activities on purpose; and having property destroyed on purpose. “At school” includes the school building, school property,
+school bus, or going to and from school. Effect types may sum to more than total because students could have experienced more than one type of
+effect. Missing data are not shown for household income. Total bullied and not bullied are reported based on respondents for whom data on
+bullying are available. Detail may not sum to totals because of rounding and missing data. Population estimate based on Version 1 of the 2015
+SCS for all students meeting the age, grade and school criteria is 24,622,000.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime Victimization
+Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1 of the survey are
+included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+3
+
+T - 21
+
+National Center for Education Statistics
+Table S2.7
+
+Standard errors for table 2.7: Number and percentage distribution of students ages 12 through 18 who reported
+being bullied at school, by reported negative effects and selected student characteristics: School year 2014–15
+
+Among students who reported being bullied: Negative
+effect reported1
+
+Student characteristic
+Total bullied and
+not bullied
+Sex
+Male
+Female
+Race/ethnicity
+White, not Hispanic
+or Latino
+Black, not Hispanic
+or Latino
+Hispanic or Latino
+Asian, not Hispanic
+or Latino
+All other races, not
+Hispanic or Latino
+Grade
+6th
+7th
+8th
+9th
+10th
+11th
+12th
+
+Estimated
+number of
+students
+
+Not
+bullied
+
+Bullied
+
+763,200
+
+0.99
+
+0.99
+
+1.75
+
+484,300
+460,800
+
+1.31
+1.39
+
+1.31
+1.39
+
+539,300
+
+1.43
+
+326,400
+406,700
+
+Relationship
+School s with family
+work and friends
+
+Feelings
+about self
+
+Physical
+health
+
+1.79
+
+1.91
+
+1.28
+
+2.62
+2.29
+
+2.62
+2.15
+
+3.01
+2.70
+
+1.85
+1.87
+
+1.43
+
+2.16
+
+2.58
+
+2.72
+
+1.89
+
+3.29
+1.58
+
+3.29
+1.58
+
+5.88
+3.01
+
+4.79
+2.58
+
+5.60
+3.61
+
+2.91
+3.05
+
+124,300
+
+4.02
+
+4.02
+
+9.46
+
+†
+
+10.63
+
+†
+
+125,900
+
+4.91
+
+4.91
+
+7.66
+
+11.78
+
+†
+
+†
+
+156,600
+236,300
+219,100
+214,800
+221,700
+221,200
+200,900
+
+3.53
+2.48
+2.41
+2.11
+2.13
+2.24
+2.18
+
+3.53
+2.48
+2.41
+2.11
+2.13
+2.24
+2.18
+
+4.36
+4.91
+3.79
+4.57
+3.09
+†
+5.19
+
+3.37
+4.30
+4.70
+4.34
+3.90
+4.80
+5.52
+
+6.23
+4.17
+5.26
+4.30
+4.28
+3.49
+5.99
+
+3.71
+2.94
+3.46
+3.59
+3.66
+†
+†
+
+Household income
+Less than $7,500
+151,000
+4.86
+4.86
+9.38
+†
+8.79
+†
+$7,500–14,999
+188,400
+5.72
+5.72
+6.67
+†
+†
+†
+$15,000–24,999
+228,300
+3.06
+3.06
+7.07
+7.30
+5.00
+4.27
+$25,000–34,999
+218,700
+2.74
+2.74
+5.15
+4.60
+4.77
+4.24
+$35,000–49,999
+281,900
+2.61
+2.61
+3.24
+3.60
+4.67
+2.92
+$50,000 or more
+557,400
+1.30
+1.30
+2.10
+2.64
+2.80
+1.89
+† Not applicable.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the
+National Crime Victimization Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only
+respondents completing Version 1 of the survey are included in these estimates. A complete discussion of the split-half
+methodology and results can be found at http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 22
+
+National Center for Education Statistics
+Table 2.8
+
+Number and percentage distribution of students ages 12 through 18 who reported being bullied at school,
+by reported negative effects and selected school characteristics: School year 2014–15
+
+Among students who reported being bullied:
+Negative effect reported1
+
+Bullied
+
+School
+work
+
+Relationships
+with family
+and friends
+
+Feelings
+about self
+
+Physical
+health
+
+79.1
+
+20.9
+
+13.6
+
+14.2
+
+19.8
+
+9.2
+
+3,714,000
+5,749,000
+8,449,000
+5,471,000
+
+81.7
+76.5
+78.8
+80.4
+
+18.3
+23.5
+21.2
+19.6
+
+16.0 !
+13.8
+11.9
+14.5
+
+14.0 !
+12.9
+15.1
+14.3
+
+29.7
+21.0
+16.1
+18.2
+
+9.0 !
+8.3
+11.4
+6.6 !
+
+22,050,000
+1,334,000
+499,000
+230,000
+330,000
+
+78.7
+84.7
+81.3
+79.8
+90.7
+
+21.3
+15.3
+18.7 !
+20.2 !
+‡
+
+13.5
+‡
+‡
+‡
+#
+
+14.1
+‡
+‡
+#
+‡
+
+20.2
+‡
+‡
+‡
+#
+
+8.5
+24.1 !
+‡
+‡
+‡
+
+Locale
+City
+Suburb
+Town
+Rural
+
+7,091,000
+9,090,000
+2,491,000
+4,701,000
+
+78.7
+78.7
+79.7
+80.0
+
+21.3
+21.3
+20.3
+20.0
+
+21.2
+12.1
+9.0 !
+7.0 !
+
+15.1
+13.9
+13.6 !
+13.6 !
+
+20.9
+23.0
+15.5 !
+13.8
+
+11.7
+7.3
+16.9 !
+4.7 !
+
+Level2
+Primary
+Middle
+High
+Other
+
+1,227,000
+7,296,000
+13,292,000
+1,229,000
+
+78.2
+74.1
+81.1
+85.7
+
+21.8
+25.9
+18.9
+14.3
+
+27.1 !
+14.1
+12.5
+‡
+
+20.0 !
+13.1
+15.6
+#
+
+34.8
+27.4
+13.6
+‡
+
+‡
+10.1
+8.9
+‡
+
+2,208,000
+4,510,000
+5,940,000
+4,373,000
+3,043,000
+3,127,000
+
+78.6
+78.8
+76.3
+79.9
+79.5
+83.5
+
+21.4
+21.2
+23.7
+20.1
+20.5
+16.5
+
+12.2 !
+11.0 !
+18.5
+10.4 !
+11.3 !
+15.4 !
+
+19.8 !
+10.7 !
+13.5
+13.8
+16.3 !
+16.2 !
+
+17.2 !
+18.3
+25.4
+19.9
+19.1
+10.2 !
+
+12.8 !
+‡
+13.7
+8.4
+11.0 !
+‡
+
+3,607,000
+
+75.1
+
+24.9
+
+15.3
+
+17.2
+
+24.9
+
+10.9
+
+5,908,000
+
+80.1
+
+19.9
+
+14.5
+
+16.7
+
+22.1
+
+10.4
+
+7,469,000
+5,338,000
+
+78.7
+79.8
+
+21.3
+20.2
+
+11.3
+12.8
+
+12.1
+13.3
+
+16.0
+16.9
+
+School characteristic
+Total bullied and
+not bullied
+Region
+Northeast
+Midwest
+South
+West
+Sector
+Public
+Private
+Catholic
+Other religious
+Nonsectarian
+
+Enrollment size
+Less than 300
+300–599
+600–999
+1,000–1,499
+1,500–1,999
+2,000 or more
+Student-to-full-timeequivalent (FTE)
+teacher ratio
+Less than 13 students
+13 to less than 16
+students
+16 to less than 20
+students
+20 or more students
+See notes at end of table.
+
+Estimated
+number of
+students
+
+Not bullied
+
+23,384,000
+
+T - 23
+
+8.9
+6.2 !
+
+National Center for Education Statistics
+Table 2.8
+
+Number and percentage distribution of students ages 12 through 18 who reported being bullied at school,
+by reported negative effects and selected student characteristics: School year 2014–15—Continued
+
+Among students who reported being bullied:
+Negative effect reported1
+
+School characteristic
+Percent of combined
+American Indian/
+Alaska Native, Asian/
+Native Hawaiian/
+Other Pacific Islander,
+Black/African
+American, Hispanic/
+Latino, and Two or
+more races students
+Less than 5 percent
+5 to less than 20
+percent
+20 to less than 50
+percent
+50 percent or more
+Percent of students
+eligible for free or
+reduced-price lunch3
+0 to less than 20
+percent
+20 to less than 50
+percent
+50 percent or more
+
+Estimated
+number of
+students
+
+Not bullied
+
+1,579,000
+
+Bullied
+
+School
+work
+
+Relationships
+with family
+and friends
+
+Feelings
+about self
+
+Physical
+health
+
+81.4
+
+18.6
+
+‡
+
+‡
+
+‡
+
+‡
+
+5,173,000
+
+82.3
+
+17.7
+
+8.9 !
+
+12.6
+
+18.4
+
+6,822,000
+9,364,000
+
+74.8
+79.7
+
+25.2
+20.3
+
+15.7
+15.3
+
+16.3
+14.1
+
+22.6
+19.8
+
+3,242,000
+
+84.7
+
+15.3
+
+13.8 !
+
+17.3 !
+
+14.1 !
+
+8,479,000
+10,103,000
+
+77.9
+77.5
+
+22.1
+22.5
+
+13.4
+13.7
+
+15.1
+12.8
+
+24.5
+18.0
+
+8.3 !
+14.1
+6.7
+
+‡
+10.7
+8.1
+
+# Rounds to zero.
+! Interpret data with caution. The standard error for this estimate is 30 to 50 percent of the estimate’s value.
+‡ Reporting standards not met. The standard error for this estimate is equal to 50 percent or more of the estimate’s value.
+1
+Includes students who reported being effected "somewhat" or "a lot".
+2
+The School Crime Supplement sample includes students ages 12–18 who were enrolled in grades 6–12 and, therefore, might not be
+representative of students in primary schools. Comparisons between students in primary schools and those in other school levels should be
+made with caution.
+3
+Data on free or reduced-price lunch eligibility are only available for public schools.
+NOTE: Tabular data include only students who reported being enrolled in grades 6 through 12 and not receiving any of their education
+through homeschooling during the school year reported. “Bullied” includes students who reported being made fun of, called names, or
+insulted; being the subject of rumors; being threatened with harm; being pushed, shoved, tripped, or spit on; being pressured into doing
+things they did not want to do; being excluded from activities on purpose; and having property destroyed on purpose. “At school” includes the
+school building, school property, school bus, or going to and from school. Effect types may sum to more than total because students could
+have experienced more than one type of effect. Total bullied and not bullied are based on respondents for whom data on school and bullying
+are available. No school match was available for 859,000 students. Additional missing and not applicable school characteristic data are not
+shown for locale; school level; enrollment size; student to FTE teacher ratio; percent of combined American Indian/Alaska Native,
+Asian/Native, Hawaiian/Other Pacific Islander, Black/African American, Hispanic/Latino, and two or more races students; and percent of
+students eligible for free or reduced price lunch. Detail may not sum to totals because of rounding and these missing data. Population
+estimate based on Version 1 of the 2015 SCS for all students meeting the age, grade and school criteria is 24,622,000.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime
+Victimization Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version
+1 of the survey are included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 24
+
+National Center for Education Statistics
+Table S2.8
+
+Standard errors for table 2.8: Number and percentage distribution of students ages 12 through 18 who
+reported being bullied at school, by reported negative effects and selected school characteristics: School
+year 2014–15
+
+Among students who reported being bullied: Negative
+effect reported
+
+Estimated
+number of
+students
+
+Not
+bullied
+
+Bullied
+
+School
+work
+
+Relationships
+with family
+and friends
+
+Feelings
+about self
+
+Physical
+health
+
+748,400
+
+1.01
+
+1.01
+
+1.79
+
+1.82
+
+1.94
+
+1.30
+
+Region
+Northeast
+Midwest
+South
+West
+
+271,500
+375,900
+455,700
+377,200
+
+2.30
+2.00
+1.97
+1.62
+
+2.30
+2.00
+1.97
+1.62
+
+5.11
+3.32
+3.02
+3.58
+
+4.85
+3.26
+3.00
+3.88
+
+5.83
+3.29
+3.59
+
+3.36
+2.35
+2.47
+2.49
+
+Sector
+Public
+Private
+Catholic
+Other religious
+Nonsectarian
+
+734,400
+152,400
+95,200
+57,700
+64,300
+
+1.05
+3.43
+6.20
+8.43
+5.81
+
+1.05
+3.43
+6.20
+8.43
+†
+
+1.82
+†
+†
+†
+†
+
+1.87
+†
+†
+†
+†
+
+2.04
+†
+†
+†
+†
+
+1.26
+10.51
+†
+†
+†
+
+Locale
+City
+Suburb
+Town
+Rural
+
+456,600
+465,800
+263,800
+358,400
+
+1.73
+1.55
+3.00
+2.53
+
+1.73
+1.55
+3.00
+2.53
+
+4.16
+2.58
+4.33
+2.79
+
+3.22
+2.77
+5.08
+4.24
+
+3.30
+3.05
+4.94
+3.61
+
+2.68
+1.78
+5.16
+1.95
+
+Level
+Primary
+Middle
+High
+Other
+
+130,600
+359,100
+513,000
+145,900
+
+3.85
+1.90
+1.21
+3.43
+
+3.85
+1.90
+1.21
+3.43
+
+9.75
+2.86
+2.18
+†
+
+9.26
+2.74
+2.50
+†
+
+9.66
+3.49
+2.49
+†
+
+†
+2.23
+1.79
+†
+
+Enrollment size
+Less than 300
+300–599
+600–999
+1,000–1,499
+1,500–1,999
+2,000 or more
+
+222,300
+308,100
+340,500
+318,800
+238,300
+231,100
+
+2.81
+2.27
+1.86
+2.28
+2.85
+2.65
+
+2.81
+2.27
+1.86
+2.28
+2.85
+2.65
+
+5.94
+3.60
+3.75
+3.61
+4.16
+5.35
+
+6.19
+3.50
+3.17
+4.03
+5.08
+4.94
+
+5.98
+4.39
+4.25
+4.91
+5.33
+4.59
+
+4.75
+†
+2.98
+2.36
+4.29
+†
+
+316,800
+
+2.55
+
+2.55
+
+3.90
+
+4.69
+
+4.67
+
+2.95
+
+380,500
+
+2.10
+
+2.10
+
+3.66
+
+3.74
+
+4.19
+
+2.91
+
+446,700
+402,900
+
+1.85
+1.80
+
+1.85
+1.80
+
+2.83
+3.27
+
+2.81
+3.64
+
+3.13
+3.49
+
+2.37
+2.13
+
+School characteristic
+Total bullied and
+not bullied
+
+Student-to-full-timeequivalent (FTE)
+teacher ratio
+Less than 13 students
+13 to less than 16
+students
+16 to less than 20
+students
+20 or more students
+See notes at end of table.
+
+T - 25
+
+National Center for Education Statistics
+Table S2.8
+
+Standard errors for table 2.8: Number and percentage distribution of students ages 12 through 18 who
+reported being bullied at school, by reported negative effects and selected student characteristics: School
+year 2014–15—Continued
+
+School characteristic
+Percent of combined
+American Indian/
+Alaska Native, Asian/
+Native Hawaiian/
+Other Pacific Islander,
+Black/African
+American, Hispanic/
+Latino, and Two or
+more races students
+Less than 5 percent
+5 to less than 20
+percent
+20 to less than 50
+percent
+50 percent or more
+
+Among students who reported being bullied: Negative
+effect reported
+
+Estimated
+number
+of
+students
+
+Not
+bullied
+
+263,500
+
+Bullied
+
+School
+work
+
+Relationships
+with family
+and friends
+
+Feelings
+about
+self
+
+Physical
+health
+
+3.62
+
+3.62
+
+†
+
+†
+
+†
+
+†
+
+352,000
+
+1.78
+
+1.78
+
+3.06
+
+3.34
+
+4.42
+
+3.03
+
+424,700
+506,200
+
+2.08
+1.44
+
+2.08
+1.44
+
+3.09
+2.98
+
+2.99
+3.09
+
+3.51
+2.99
+
+2.76
+1.89
+
+287,800
+
+2.20
+
+2.20
+
+4.93
+
+5.32
+
+5.08
+
+†
+
+423,000
+509,000
+
+1.63
+1.70
+
+1.63
+1.70
+
+2.78
+2.52
+
+3.07
+2.54
+
+3.41
+2.58
+
+2.19
+1.90
+
+Percent of students
+eligible for free or
+reduced-price lunch
+0 to less than 20
+percent
+20 to less than 50
+percent
+50 percent or more
+
+† Not applicable.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime
+Victimization Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1 of
+the survey are included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 26
+
+National Center for Education Statistics
+Table 2.9
+
+Number and percentage distribution of students ages 12 through 18 who reported being bullied at school, by
+perceived relationship of bullying to personal characteristics and selected student characteristics: School
+year 2014–15
+Among students who reported being bullied: Perceived relation of bullying to
+Estimated
+number of
+students
+
+Not
+bullied
+
+Bullied
+
+Race
+
+Religion
+
+Total bullied and
+not bullied
+24,243,000
+
+79.2
+
+20.8
+
+10.1
+
+3.7
+
+6.9
+
+4.4
+
+12,208,000
+12,036,000
+
+81.2
+77.2
+
+18.8
+22.8
+
+11.7
+8.7
+
+6.0
+1.8 !
+
+8.8
+5.3
+
+6.5
+2.7 !
+
+White, not Hispanic
+or Latino
+
+12,960,000
+
+78.4
+
+21.6
+
+4.7
+
+3.7 !
+
+1.9!
+
+Black, not Hispanic
+or Latino
+Hispanic or Latino
+
+3,319,000
+5,941,000
+
+75.3
+82.8
+
+24.7
+17.2
+
+15.5 !
+12.4
+
+‡
+‡
+
+Asian, not Hispanic
+or Latino
+
+1,151,000
+
+84.4
+
+15.6
+
+38.6 !
+
+All other races, not
+Hispanic or Latino
+
+873,000
+
+74.1
+
+25.9
+
+23.7 !
+
+Student characteristic
+
+Sex
+Male
+Female
+
+Ethnic
+origin Disability
+
+Sexual
+Gender orientation Appearance
+6.7
+
+3.4 !
+
+26.9
+
+2.4!
+10.3
+
+4.8 !
+‡
+
+23.1
+30.0
+
+4.9
+
+6.7
+
+4.0 !
+
+23.9
+
+‡
+14.2
+
+‡
+4.6!
+
+‡
+7.1!
+
+‡
+‡
+
+30.7
+29.7
+
+‡
+
+32.1!
+
+#
+
+#
+
+#
+
+29.3!
+
+‡
+
+18.4!
+
+‡
+
+‡
+
+‡
+
+35.0
+
+Race/ethnicity1
+
+Grade2
+6th
+2,029,000
+69.0
+31.0
+11.6 !
+‡
+9.4!
+‡
+‡
+‡
+21.9
+7th
+3,766,000
+74.9
+25.1
+17.3
+‡
+7.3!
+4.9 !
+‡
+‡
+26.5
+8th
+3,870,000
+77.8
+22.2
+8.9 !
+‡
+‡
+4.0 !
+6.9!
+‡
+31.5
+9th
+3,961,000
+81.0
+19.0
+8.2 !
+6.3 !
+9.6!
+‡
+‡
+‡
+22.4
+78.8
+21.2
+10.1 !
+‡
+8.0!
+‡
+9.0!
+‡
+30.8
+10th
+3,749,000
+11th
+3,699,000
+84.2
+15.8
+‡
+#
+‡
+‡
+‡
+‡
+29.2
+12th
+3,169,000
+85.1
+14.9
+‡
+‡
+‡
+‡
+8.8!
+‡
+24.0
+Household income
+Less than $7,500
+937,000
+76.8
+23.2
+16.0 !
+‡
+‡
+17.1 !
+‡
+#
+33.9
+$7,500–14,999
+1,436,000
+76.1
+23.9
+12.6 !
+‡
+‡
+#
+‡
+#
+30.3
+$15,000–24,999
+2,376,000
+78.1
+21.9
+‡
+‡
+‡
+‡
+‡
+#
+25.4
+24.4
+10.2 !
+#
+‡
+‡
+8.5!
+#
+28.1
+$25,000–34,999
+2,713,000
+75.6
+$35,000–49,999
+3,739,000
+78.2
+21.8
+12.1 !
+‡
+9.2!
+‡
+10.0!
+5.8 !
+30.0
+$50,000 or more
+13,042,000
+81.0
+19.0
+10.0
+4.9 !
+8.1
+5.2 !
+4.1!
+5.0 !
+24.8
+# Rounds to zero.
+! Interpret data with caution. The standard error for this estimate is 30 to 50 percent of the estimate’s value.
+‡ Reporting standards not met. The standard error for this estimate is equal to 50 percent or more of the estimate’s value.
+1
+Respondents who identified themselves as being of Hispanic or Latino origin were classified as “Hispanic or Latino,” regardless of their race.
+“Black, not Hispanic or Latino” includes African Americans. “All other races, not Hispanic or Latino” includes Native Hawaiians or Other Pacific
+Islanders, American Indians or Alaska Natives, and respondents of two or more races (4 percent of all respondents).
+2
+The School Crime Supplement sample includes students ages 12–18 and, therefore, might not be representative of students in 6th grade.
+Comparisons between students in 6th grade and those in other grades should be made with caution.
+NOTE: Tabular data include only students who reported being enrolled in grades 6 through 12 and not receiving any of their education through
+homeschooling during the school year reported. “Bullied” includes students who reported being made fun of, called names, or insulted; being
+the subject of rumors; being threatened with harm; being pushed, shoved, tripped, or spit on; being pressured into doing things they did not
+want to do; being excluded from activities on purpose; and having property destroyed on purpose. “At school” includes the school building,
+school property, school bus, or going to and from school. Perceived relation may sum to more than total because students could have
+perceived more than one type of relation. Missing data are not shown for household income. Total bullied and not bullied are based on
+respondents for whom data on bullying are available. Detail may not sum to totals because of rounding and missing data. Population estimate
+based on Version 1 of the 2015 SCS for all students meeting the age, grade and school criteria for is 24,622,000.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime
+Victimization Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1
+of the survey are included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 27
+
+National Center for Education Statistics
+Table S2.9
+
+Standard errors for table 2.9: Number and percentage distribution of students ages 12 through 18 who reported
+being bullied at school, by perceived relationship of bullying to personal characteristics and selected student
+characteristics: School year 2014–15
+Among students who reported being bullied: Perceived relationship of bullying to
+Estimated
+number of
+students
+
+Not
+bullied
+
+Bullied
+
+Race
+
+Religion
+
+Ethnic
+origin
+
+Disability
+
+Gender
+
+763,200
+
+0.99
+
+0.99
+
+1.60
+
+0.90
+
+1.17
+
+1.01
+
+1.37
+
+1.04
+
+1.87
+
+484,300
+460,800
+
+1.31
+1.39
+
+1.31
+1.39
+
+2.45
+2.03
+
+1.69
+0.83
+
+2.01
+1.50
+
+1.66
+1.08
+
+1.07
+2.20
+
+1.51
+†
+
+2.82
+2.44
+
+539,300
+
+1.43
+
+1.43
+
+1.39
+
+1.24
+
+0.91
+
+1.47
+
+1.48
+
+1.49
+
+2.22
+
+326,400
+406,700
+
+3.29
+1.58
+
+3.29
+1.58
+
+5.13
+3.66
+
+†
+†
+
+†
+3.71
+
+†
+1.88
+
+†
+3.36
+
+†
+†
+
+5.86
+4.54
+
+124,300
+
+4.02
+
+4.02
+
+12.09
+
+†
+
+12.71
+
+†
+
+†
+
+†
+
+9.76
+
+125,900
+
+4.91
+
+4.91
+
+8.07
+
+†
+
+7.27
+
+†
+
+†
+
+†
+
+9.22
+
+Grade
+6th
+7th
+8th
+9th
+10th
+11th
+12th
+
+156,600
+236,300
+219,100
+214,800
+221,700
+221,200
+200,900
+
+3.53
+2.48
+2.41
+2.11
+2.13
+2.24
+2.18
+
+3.53
+2.48
+2.41
+2.11
+2.13
+2.24
+2.18
+
+4.64
+4.76
+3.56
+3.64
+3.82
+†
+†
+
+†
+†
+†
+2.95
+†
+†
+†
+
+4.43
+2.83
+†
+3.59
+3.30
+†
+†
+
+†
+2.10
+1.96
+†
+†
+†
+†
+
+†
+†
+3.08
+†
+3.26
+†
+4.17
+
+†
+†
+†
+†
+†
+†
+†
+
+5.56
+4.74
+6.26
+5.04
+4.91
+6.37
+7.12
+
+Household income
+Less than $7,500
+$7,500–14,999
+$15,000–24,999
+$25,000–34,999
+$35,000–49,999
+$50,000 or more
+
+151,000
+188,400
+228,300
+218,700
+281,900
+557,400
+
+4.86
+5.72
+3.06
+2.74
+2.61
+1.30
+
+4.86
+5.72
+3.06
+2.74
+2.61
+1.30
+
+7.82
+6.02
+†
+4.34
+4.50
+2.28
+
+†
+†
+†
+†
+†
+1.55
+
+†
+†
+†
+†
+3.40
+1.87
+
+8.28
+†
+†
+†
+†
+1.55
+
+†
+†
+†
+3.79
+4.36
+1.55
+
+†
+†
+†
+†
+2.89
+1.58
+
+9.65
+7.01
+6.91
+5.63
+5.65
+2.67
+
+Student characteristic
+Total bullied and
+not bullied
+Sex
+Male
+Female
+Race/ethnicity
+White, not Hispanic
+or Latino
+Black, not Hispanic
+or Latino
+Hispanic or Latino
+Asian, not Hispanic
+or Latino
+All other races, not
+Hispanic or Latino
+
+Sexual
+orientation Appearance
+
+† Not applicable.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime Victimization
+Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1 of the survey are
+included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 28
+
+National Center for Education Statistics
+Table 2.10
+
+Number and percentage distribution of students ages 12 through 18 who reported being bullied at school, by
+perceived relationship of bullying to personal characteristics and selected school characteristics: School year
+2014–15
+Among students who reported being bullied: Perceived relationship of bullying to
+Estimated
+number of
+students
+
+Not
+bullied
+
+Bullied
+
+Race
+
+Religion
+
+Ethnic
+origin
+
+Disability
+
+23,384,000
+
+79.1
+
+20.9
+
+10.3
+
+3.8
+
+7.1
+
+4.5
+
+6.6
+
+3.5
+
+26.8
+
+3,714,000
+5,749,000
+8,449,000
+5,471,000
+
+81.7
+76.5
+78.8
+80.4
+
+18.3
+23.5
+21.2
+19.6
+
+11.7
+7.6
+7.5
+17.4
+
+62.6
+3.7
+4.6
+62.6
+
+8.8
+6.7
+4.6
+10.4
+
+62.6
+4.6
+5.1
+5.4
+
+7.2
+5.2
+5.8
+9.5
+
+62.6
+62.6
+62.6
+62.6
+
+13.6
+28.7
+27.5
+31.6
+
+22,050,000
+1,334,000
+499,000
+230,000
+330,000
+
+78.7
+84.7
+81.3
+79.8
+90.7
+
+21.3
+15.3
+18.7
+20.2
+62.6
+
+10.3
+62.6
+62.6
+#
+#
+
+3.7
+62.6
+#
+#
+62.6
+
+7.0
+62.6
+#
+#
+62.6
+
+4.4
+62.6
+#
+#
+62.6
+
+6.8
+62.6
+#
+#
+62.6
+
+3.7
+#
+#
+#
+#
+
+27.1
+62.6
+62.6
+#
+62.6
+
+Locale
+City
+Suburb
+Town
+Rural
+
+7,091,000
+9,090,000
+2,491,000
+4,701,000
+
+78.7
+78.7
+79.7
+80.0
+
+21.3
+21.3
+20.3
+20.0
+
+12.0
+11.2
+62.6
+6.8
+
+62.6
+3.5
+62.6
+7.3
+
+5.7
+10.1
+62.6
+62.6
+
+4.7
+5.4
+62.6
+62.6
+
+8.5
+6.4
+62.6
+62.6
+
+62.6
+4.3
+62.6
+62.6
+
+28.1
+27.1
+19.4
+28.3
+
+Level2
+Primary
+Middle
+High
+Other
+
+1,227,000
+7,296,000
+13,292,000
+1,229,000
+
+78.2
+74.1
+81.1
+85.7
+
+21.8
+25.9
+18.9
+14.3
+
+#
+15.5
+7.1
+62.6
+
+62.6
+3.1
+4.8
+#
+
+#
+7.6
+7.1
+62.6
+
+62.6
+3.8
+4.8
+62.6
+
+62.6
+8.3
+6.1
+62.6
+
+#
+62.6
+4.6
+62.6
+
+14.3
+29.2
+27.7
+62.6
+
+Enrollment size
+Less than 300
+300–599
+600–999
+1,000–1,499
+1,500–1,999
+2,000 or more
+
+2,208,000
+4,510,000
+5,940,000
+4,373,000
+3,043,000
+3,127,000
+
+78.6
+78.8
+76.3
+79.9
+79.5
+83.5
+
+21.4
+21.2
+23.7
+20.1
+20.5
+16.5
+
+62.6
+6.7
+12.2
+9.6
+16.0
+8.8
+
+62.6
+62.6
+3.6
+62.6
+62.6
+9.4
+
+62.6
+62.6
+5.2
+62.6
+16.2
+62.6
+
+62.6
+62.6
+3.4
+62.6
+62.6
+62.6
+
+#
+5.3
+12.7
+62.6
+62.6
+62.6
+
+#
+62.6
+3.9
+62.6
+62.6
+62.6
+
+19.6
+17.6
+34.4
+28.9
+29.4
+23.4
+
+Student-to-full-timeequivalent (FTE)
+teacher ratio
+Less than 13 students
+
+School characteristic
+Total bullied and
+not bullied
+Region
+Northeast
+Midwest
+South
+West
+Sector
+Public
+Private
+Catholic
+Other religious
+Nonsectarian
+
+Sexual
+Gender orientation
+
+Appearance
+
+3,607,000
+
+75.1
+
+24.9
+
+7.2
+
+62.6
+
+9.0
+
+62.6
+
+5.6
+
+62.6
+
+23.0
+
+13 to less than 16
+students
+
+5,908,000
+
+80.1
+
+19.9
+
+10.3
+
+6.1
+
+6.9
+
+6.1
+
+4.8
+
+62.6
+
+25.3
+
+16 to less than 20
+students
+20 or more students
+
+7,469,000
+5,338,000
+
+78.7
+79.8
+
+21.3
+20.2
+
+8.1
+16.3
+
+62.6
+3.6
+
+4.1
+10.4
+
+4.0
+62.6
+
+6.5
+10.6
+
+62.6
+62.6
+
+30.2
+27.6
+
+See notes at end of table.
+
+T - 29
+
+National Center for Education Statistics
+Table 2.10
+
+Number and percentage distribution of students ages 12 through 18 who reported being bullied at school, by
+perceived relationship of bullying to personal characteristics and selected school characteristics: School
+year 2014–15—Continued
+Among students who reported being bullied: Perceived relationship of bullying to
+Estimated
+number of
+students
+
+Not
+bullied
+
+Bullied
+
+Race
+
+Religion
+
+Ethnic
+origin
+
+Disability
+
+Gender
+
+Sexual
+orientation
+
+Appearance
+
+1,579,000
+
+81.4
+
+18.6
+
+#
+
+#
+
+#
+
+62.6
+
+#
+
+#
+
+14.5
+
+5 to less than 20
+percent
+
+5,173,000
+
+82.3
+
+17.7
+
+6.8
+
+62.6
+
+5.0
+
+62.6
+
+6.2
+
+62.6
+
+18.9
+
+20 to less than 50
+percent
+50 percent or more
+
+6,822,000
+9,364,000
+
+74.8
+79.7
+
+25.2
+20.3
+
+11.8
+11.8
+
+5.3
+2.7
+
+9.6
+6.7
+
+6.3
+3.4
+
+6.2
+8.5
+
+5.4
+62.6
+
+31.7
+28.2
+
+3,242,000
+
+84.7
+
+15.3
+
+10.2
+
+62.6
+
+62.6
+
+62.6
+
+62.6
+
+62.6
+
+18.2
+
+School characteristic
+Percent of combined
+American Indian/
+Alaska Native, Asian/
+Native Hawaiian/
+Other Pacific Islander,
+Black/African
+American, Hispanic/
+Latino, and two or
+more races students
+Less than 5 percent
+
+Percent of students
+eligible for free or
+reduced-price lunch3
+0 to less than 20
+percent
+
+20 to less than 50
+percent
+8,479,000
+77.9
+22.1
+11.4
+5.6
+7.7
+7.9
+6.6
+5.3
+29.5
+50 percent or more
+10,103,000
+77.5
+22.5
+9.4
+1.8
+6.1
+1.8
+7.2
+62.6
+27.2
+# Rounds to zero.
+! Interpret data with caution. The standard error for this estimate is 30 to 50 percent of the estimate’s value.
+‡ Reporting standards not met. The standard error for this estimate is equal to 50 percent or more of the estimate’s value.
+1
+Includes students who reported being effected somewhat or a lot.
+2
+The School Crime Supplement sample includes students ages 12–18 who were enrolled in grades 6–12 and, therefore, might not be representative
+of students in primary schools. Comparisons between students in primary schools and those in other school levels should be made with caution.
+3
+Data on free or reduced-price lunch eligibility are only available for public schools.
+NOTE: Tabular data include only students who reported being enrolled in grades 6 through 12 and not receiving any of their education through
+homeschooling during the school year reported. “Bullied” includes students who reported being made fun of, called names, or insulted; being the
+subject of rumors; being threatened with harm; being pushed, shoved, tripped, or spit on; being pressured into doing things they did not want to do;
+being excluded from activities on purpose; and having property destroyed on purpose. “At school” includes the school building, school property, school
+bus, or going to and from school. Perceived relation may sum to more than total because students could have perceived more than one type of
+relation. Total bullied and not bullied are reported for respondents for whom data on school and bullying are available. No school match was available
+for 859,000 students. Additional missing and not applicable school characteristic data are not shown for locale; school level; enrollment size; student to
+FTE teacher ratio; percent of combined American Indian/Alaska Native, Asian/Native, Hawaiian/Other Pacific Islander, Black/African American,
+Hispanic/Latino, and two or more races students; and percent of students eligible for free or reduced price lunch. Detail may not sum to totals because
+of rounding and these missing data. Population estimate based on Version 1 of the 2015 SCS for all students meeting the age, grade and school
+criteria is 24,622,000.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime Victimization
+Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1 of the survey are
+included in these estimates. A complete discussion of the split-half methodology and results can be found at http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 30
+
+National Center for Education Statistics
+Table S2.10
+
+Standard errors for table 2.10: Number and percentage distribution of students ages 12 through 18 who reported
+being bullied at school, by perceived relationship of bullying to personal characteristics and selected school
+characteristics: School year 2014–15
+Among students who reported being bullied: Perceived relationship of bullying to
+Estimated
+number
+of
+students
+
+Not
+bullied
+
+Bullied
+
+Race
+
+Religion
+
+Ethnic
+origin
+
+Disability
+
+748,400
+
+1.01
+
+1.01
+
+1.64
+
+0.93
+
+1.20
+
+1.04
+
+1.37
+
+1.07
+
+1.92
+
+Region
+Northeast
+Midwest
+South
+West
+
+271,500
+375,900
+455,700
+377,200
+
+2.30
+2.00
+1.97
+1.62
+
+2.30
+2.00
+1.97
+1.62
+
+4.76
+2.95
+2.13
+4.11
+
+†
+1.78
+1.58
+†
+
+3.93
+2.39
+1.29
+2.96
+
+†
+2.17
+1.63
+2.53
+
+3.32
+2.05
+1.96
+4.19
+
+†
+†
+†
+†
+
+4.06
+3.12
+3.43
+4.59
+
+Sector
+Public
+Private
+Catholic
+Other religious
+Nonsectarian
+
+734,400
+152,400
+95,200
+57,700
+64,300
+
+1.05
+3.43
+6.20
+8.43
+5.81
+
+1.05
+3.43
+6.20
+8.43
+†
+
+1.69
+†
+†
+†
+†
+
+0.91
+†
+†
+†
+†
+
+1.27
+†
+†
+†
+†
+
+1.03
+†
+†
+†
+†
+
+1.42
+†
+†
+†
+†
+
+1.12
+†
+†
+†
+†
+
+2.00
+†
+†
+†
+†
+
+Locale
+City
+Suburb
+Town
+Rural
+
+456,600
+465,800
+263,800
+358,400
+
+1.73
+1.55
+3.00
+2.53
+
+1.73
+1.55
+3.00
+2.53
+
+3.22
+2.35
+†
+2.98
+
+†
+1.44
+†
+3.08
+
+2.06
+2.14
+†
+†
+
+2.19
+1.56
+†
+†
+
+2.46
+2.42
+†
+†
+
+†
+1.54
+†
+†
+
+3.70
+2.84
+6.07
+4.83
+
+Level
+Primary
+Middle
+High
+Other
+
+130,600
+359,100
+513,000
+145,900
+
+3.85
+1.90
+1.21
+3.43
+
+3.85
+1.90
+1.21
+3.43
+
+†
+3.31
+1.79
+†
+
+†
+1.23
+1.58
+†
+
+†
+2.21
+1.61
+†
+
+†
+1.36
+1.58
+†
+
+†
+2.48
+1.68
+†
+
+†
+†
+1.69
+†
+
+6.72
+3.77
+2.71
+†
+
+Enrollment size
+Less than 300
+300–599
+600–999
+1,000–1,499
+1,500–1,999
+2,000 or more
+
+222,300
+308,100
+340,500
+318,800
+238,300
+231,100
+
+2.81
+2.27
+1.86
+2.28
+2.85
+2.65
+
+2.81
+2.27
+1.86
+2.28
+2.85
+2.65
+
+†
+3.03
+2.98
+3.89
+5.34
+4.10
+
+†
+†
+1.54
+†
+†
+4.47
+
+†
+†
+1.94
+†
+4.95
+†
+
+†
+†
+1.45
+†
+†
+†
+
+†
+2.59
+3.33
+†
+†
+†
+
+†
+†
+1.73
+†
+†
+†
+
+5.88
+4.34
+4.21
+5.51
+5.59
+6.37
+
+Student-to-full-timeequivalent (FTE)
+teacher ratio
+Less than 13 students
+
+316,800
+
+2.55
+
+2.55
+
+3.10
+
+†
+
+3.32
+
+†
+
+2.62
+
+†
+
+4.53
+
+13 to less than 16
+students
+
+380,500
+
+2.10
+
+2.10
+
+3.39
+
+2.42
+
+2.52
+
+2.79
+
+2.04
+
+†
+
+4.32
+
+16 to less than 20
+students
+20 or more students
+
+446,700
+402,900
+
+1.85
+1.80
+
+1.85
+1.80
+
+2.43
+3.57
+
+†
+1.79
+
+1.47
+3.35
+
+1.50
+†
+
+2.71
+4.22
+
+†
+†
+
+3.58
+4.67
+
+School characteristic
+Total bullied and
+not bullied
+
+See notes at end of table.
+
+T - 31
+
+Sexual
+Gender orientation
+
+Appearance
+
+National Center for Education Statistics
+Table S2.10
+
+Standard errors for table 2.10: Number and percentage distribution of students ages 12 through 18 who reported
+being bullied at school, by perceived relationship of bullying to personal characteristics and selected school
+characteristics: School year 2014–15—Continued
+Among students who reported being bullied: Perceived relationship of bullying to
+
+School characteristic
+Percent of combined
+American Indian/
+Alaska Native, Asian/
+Native Hawaiian/
+Other Pacific Islander,
+Black/African
+American, Hispanic/
+Latino, and two or
+more races students
+Less than 5 percent
+
+Estimated
+number
+of
+students Not bullied
+
+Bullied
+
+Race
+
+Religion
+
+Ethnic
+origin
+
+Disability
+
+Sexual
+Gender orientation
+
+Appearance
+
+263,500
+
+3.62
+
+3.62
+
+†
+
+†
+
+†
+
+†
+
+†
+
+†
+
+6.71
+
+5 to less than 20
+percent
+
+352,000
+
+1.78
+
+1.78
+
+3.11
+
+†
+
+2.45
+
+†
+
+2.58
+
+†
+
+3.83
+
+20 to less than 50
+percent
+50 percent or more
+
+424,700
+506,200
+
+2.08
+1.44
+
+2.08
+1.44
+
+2.74
+2.55
+
+1.94
+1.17
+
+2.45
+1.98
+
+1.92
+1.47
+
+2.44
+2.77
+
+1.88
+†
+
+3.66
+3.37
+
+0 to less than 20
+percent
+
+287,800
+
+2.20
+
+2.20
+
+4.84
+
+†
+
+†
+
+†
+
+†
+
+†
+
+5.06
+
+20 to less than 50
+percent
+
+423,000
+
+1.63
+
+1.63
+
+2.62
+
+1.90
+
+2.18
+
+2.15
+
+2.31
+
+1.89
+
+3.18
+
+Percent of students
+eligible for free or
+reduced-price lunch
+
+3.42
+50 percent or more
+509,000
+1.70
+1.70
+2.15
+0.85
+1.70
+0.87
+2.26
+†
+† Not applicable.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime Victimization
+Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1 of the survey are
+included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 32
+
+National Center for Education Statistics
+Table 3.1
+
+Percentage of students ages 12 through 18 who reported being bullied at school,
+by student reports of unfavorable school conditions: School year 2014–15
+
+Bullying reported
+Total bullied and not bullied
+
+Gangs present
+at school
+
+Saw student
+with a gun
+
+Drugs at school1
+
+Alcohol at school
+
+Saw hate-related
+graffiti at school
+
+10.2
+
+0.6!
+
+36.2
+
+23.8
+
+26.3
+
+Bullied
+19.2
+0.9!
+59.0
+37.9
+47.5
+Not bullied
+7.8
+0.5!
+30.1
+20.0
+20.8
+! Interpret data with caution. The standard error for this estimate is 30 to 50 percent of the estimate’s value.
+1
+Includes students who reported that marijuana, prescription drugs illegally obtained without a prescription, or other illegal drugs, such as
+cocaine, uppers, or heroine were available at school.
+NOTE: Tabular data include only students who reported being enrolled in grades 6 through 12 and not receiving any of their education
+through homeschooling during the school year reported. “Bullied” includes students who reported being made fun of, called names, or
+insulted; being the subject of rumors; being threatened with harm; being pushed, shoved, tripped, or spit on; being pressured into doing things
+they did not want to do; being excluded from activities on purpose; and having property destroyed on purpose. Total bullied and not bullied is
+based on an estimated 24,243,000 students for whom data on bullying are available. Population size based on Version 1 of the 2015 SCS for
+all students meeting the age, grade and school criteria is 24,622,000.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime
+Victimization Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1
+of the survey are included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 33
+
+National Center for Education Statistics
+Table S3.1
+
+Standard errors for table 3.1: Percentage of students ages 12 through 18 who reported being bullied at
+school, by student reports of unfavorable school conditions: School year 2014–15
+
+Bullying reported
+Total bullied and not bullied
+Bullied
+Not bullied
+
+Gangs present
+at school
+
+Saw student
+with a gun
+
+Drugs at school
+
+Alcohol at school
+
+Saw hate-related
+graffiti at school
+
+0.72
+
+0.17
+
+1.21
+
+1.11
+
+1.16
+
+2.25
+0.77
+
+0.42
+0.18
+
+2.62
+1.28
+
+2.37
+1.19
+
+2.85
+1.09
+
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime
+Victimization Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1
+of the survey are included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 34
+
+National Center for Education Statistics
+Table 3.2
+
+Percentage of students ages 12 through 18 who reported being bullied at school, by the reported presence
+of selected school security measures: School year 2014–15
+
+Bullying reported
+Total bullied and not bullied
+
+Security guards
+or assigned
+police officers
+
+Staff supervision in
+hallways
+
+Security cameras
+
+Student code of
+conduct
+
+70.8
+
+90.3
+
+81.7
+
+96.0
+
+Bullied
+75.5
+89.7
+86.1
+96.9
+Not bullied
+69.6
+90.4
+80.6
+95.7
+NOTE: Tabular data include only students who reported being enrolled in grades 6 through 12 and not receiving any of their education
+through homeschooling during the school year reported. “Bullied” includes students who reported being made fun of, called names, or
+insulted; being the subject of rumors; being threatened with harm; being pushed, shoved, tripped, or spit on; being pressured into doing things
+they did not want to do; being excluded from activities on purpose; and having property destroyed on purpose. Total bullied and not bullied
+students is based on an estimated 24,243,000 students for whom data on bullying are available. Population size based on Version 1 of the
+2015 SCS for all students meeting the age, grade and school criteria is 24,622,000.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime
+Victimization Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1
+of the survey are included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 35
+
+National Center for Education Statistics
+Table S3.2
+
+Standard errors for table 3.2: Percentage of students ages 12 through 18 who reported being bullied at
+school, by the reported presence of selected school security measures: School year 2014–15
+
+Bullying reported
+Total bullied and not bullied
+Bullied
+Not bullied
+
+Security guards
+or assigned
+police officers
+
+Staff supervision in
+hallways
+
+Security cameras
+
+Student code of
+conduct
+
+1.21
+
+0.65
+
+1.14
+
+0.51
+
+2.08
+1.39
+
+1.39
+0.70
+
+1.98
+1.28
+
+0.84
+0.56
+
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime
+Victimization Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1
+of the survey are included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 36
+
+National Center for Education Statistics
+Table 3.3
+
+Percentage of students ages 12 through 18 who reported being bullied at school, by reports of criminal
+victimization at school: School year 2014–15
+
+Bullying reported
+Total bullied and not bullied
+
+No victimization
+
+Any victimization1
+
+Theft victimization2
+
+Violent
+victimization3
+
+97.4
+
+2.6
+
+1.9
+
+0.8
+
+Bullied
+93.6
+6.4
+3.4!
+3.2
+Not bullied
+98.4
+1.6
+1.5
+‡
+! Interpret data with caution. The standard error for this estimate is 30 to 50 percent of the estimate’s value.
+‡ Reporting standards not met. The standard error for this estimate is equal to 50 percent or more of the estimate’s value.
+1
+“Any victimization” includes theft and violent crimes.
+2
+“Theft victimization” includes attempted and completed purse snatching, completed pickpocketing, and all attempted and completed thefts,
+excluding motor vehicle theft. Theft does not include robbery, in which the threat or use of force is involved.
+3
+“Violent victimization” includes rape, sexual assault, robbery, aggravated assault, and simple assault.
+NOTE: Tabular data include only students who reported being enrolled in grades 6 through 12 and not receiving any of their education through
+homeschooling during the school year reported. “Bullied” includes students who reported being made fun of, called names, or insulted; being
+the subject of rumors; being threatened with harm; being pushed, shoved, tripped, or spit on; being pressured into doing things they did not
+want to do; being excluded from activities on purpose; and having property destroyed on purpose. Total bullied and not bullied students are
+based on an estimated 24,243,000 students for whom data on bullying are available. Population size based on Version 1 of the 2015 SCS for
+all students meeting the age. grade and school criteria is 24,622,000.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime
+Victimization Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1
+of the survey are included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 37
+
+National Center for Education Statistics
+Table S3.3
+
+Standard errors for table 3.3: Percentage of students ages 12 through 18 who reported being bullied at
+school, by reports of criminal victimization at school: School year 2014–15
+
+Bullying reported
+Total bullied and not bullied
+Bullied
+Not bullied
+
+No victimization
+
+Any victimization
+
+Theft victimization
+
+Violent
+victimization
+
+0.38
+
+0.38
+
+0.32
+
+0.19
+
+1.26
+0.31
+
+1.26
+0.31
+
+1.06
+0.29
+
+0.76
+†
+
+† Not applicable.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime
+Victimization Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1
+of the survey are included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 38
+
+National Center for Education Statistics
+Table 3.4
+
+Percentage of students ages 12 through 18 who reported being bullied at school, by student reports of
+personal fear, avoidance behaviors, fighting, and weapon carrying at school: School year 2014–15
+
+Bullying reported
+Total bullied and not bullied
+Bullied
+
+Skipped
+class
+
+Avoided
+school
+activities
+
+Avoided a
+specific
+place at
+school2
+
+Engaged in
+a physical
+fight
+
+Carried a
+weapon to
+school3
+
+0.9
+
+0.8
+
+1.2
+
+4.1
+
+3.0
+
+2.0
+
+3.6
+
+2.9
+
+3.8
+
+14.1
+
+9.3
+
+5.7
+
+Feared
+attack or
+harm1
+
+Skipped
+School
+
+3.3
+9.9
+
+1.1
+Not bullied
+1.6
+‡
+0.2 !
+0.5 !
+1.4
+1.4
+! Interpret data with caution. The standard error for this estimate is 30 to 50 percent of the estimate’s value.
+‡ Reporting standards not met. The standard error for this estimate is equal to 50 percent or more of the estimate’s value.
+1
+Includes fear of attack at school and on the way to or from school. Includes respondents who “sometimes” or “most of the time” were fearful
+at school.
+2
+Includes the entrance into the school, hallways or stairs, parts of the cafeteria, restrooms, and other places inside the school building.
+3
+Includes guns, knives, or objects that can be used as weapons.
+NOTE: Tabular data include only students who reported being enrolled in grades 6 through 12 and not receiving any of their education through
+homeschooling during the school year reported. “Bullied” includes students who reported being made fun of, called names, or insulted; being
+the subject of rumors; being threatened with harm; being pushed, shoved, tripped, or spit on; being pressured into doing things they did not
+want to do; being excluded from activities on purpose; and having property destroyed on purpose. Totals for bullied and not bullied are based
+on an estimated 24,243,000 students for whom data on bulllying are available. Population size based on Version 1 of the 2015 SCS for all
+students meeting the age, grade and school criteria is 24,622,000.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime
+Victimization Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1
+of the survey are included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 39
+
+National Center for Education Statistics
+Table S3.4
+
+Standard errors for table 3.4: Percentage of students ages 12 through 18 who reported being bullied at
+school, by student reports of personal fear, avoidance behaviors, fighting, and weapon carrying at school:
+School year 2014–15
+
+Skipped
+class
+
+Avoided
+school
+activities
+
+Avoided a
+specific
+place at
+school
+
+Engaged in
+a physical
+fight
+
+Carried a
+weapon to
+school
+
+0.18
+
+0.23
+
+0.46
+
+0.40
+
+0.30
+
+Feared
+attack or
+harm
+
+Skipped
+School
+
+0.49
+
+0.22
+
+Bullied
+
+1.45
+
+0.88
+
+0.75
+
+0.98
+
+1.68
+
+1.46
+
+1.15
+
+Not bullied
+
+0.49
+
+†
+
+0.11
+
+0.15
+
+0.31
+
+0.30
+
+0.22
+
+Bullying reported
+Total bullied and not bullied
+
+† Not applicable.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS - Version 1) to the National Crime
+Victimization Survey, 2015. The 2015 SCS questionnaire was administered in two alternate versions. Only respondents completing Version 1
+of the survey are included in these estimates. A complete discussion of the split-half methodology and results can be found at
+http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+T - 40
+
+Glossary
+All variables used in these tables appear in this glossary. The 2015 School Crime Supplement
+(SCS) data file contains the variables used here, additional variables collected in the SCS
+Questionnaire, and selected variables collected in the National Crime Victimization Survey
+(NCVS) Basic Screen Questionnaire (NCVS-1) and NCVS Crime Incident Report (NCVS-2). The
+SCS data file and questionnaire can be downloaded from the Inter-University Consortium for
+Political and Social Research (ICPSR) via the Student Surveys link at NCES’s Crime and Safety
+Surveys portal, located at http://nces.ed.gov/programs/crime/surveys.asp. The NCVS
+questionnaires are also available through ICPSR.
+The 2015 SCS data file includes records for 9,372 individuals in NCVS households between the
+ages of 12 and 18. Prior to analysis, the data file was filtered to include only students who
+met all the criteria for this report by selecting records using variable values:
+• SC004 [Type of SCS interview] between 1-4 (completed the NCVS basic questionnaire
+and participated in an SCS interview);
+• SCSQTYPE2 [VERSION] = 1 (were administered Version 1 of the survey);
+• SC006 [ATTEND SCHOOL THIS SCHOOL YEAR] = 1 (enrolled in school in the current
+school year);
+• SC008 [GRADE LEVEL IN SCHOOL] between 1-7 (enrolled in grades 6 through 12); and
+• SC092 [HOMESCHOOLED] =2 (not homeschooled during this time).
+Of the 9,372 records in the data file, 3,903 individuals were excluded from the analysis
+because the student did not participate in an NCVS/SCS interview, 2,775 were excluded
+because they were not given Version 1 of the survey, and 377 students were excluded
+because they did not attend school, were not within the grade range, or were homeschooled
+in the past year. The final unweighted sample size for the report is 2,317.
+The estimates appearing in tables 2.2, 2.4, 2.6, 2.8, and 2.10 show the characteristics of
+schools attended by SCS respondents. These tables include variables taken from the 2013–14
+Common Core of Data (CCD) and the 2013–14 Private School Universe Survey (PSS). An
+additional 81 respondents not matched to any school in the CCD or the PSS are excluded from
+these 5 tables.
+
+Variables Taken From the National Crime Victimization Survey (NCVS)
+Basic Screen Questionnaire (NCVS-1)
+Household income (SC214A)
+Household income (allocated) refers to income as reported by the head of household and was collapsed
+into the following categories:
+(1) Less than $7,500;
+(2) $7,500–14,999;
+(3) $15,000–24,999;
+(4) $25,000–34,999;
+
+G-1
+
+(5) $35,000–49,999; and
+(6) $50,000 or more.
+2015 is the first year in which the allocated household income variable is included in the SCS data set. In previous
+years, the household income item had a high rate of nonresponse; the allocated variable includes edited and
+imputed values to minimize missing data.
+Race/ethnicity, Hispanic origin (SC412R and SC413)
+SC412R asked the head of household to identify the student’s race, and SC413 asked them whether the
+student is of Hispanic or Latino origin. Students who were identified as being of Hispanic or Latino origin
+were classified as “Hispanic or Latino,” regardless of their race. Students who were not of Hispanic or
+Latino origin were classified according to the race identified by the head of household (e.g., White, not
+Hispanic or Latino; Black, not Hispanic or Latino; All other races, not Hispanic or Latino). Black, not Hispanic
+or Latino includes African Americans. All other races, not Hispanic or Latino includes Native Hawaiians or
+Other Pacific Islanders, American Indians or Alaska Natives, and individuals of Two or more races (8 percent
+of all respondents indicated Two or more races).
+Sex (SC407A)
+SC407A indicates whether the student is male or female.
+Type of victimization (TOCNEW_1 through TOCNEW_5)
+Each SCS respondent reported as many as five incidents of victimization in the NCVS-1 in 2015. For each
+incident of victimization reported, an NCVS Crime Incident Report (NCVS-2) was completed. Data from
+incident reports, along with a “type of crime” (TOC) code derived from NCVS-2 responses, were appended
+to the SCS data file for each respondent who reported at least one incident of victimization in the 6 months
+prior to the survey. These five TOC codes were used to construct the crime categories used in these Web
+Tables: any, violent, and theft. However, only incidents which occurred at school, or on the way to or from
+school, were included in these Web Tables (see below). Therefore, the figures presented in the tables
+represent the prevalence of such victimization at school. Violent crimes include serious violent crimes
+(rape, sexual assault, robbery, and aggravated assault) and simple assault with injury, assault without a
+weapon and without injury, and verbal threat of assault. Theft includes attempted and completed purse
+snatching, completed pickpocketing, and all attempted and completed thefts, excluding motor vehicle
+theft. Theft does not include robbery, in which the threat or use of force is involved. “Any” crimes include
+one or more reports of any of the crimes listed above.
+
+Variables Taken From the National Crime Victimization Survey (NCVS)
+Crime Incident Report (NCVS-2)
+Activity at time of incident (SC832)
+Students were asked what they were doing at the time of the criminal victimization incident. Prompts are
+given until an activity can be coded; incidents included in these tables are those which students indicated
+had occurred while they were on their way to or from school.
+Location where incident occurred (SC616)
+Students were asked where the criminal victimization incident occurred. Prompts are given until a location
+can be coded. Incidents included in these tables are those which students indicated had occurred inside the
+school building or on school property (school parking area, play area, school bus, etc.).
+
+Variables Taken From the 2015 School Crime
+Supplement (SCS-Version 1) to the NCVS
+Adult notification (SC147)
+Students were asked if they told a teacher or some other adult at school about being bullied.
+
+G-2
+
+Alcohol at school (SC040)
+Students were asked if it was possible to obtain alcohol at school.
+Avoided a specific place at school (SC069-073)
+Students were asked if they had stayed away from any of the following places because they thought
+someone might attack or harm them: entrance to school (SC069), hallways or stairs (SC070), school
+cafeteria (SC071), restrooms (SC072), and other places in school building (SC073). This is a created variable
+where students who responded “yes” to one or more of these behaviors were included in the “avoided a
+specific place at school” category.
+Avoided school activities (SC078)
+Students were asked if they had avoided any activities at school because they thought someone might
+attack or harm them.
+Bullied (SC134-SC140)
+Students were asked if another student had bullied them at school during the school year, including made
+fun of them, called them names, or insulted them (SC134); spread rumors about them (SC135); threatened
+them with harm (SC136); pushed, shoved, tripped, or spit on them (SC137); tried to make them do
+something they did not want to do (SC138); excluded them from activities on purpose (SC139); or
+destroyed their property on purpose (SC140). This is a created variable where students who responded
+“yes” to one or more of these behaviors were included in the “bullied” category.
+Carried a weapon
+Students were asked if they had carried a weapon to school for protection during the school year. They
+were asked about guns (SC082), knives brought as weapons (SC083), and other weapons (SC084). This is a
+created variable where students who brought one or more of these to school were included in the “carried
+a weapon” category.
+Drugs at school
+Students were asked about drug availability at their school. Drugs asked about were marijuana (SC041),
+prescription drugs illegally obtained without a prescription (SC159), and other illegal drugs, such as cocaine,
+uppers or heroine (SCS209). This is a created variable where students who responded “yes” to the
+availability of any of these drugs were included in the “drugs available” category.
+Engaged in a physical fight (SC103)
+Students were asked whether they had been in one or more physical fights at school during the school
+year.
+Feared attack or harm
+Students were asked how often they were afraid someone would attack or harm them at school (SC079) or
+on the way to or from school (SC080). This is a created variable where students responding they were
+afraid “sometimes” or “most of the time” were included in the “feared attack or harm” category.
+Frequency of bullying (SC142)
+Students were asked how often they were bullied during the school year.
+Gangs present at school (SC058)
+Students were asked whether there are street gangs present at their school.
+Grade (SC008)
+Students were asked what grade they were in. Response options included “fifth or under,” “sixth,”
+“seventh,” “eighth,” “ninth,” “tenth,” “eleventh,” and “twelfth” grades; “other”; and “college/GED/
+postgraduate/other noneligible.” Only respondents in grades 6 through 12 were included in the analysis.
+
+G-3
+
+Hate-related Graffiti (SC066)
+Students were asked whether or not during the school year they had “seen any hate-related words or
+symbols written in school classrooms, school bathrooms, school hallways, or on the outside of [their]
+school building.”
+Location of bullying
+Students were asked where they were bullied in school. Response options included in a classroom at school
+(SC143), hallway or stairwell at school (SC168), bathroom or locker room at school (SC169), somewhere
+else inside the school building (SC146), outside on school grounds (SC144), on a school bus (SC145), in a
+cafeteria or lunchroom at school (SC173), and online or by text (SC211SCS). Prior to 2013, the
+“cafeteria/lunchroom” option was not a separate response option on the questionnaire, but was added to
+the data set post-survey using the additional information provided when students responded that they
+were bullied “somewhere else at school.”
+Negative Effect Reported (SC196SCS-199SCS),
+Students were asked about the extent to which they experienced negative effects due to being bullied.
+Specifically, students were asked if bullying had a negative effect on their school work (SC196SCS), their
+relationships with family and friends (SC197SCS), how they feel about themselves (SC198SCS), and their
+physical health (SC199SCS) during the school year. In the tables, students responding they were affected
+“somewhat” or “a lot” were counted as having experienced negative effects on each item.
+Perceived Relation of Bullying (SC201SCS-206SCS)
+Students were asked if they thought the bullying victimization was related to various personal
+characteristics. Response options included race (SC200SCS), religion (SC201SCS), ethnic background
+(SC202SCS), disability (SC203SCS), gender (SC204SCS), sexual orientation (SC205SCS), and appearance
+(SC206SCS).
+Saw student with a gun (SC086)
+Students were asked if they had actually seen another student with a gun at school during the school year.
+Security cameras (SC095)
+Students were asked if there were one or more security cameras to monitor the school to ensure student
+safety.
+Security guards or assigned police officers (SC028)
+Students were asked if there were security guards or assigned police officers present at their school to
+ensure student safety.
+Skipped class (SC077)
+Students were asked if they had avoided any classes because they thought someone might attack or harm
+them.
+Skipped school (SC078)
+Students were asked if they had stayed home from school because they thought someone might attack or
+harm them in the school building, on school property, on a school bus, or going to or from school.
+Staff supervision in hallways (SC029)
+Students were asked whether there was hallway supervision by school staff or other adults at school to
+ensure student safety.
+Student code of conduct (SC096)
+Students were asked if there was a code of student conduct, that is, a set of written rules or guidelines that
+the school provides to ensure student safety.
+Type of bullying (SC134-SC140)
+Students were asked if any student had bullied them during the school year. Specifically, students were
+asked if another student had made fun of them, called them names, or insulted them (SC134); spread
+
+G-4
+
+rumors about them (SC135); threatened them with harm (SC136); pushed, shoved, tripped, or spit on them
+(SC137); tried to make them do something they did not want to do (SC138); excluded them from activities
+(SC139); or destroyed their property (SC140).
+Version (SCSQTYPE2)
+Students were randomly assigned one of two identical versions of the SCS that differed only for items
+related to bullying victimization. Version 1 retains the historic formatting of the items on bullying
+victimization with follow-up questions on repetition and power imbalance, while Version 2 contains a
+single item with repetition and power imbalance included in the definition of bullying presented before
+respondents are asked whether they have been bullied. A complete discussion of the split-half
+methodology and results can be found at http:/nces.ed.gov/pubs2017/2017004.pdf.
+
+School Characteristic Variables Appended to the 2015 School Crime
+Supplement (Version-1) Data File From the 2013–14 Common Core of Data
+(CCD) or the 2013–14 Private School Universe Survey (PSS)
+Respondents supplied school identification information used to match records in either the 2013–14
+Common Core of Data (CCD) or the 2013–14 Private School Universe Survey (PSS). Data from those files
+were used to construct the variables below. The identifying information supplied by the respondents is not
+included in the SCS files.
+Enrollment size (SC218SCS)
+This variable contains the total number of students for all grades or the reported total membership of the
+school.
+Level (SC217SCS)
+This is the variable for school level. The following codes were calculated from the school’s corresponding
+values for lowest and highest grades:
+1 = Primary (low grade = PK through 03; high grade = PK through 08);
+2 = Middle (low grade = 04 through 07; high grade = 04 through 09);
+3 = High (low grade = 07 through 12; high grade = 12 only); and
+4 = Other (any other configuration not falling within the above three categories, including
+ungraded).
+Percentage of students eligible for free or reduced-price lunch (221SCS)
+For public schools (CCD)
+This is a created variable using two CCD variables. The total number of free and reduced-price lunch eligible
+students (TOTFRL) is divided by the reported total membership of the school (MEMBER). The TOTFRL
+variable may be calculated in the CCD as the sum of the number of free lunch eligible and the number of
+reduced-price lunch eligible students if the total is not reported.
+Private schools do not report free and reduced-price lunch eligible students in the 2013-2014 PSS.
+Locale (SC216SCS)
+This is a created variable based on the National Center for Education Statistics (NCES) urban-centric locale
+code (ULOCAL). (Note: An urbanized area is defined as an area that is a densely settled core with a
+population concentration of at least 50,000. An urban cluster is defined as a component of a large
+metropolitan area, greater than one million people, and contains a cluster of counties (cities and towns in
+New England) that demonstrate very strong internal economic and social links, in addition to close ties to
+other portions of the
+larger area.)
+1 = City, which includes
+
+G-5
+
+11 = City, Large Territory inside an urbanized area and inside a principal city with a
+population of 250,000 or more.
+12 = City, Mid-Size Territory inside an urbanized area and inside a principal city with a
+population less than 250,000 and greater than or equal to 100,000.
+13 = City, Small Territory inside an urbanized area and inside a principal city with a
+population less than 100,000;
+2 = Suburb, which includes
+21 = Suburb, Large Territory outside a principal city and inside an urbanized area with a
+population of 250,000 or more.
+22 = Suburb, Mid-Size Territory outside a principal city and inside an urbanized area with a
+population less than 250,000 and greater than or equal to 100,000.
+23 = Suburb, Small Territory outside a principal city and inside an urbanized area with a
+population less than 100,000;
+3 = Town, which includes
+31 = Town, Fringe Territory inside an urban cluster that is less than or equal to 10 miles
+from an urbanized area.
+32 = Town, Distant Territory inside an urban cluster that is more than 10 miles and less
+than or equal to 35 miles from an urbanized area.
+33 = Town, Remote Territory inside an urban cluster that is more than 35 miles from an
+urbanized area; and
+4 = Rural, which includes
+41 = Rural, Fringe Census-defined rural territory that is less than or equal to 5 miles from
+an urbanized area, as well as rural territory that is less than or equal to 2.5 miles
+from an urban cluster.
+42 = Rural, Distant Census-defined rural territory that is more than 5 miles but less than or
+equal to 25 miles from an urbanized area, as well as rural territory that is more than
+2.5 miles but less than or equal to 10 miles from an urban cluster.
+43 = Rural, Remote Census-defined rural territory that is more than 25 miles from an
+urbanized area and is also more than 10 miles from an urban cluster.
+Region (214SCS)
+This is a variable based on the two-letter U.S. Postal Service abbreviation of the state where the school is
+located. The following regions were created based on the state in which the school was located:
+1 = Northeast (CT, ME, MA, NH, NJ, NY, PA, RI, VT);
+2 = Midwest (IL, IN, IA, KS, MI, MN, MO, NE, ND, OH, SD, WI);
+3 = South (AL, AR, DE, DC, FL, GA, KY, LA, MD, MS, NC, OK, SC, TN, TX, VA, WV); and
+4 = West (AK, AZ, CA, CO, HI, ID, MT, NV, NM, OR, UT, WA, WY).
+Percentage of combined American Indian/Alaska Native, Asian/Native Hawaiian/Other Pacific Islander,
+Black/African American, Hispanic/Latino, and Two or more races students (SCS220)
+For public schools (CCD)
+This is a created variable and is the sum of the following: American Indian/Alaska Native students,
+Asian/Pacific Islander students, Black/African American students and Hispanic/Latino students divided by
+the reported total membership of the school. If the number of American Indian/Alaska Native students was
+not reported, this field was calculated by summing the American Indian/Alaska Native male , female, and
+unidentified fields; if the number of Asian/Pacific Islander students was not reported, this field was
+calculated by summing the Asian/Pacific Islander male , female, and unidentified fields; if the number of
+Black/African American students was not reported, this field was calculated by summing the Black/African
+American male, female, and unidentified fields; and if the number of Hispanic/Latino students was not
+reported, this field was calculated by summing the Hispanic/Latino male (HIALM), female (HIALF), and
+unidentified fields. Prior to the 2008–09 school year, NCES used five race/ethnicity categories, which did
+not include the categories ‘Native Hawaiian/Other Pacific Islander’ and ‘Two or more races.’ States had the
+option of reporting based on the 5-category or the 7-category system until 2010–11. For more information
+on this change, please refer to the October 19, 2007 Federal Register notice, Final Guidance from the
+
+G-6
+
+Secretary on Maintaining, Collecting, and Reporting Racial and Ethnic Data to the U.S. Department of
+Education, located at http://edocket.access.gpo.gov/2007/pdf/E7-20613.pdf.
+For private schools (PSS)
+This is a created variable that represents the sum of the percentages of Black/African American students,
+Hispanic/Latino students (P_HISP), Asian students, Native Hawaiian/Other Pacific Islander students,
+American Indian/Alaska Native students (P_INDIAN), and students of Two or more races.
+Sector ratio (SC215SCS)
+This is a created variable to denote public or private school sector based on the source of the data. The
+coding for the sector variable is:
+1 = Public school
+2 = Private school, no religious affiliation data reported
+3 = Private, Roman Catholic school
+4 = Private, other religious school
+5 = Private, nonsectarian school
+If a student attends a school with data found in the CCD, sector = 1 (public school). If the school matches
+data in the PSS, the school is private and additional variables are used to categorize the school. For variable
+P430 (“Does School Have Religious Orientation?” where 1 = Yes and 2 = No), those schools without a
+religious orientation are assigned sector = 5 (nonsectarian). For those schools where P430 = 1, a second
+variable, P440 (the religious orientation or affiliation of the school) is recoded so that for schools that are
+Roman Catholic, sector = 3, and for those schools that are otherwise religiously affiliated, sector = 4.
+Records that do not meet any of the criteria for inclusion in the sub-categories (Catholic, Other religious,
+Nonsectarian) are coded as sector=2 (private). As a result, the values of the religious affiliation
+subcategories in the report tables (sectors 3, 4 and 5) do not sum to the total value of the private school
+category (which includes sectors 2-5).
+Student-to-full-time-equivalent (FTE) teacher ratio (SC219SCS)
+This is a created variable that provides the student-to-FTE teacher ratio. It is calculated by dividing the total
+student membership of the school is divided by the total full-time-equivalent classroom teachers.
+
+•••
+family income under $30,000.grades fallingexcessive worry about weight gainsudden changes in sleep habits
+
