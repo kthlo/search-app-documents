@@ -1,4 +1,6 @@
 # VIM
+data/
+notebooks/
 *.swp
 
 # Byte-compiled / optimized / DLL files
