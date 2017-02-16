@@ -1,12 +1,12 @@
 
 making threatsweapons useintimidation
-•••
+***
 
 
 
 2013 School
 Crime Supplement 
-•••
+***
 
 (SCS) of the National Crime
 Victimization Survey (NCVS).1 The Web Tables
@@ -11646,7 +11646,7 @@ This is a created variable that provides the student-to-FTE teacher ratio. For s
 calculated by dividing the total number of students in school (NUMSTUDS) by the number of K–12 teachers
 (NUMTEACH), in estimated FTEs.
 
-•••
+***
 socially withdrawnbreak up with girlfriendsingle parent family
 
 

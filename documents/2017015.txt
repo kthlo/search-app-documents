@@ -1,11 +1,11 @@
 
 
 vandalismverbal bullying
-intimidation•••
+intimidation***
 
  2015 School
 Crime Supplement 
-•••
+***
 (SCS) to the National Crime
 Victimization Survey (NCVS).1 The Web Tables
 show the extent to which students with different
@@ -10724,6 +10724,6 @@ Student-to-full-time-equivalent (FTE) teacher ratio (SC219SCS)
 This is a created variable that provides the student-to-FTE teacher ratio. It is calculated by dividing the total
 student membership of the school is divided by the total full-time-equivalent classroom teachers.
 
-•••
+***
 family income under $30,000.grades fallingexcessive worry about weight gainsudden changes in sleep habits
 

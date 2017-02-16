@@ -1,9 +1,9 @@
 sexual harassmentvandalism
-ostracizing•••
+ostracizing***
 
 Indicators of
 School Crime and Safety: 2010
-•••
+***
 
 NCES 2011-002
 NCJ 230812
@@ -15,7 +15,7 @@ U.S. DEPARTMENT OF JUSTICE OFFICE OF JUSTICE PROGRAMS
 School Crime and Safety: 2010
 NOVEMBER 2010
 
-Simone Robers	
+Simone Robers
 Education Statistics Services Institute –
 American Institutes for Research
 Jijun Zhang
@@ -784,82 +784,82 @@ xii
 
 Page
 
-A.	
+A.
 
 Nationally representative sample and universe surveys used in this report.................................... 4
 
-1.1.	
+1.1.
 
 Number of school-associated violent deaths, homicides, and suicides of youth ages 5–18,
 by location and year: School years 1992–93 to 2008–09............................................................ 88
 
-1.2.	
+1.2.
 
 Number of school-associated violent deaths of students, staff, and nonstudents, by type:
 School years 1992–93 to 2008–09............................................................................................. 89
 
-2.1.	
+2.1.
 
 Number of student-reported nonfatal crimes against students ages 12–18 and rate of crimes
 per 1,000 students, by location, type of crime, and year: 1992–2008......................................... 90
 
-2.2.	
+2.2.
 
 Number of student-reported nonfatal crimes against students ages 12–18 and rate of
 crimes per 1,000 students at school, by type of crime and selected student and school
 characteristics: 2008................................................................................................................... 91
 
-2.3.	
+2.3.
 
 Number of student-reported nonfatal crimes against students ages 12–18 and rate of crimes
 per 1,000 students away from school, by type of crime and selected student and school
 characteristics: 2008................................................................................................................... 92
 
-3.1.	
+3.1.
 
 Percentage of students ages 12–18 who reported criminal victimization at school during the
 previous 6 months, by type of victimization and selected student and school characteristics:
 Various years, 1995–2007.......................................................................................................... 94
 
-4.1.	
+4.1.
 
 Percentage of students in grades 9–12 who reported being threatened or injured with a
 weapon on school property at least one time during the previous 12 months, by selected
 student and school characteristics: Various years, 1993–2009..................................................... 96
 
-4.2.	
+4.2.
 
 Percentage of students in grades 9–12 who reported being threatened or injured with a
 weapon on school property at least one time during the previous 12 months, by state:
 Various years, 2003–2009.......................................................................................................... 97
 
-4.3.	
+4.3.
 
 Percentage of students in grades 9–12 who reported being threatened or injured with a
 weapon on school property during the previous 12 months, by number of times and
 selected student characteristics: 2009......................................................................................... 98
 
-5.1.	
+5.1.
 
 Percentage and number of public and private school teachers who reported that they were
 threatened with injury by a student from school during the previous 12 months, by urbanicity
 and selected teacher and school characteristics: Various school years, 1993–94 through
 2007–08.................................................................................................................................. 100
 
-5.2.	
+5.2.
 
 Percentage and number of public and private school teachers who reported that they were
 physically attacked by a student from school during the previous 12 months, by urbanicity
 and selected teacher and school characteristics: Various school years, 1993–94 through
 2007–08.................................................................................................................................. 101
 
-5.3.	
+5.3.
 
 Percentage and number of public school teachers who reported that they were threatened with
 injury by a student from school during the previous 12 months, by state: Various school years,
 1993–94 through 2007–08...................................................................................................... 102
 
-5.4.	
+5.4.
 
 Percentage and number of public school teachers who reported that they were physically
 attacked by a student from school during the previous 12 months, by state: Various school
@@ -871,85 +871,85 @@ List of Tables
 
 Page
 
-6.1.	
+6.1.
 
 Percentage of public schools recording and reporting incidents of crime, number of
 incidents, and the rate of crimes per 1,000 students, by type of crime: Various school years,
 1999–2000 through 2007–08.................................................................................................. 104
 
-6.2.	
+6.2.
 
 Percentage of public schools recording incidents of crime, number of incidents, and the rate
 of crimes per 1,000 students, by type of crime and selected school characteristics: School year
 2007–08.................................................................................................................................. 106
 
-6.3.	
+6.3.
 
 Percentage of public schools reporting incidents of crime to the police, number of
 incidents, and the rate of crimes per 1,000 students, by type of crime and selected school
 characteristics: School year 2007–08........................................................................................ 108
 
-6.4.	
+6.4.
 
 Percentage of public schools recording and reporting to the police violent incidents of
 crime, by the number of incidents and selected school characteristics: School year
 2007–08.................................................................................................................................. 110
 
-6.5.	
+6.5.
 
 Percentage of public schools recording and reporting to the police serious violent incidents
 of crime, by the number of incidents and selected school characteristics: School year
 2007–08.................................................................................................................................. 112
 
-7.1.	
+7.1.
 
 Percentage of public schools reporting selected discipline problems that occurred at school,
 by frequency and school characteristics: School year 2007–08.................................................. 114
 
-7.2.	
+7.2.
 
 Percentage of public schools reporting selected discipline problems that occurred at school,
 by frequency: Various school years, 1999–2000 through 2007–08........................................... 115
 
-8.1.	
+8.1.
 
 Percentage of students ages 12–18 who reported that gangs were present at school, by
 urbanicity and selected student and school characteristics: Various years, 2001–07.................. 116
 
-9.1.	
+9.1.
 
 Percentage of students in grades 9–12 who reported that drugs were made available to
 them on school property during the previous 12 months, by selected student and school
 characteristics: Various years, 1993–2009................................................................................. 117
 
-9.2.	
+9.2.
 
 Percentage of students in grades 9–12 who reported that drugs were made available to
 them on school property during the previous 12 months, by state: Various years, 2003–09..... 118
 
-10.1.	
+10.1.
 
 Percentage of students ages 12–18 who reported being targets of hate-related words
 and seeing hate-related graffiti at school, by selected student and school characteristics:
 Various years, 1999–2007........................................................................................................ 119
 
-10.2.	
+10.2.
 
 Percentage of students ages 12–18 who reported being targets of hate-related words at
 school during the school year, by selected student and school characteristics: 2007.................. 120
 
-11.1.	
+11.1.
 
 Percentage of students ages 12–18 who reported being bullied at school and cyber-bullied
 anywhere during the school year, by selected bullying problems and selected student and
 school characteristics: 2007...................................................................................................... 122
 
-11.2.	
+11.2.
 
 Percentage of students ages 12–18 who reported being bullied at school during the school
 year, by location of bullying and selected student and school characteristics: 2007................... 124
 
-11.3.	
+11.3.
 
 Percentage distribution of students ages 12–18 who reported being bullied at school and
 cyber-bullied anywhere by the frequency of bullying at school during the school year,
@@ -966,86 +966,86 @@ xiv
 
 Page
 
-12.1.	
+12.1.
 
 Percentage of public and private school teachers who agreed or strongly agreed that student
 misbehavior and student tardiness and class cutting interfered with their teaching, by
 selected teacher and school characteristics: Various school years, 1987–88 through 2007–08... 128
 
-12.2.	
+12.2.
 
 Percentage of public and private school teachers who agreed or strongly agreed that school
 rules are enforced by other teachers and by the principal, by selected teacher and school
 characteristics: Various school years, 1987–88 through 2007–08............................................. 129
 
-12.3.	
+12.3.
 
 Percentage of public school teachers who agreed or strongly agreed that student
 misbehavior and student tardiness and class cutting interfered with their teaching and
 that school rules are enforced by other teachers and by the principal, by state: School year
 2007–08.................................................................................................................................. 130
 
-13.1.	
+13.1.
 
 Percentage of students in grades 9–12 who reported having been in a physical fight at least
 one time during the previous 12 months, by location and selected student and school
 characteristics: Various years, 1993–2009................................................................................. 132
 
-13.2.	
+13.2.
 
 Percentage of students in grades 9–12 who reported having been in a physical fight
 during the previous 12 months, by location, number of times, and selected student
 characteristics: 2009................................................................................................................. 134
 
-13.3.	
+13.3.
 
 Percentage of students in grades 9–12 who reported having been in a physical fight at least
 one time during the previous 12 months, by location and state: Various years, 2003–09.......... 135
 
-14.1.	
+14.1.
 
 Percentage of students in grades 9–12 who reported carrying a weapon at least one day
 during the previous 30 days, by location and selected student and school characteristics:
 Various years, 1993–2009........................................................................................................ 136
 
-14.2.	
+14.2.
 
 Percentage of students in grades 9–12 who reported carrying a weapon during the previous
 30 days, by location, number of days, and selected student characteristics: 2009...................... 138
 
-14.3.	
+14.3.
 
 Percentage of students in grades 9–12 who reported carrying a weapon at least one day
 during the previous 30 days, by location and state: Various years, 2003–09............................. 139
 
-15.1.	
+15.1.
 
 Percentage of students in grades 9–12 who reported using alcohol at least one day during
 the previous 30 days, by location and selected student and school characteristics: Various
 years, 1993–2009..................................................................................................................... 140
 
-15.2.	
+15.2.
 
 Percentage of students in grades 9–12 who reported using alcohol during the previous
 30 days, by location, number of days, and selected student characteristics: 2009...................... 142
 
-15.3.	
+15.3.
 
 Percentage of students in grades 9–12 who reported using alcohol at least one day during
 the previous 30 days, by location and state: Various years, 2003–2009..................................... 143
 
-16.1.	
+16.1.
 
 Percentage of students in grades 9–12 who reported using marijuana at least one time
 during the previous 30 days, by location and selected student and school characteristics:
 Various years, 1993–2009........................................................................................................ 144
 
-16.2.	
+16.2.
 
 Percentage of students in grades 9–12 who reported using marijuana during the previous
 30 days, by location, number of times, and selected student characteristics: 2009.................... 146
 
-16.3.	
+16.3.
 
 Percentage of students in grades 9–12 who reported using marijuana at least one time
 during the previous 30 days, by location and state: Various years 2003–2009.......................... 147
@@ -1056,44 +1056,44 @@ List of Tables
 
 Page
 
-17.1.	
+17.1.
 
 Percentage of students ages 12–18 who reported being afraid of attack or harm, by
 location and selected student and school characteristics: Various years, 1995–2007................. 148
 
-18.1.	
+18.1.
 
 Percentage of students ages 12–18 who reported avoiding school activities or one or
 more places in school because of fear of attack or harm: Various years, 1995–2007.................. 149
 
-18.2.	
+18.2.
 
 Percentage of students ages 12–18 who reported avoiding one or more places in school
 because of fear of attack or harm, by selected student and school characteristics: Various
 years, 1995–2007..................................................................................................................... 150
 
-19.1.	
+19.1.
 
 Number and percentage of public schools that took a serious disciplinary action, number
 of serious actions taken, and percentage distribution of serious actions, by type of action
 and type of offense: School year 2007–08................................................................................ 151
 
-19.2.	
+19.2.
 
 Percentage of public schools that took a serious disciplinary action and number of serious
 actions taken, by type of offense: Various school years, 1999–2000 through 2007–08............. 152
 
-20.1.	
+20.1.
 
 Percentage of public schools that used safety and security measures: Various school years,
 1999–2000 through 2007–08.................................................................................................. 153
 
-20.2.	
+20.2.
 
 Percentage of public schools that used selected safety and security measures, by school
 characteristics: School year 2007–08........................................................................................ 154
 
-21.1.	
+21.1.
 
 Percentage of students ages 12–18 who reported selected security measures at school:
 Various years, 1999–2007........................................................................................................ 156
@@ -1109,87 +1109,87 @@ xvi
 
 Page
 
-1.1.	
+1.1.
 
 Number of student, staff, and nonstudent school-associated violent deaths, and number of
 homicides and suicides of youth ages 5–18 at school: School years 1992–93 to 2008–09............ 7
 
-1.2.	
+1.2.
 
 Number of school-associated homicides, and suicides of youth ages 5–18, by location:
 2007–08...................................................................................................................................... 7
 
-2.1.	
+2.1.
 
 Rate of student-reported nonfatal crimes against students ages 12–18 per 1,000 students,
 by type of crime and location: 1992–2005 and 2007–2008....................................................... 11
 
-2.2.	
+2.2.
 
 Rate of student-reported nonfatal crimes against students ages 12–18 at and away from
 school per 1,000 students, by age and type of crime: 2008......................................................... 13
 
-3.1.	
+3.1.
 
 Percentage of students ages 12–18 who reported criminal victimization at school during the
 previous 6 months, by type of victimization: Various years, 1995–2007..................................... 15
 
-4.1.	
+4.1.
 
 Percentage of students in grades 9–12 who reported being threatened or injured with a
 weapon on school property at least one time during the previous 12 months, by grade:
 Various years, 1993–2009.......................................................................................................... 17
 
-4.2.	
+4.2.
 
 Percentage of students in grades 9–12 who reported being threatened or injured with a
 weapon on school property at least one time during the previous 12 months, by
 race/ethnicity: 2009................................................................................................................... 17
 
-4.3.	
+4.3.
 
 Percentage of students in grades 9–12 who reported being threatened or injured with a
 weapon on school property during the previous 12 months, by sex and number of times:
 2009.......................................................................................................................................... 18
 
-5.1.	
+5.1.
 
 Percentage of public and private school teachers who reported that they were threatened
 with injury or that they were physically attacked by a student from school during the
 previous 12 months: Various school years, 1993–94 through 2007–08...................................... 21
 
-5.2.	
+5.2.
 
 Percentage of public and private school teachers who reported that they were threatened
 with injury or that they were physically attacked by a student from school during the
 previous 12 months, by urbanicity and instructional level: School year 2007–08 ...................... 21
 
-6.1.	
+6.1.
 
 Percentage of public schools recording and reporting incidents of crime, and the rate of
 crimes per 1,000 students, by type of crime: School year 2007–08............................................. 25
 
-6.2.	
+6.2.
 
 Percentage of public schools recording and reporting violent and serious violent incidents
 of crime, by the number of incidents: School year 2007–08....................................................... 27
 
-6.3.	
+6.3.
 
 Percentage of public schools recording and reporting to the police incidents of crime, by
 type of crime: Various school years, 1999–2000 through 2007–08............................................ 28
 
-7.1.	
+7.1.
 
 Percentage of public schools reporting selected discipline problems that occurred at school,
 by school level: School year 2007–08......................................................................................... 31
 
-8.1.	
+8.1.
 
 Percentage of students ages 12–18 who reported that gangs were present at school during
 the school year, by school sector and race/ethnicity: 2007.......................................................... 35
 
-8.2.	
+8.2.
 
 Percentage of students ages 12–18 who reported that gangs were present at school, by sex:
 Various years, 2001–07.............................................................................................................. 35
@@ -1200,101 +1200,101 @@ List of Figures
 
 Page
 
-9.1.	
+9.1.
 
 Percentage of students in grades 9–12 who reported that drugs were made available to them
 on school property during the previous 12 months, by sex: Various years, 1993–2009............... 37
 
-9.2.	
+9.2.
 
 Percentage of students in grades 9–12 who reported that drugs were made available to them
 on school property during the previous 12 months, by race/ethnicity: 2009.............................. 37
 
-10.1.	
+10.1.
 
 Percentage of students ages 12–18 who reported being targets of hate-related words and
 seeing hate-related graffiti at school during the school year, by selected student and school
 characteristics: 2007................................................................................................................... 39
 
-10.2.	
+10.2.
 
 Percentage of students ages 12–18 who reported being targets of hate-related words at school
 during the school year, by type of hate-related word: 2007......................................................... 41
 
-11.1.	
+11.1.
 
 Percentage of students ages 12–18 who reported being bullied at school and being
 cyber-bullied anywhere during the school year, by sex: 2007...................................................... 43
 
-11.2.	
+11.2.
 
 Percentage of students ages 12–18 who reported selected bullying problems at school and
 cyber-bullying problems anywhere during the school year: 2007................................................ 43
 
-11.3.	
+11.3.
 
 Percentage of students ages 12–18 who reported being bullied at school during the school
 year, by location of bullying, injury, and sex: 2007..................................................................... 44
 
-11.4.	
+11.4.
 
 Percentage distribution of students ages 12–18 who reported being bullied at school and
 being cyber-bullied anywhere by the frequency of bullying at school during the school year
 and percentage of students who notified an adult: 2007............................................................. 44
 
-12.1.	
+12.1.
 
 Percentage of public and private school teachers who agreed or strongly agreed that student
 misbehavior and student tardiness and class cutting interfered with their teaching, by
 urbanicity: School year 2007–08................................................................................................ 47
 
-12.2.	
+12.2.
 
 Percentage of public and private school teachers who agreed or strongly agreed that
 school rules are enforced by other teachers and by the principal, by school level: School
 year 2007–08............................................................................................................................. 47
 
-13.1.	
+13.1.
 
 Percentage of students in grades 9–12 who reported having been in a physical fight at least
 one time during the previous 12 months, by location and grade: Various years, 1993–2009...... 51
 
-13.2.	
+13.2.
 
 Percentage of students in grades 9–12 who reported having been in a physical fight at least
 one time during the previous 12 months, by location and race/ethnicity: 2009.......................... 51
 
-13.3.	
+13.3.
 
 Percentage of students in grades 9–12 who reported having been in a physical fight during
 the previous 12 months, by location, number of times, and sex: 2009....................................... 53
 
-14.1.	
+14.1.
 
 Percentage of students in grades 9–12 who reported carrying a weapon at least one day during
 the previous 30 days, by location and sex: Various years, 1993–2009......................................... 55
 
-14.2.	
+14.2.
 
 Percentage of students in grades 9–12 who reported carrying a weapon at least one day during
 the previous 30 days, by race/ethnicity and location: 2009......................................................... 55
 
-15.1.	
+15.1.
 
 Percentage of students in grades 9–12 who reported using alcohol at least one day during
 the previous 30 days, by location and sex: Various years, 1993–2009......................................... 57
 
-15.2.	
+15.2.
 
 Percentage of students in grades 9–12 who reported using alcohol at least one day during
 the previous 30 days, by location, number of days, and sex: 2009.............................................. 57
 
-15.3.	
+15.3.
 
 Percentage of students in grades 9–12 who reported using alcohol at least one day during
 the previous 30 days, by location and grade: 2009..................................................................... 59
 
-15.4.	
+15.4.
 
 Percentage of students in grades 9–12 who reported using alcohol at least one day during
 the previous 30 days, by location and race/ethnicity: 2009......................................................... 59
@@ -1309,73 +1309,73 @@ xviii
 
 Page
 
-16.1.	
+16.1.
 
 Percentage of students in grades 9–12 who reported using marijuana at least one time during
 the previous 30 days, by location and sex: Various years, 1993–2009......................................... 61
 
-16.2.	
+16.2.
 
 Percentage of students in grades 9–12 who reported using marijuana during the previous
 30 days, by location, number of times, and sex: 2009................................................................ 61
 
-16.3.	
+16.3.
 
 Percentage of students in grades 9–12 who reported using marijuana at least one time during
 the previous 30 days, by location and race/ethnicity: 2009......................................................... 63
 
-16.4.	
+16.4.
 
 Percentage of students in grades 9–12 who reported using marijuana at least one time during
 the previous 30 days, by location and grade: 2009..................................................................... 63
 
-17.1.	
+17.1.
 
 Percentage of students ages 12–18 who reported being afraid of attack or harm during the
 school year, by location and race/ethnicity: 2007....................................................................... 67
 
-17.2.	
+17.2.
 
 Percentage of students ages 12–18 who reported being afraid of attack or harm, by location
 and school sector: Various years, 1995–2007............................................................................. 67
 
-18.1.	
+18.1.
 
 Percentage of students ages 12–18 who reported avoiding school activities or one or more
 places in school because of fear of attack or harm during the school year: 2007.......................... 69
 
-18.2.	
+18.2.
 
 Percentage of students ages 12–18 who reported avoiding one or more places in school
 because of fear of attack or harm during the school year, by grade level and school sector:
 2007.......................................................................................................................................... 70
 
-19.1.	
+19.1.
 
 Percentage of public schools that took a serious disciplinary action, by type of offense:
 School year 2007–08................................................................................................................. 73
 
-19.2.	
+19.2.
 
 Percentage distribution of serious actions taken by public schools, by type of action and
 type of offense: School year 2007–08......................................................................................... 74
 
-19.3.	
+19.3.
 
 Percentage of public schools that took a serious disciplinary action, by type of offense:
 Various school years, 1999–2000 through 2007–08................................................................... 75
 
-20.1.	
+20.1.
 
 Percentage of public schools that used selected safety and security measures: School year
 2007–08.................................................................................................................................... 77
 
-20.2.	
+20.2.
 
 Percentage of public schools that used selected safety and security measures: Various school
 years, 1999–2000 through 2007–08.......................................................................................... 78
 
-21.1.	
+21.1.
 
 Percentage of students ages 12–18 who reported selected security measures at school: Various
 years, 1999–2007....................................................................................................................... 81
@@ -1604,7 +1604,7 @@ percentages reported in the text and figures are generally rounded from the orig
 numbers (with any value of 0.50 or above rounded
 to the next highest whole number). While the data
 labels on the figures have been rounded to whole
-Table A.	
+Table A.
 
 numbers, the graphical presentation of these data
 is based on the unrounded estimates shown in the
@@ -2014,13 +2014,13 @@ Total number of student, staff, and nonstudent school-associated violent deaths2
 Homicides of youth ages 5–18 at school
 Suicides of youth ages 5–18 at school
 The data from 1999–2000 onward are subject to change as additional information about confirmed cases is received and assessed. For more
-information on this survey, please see appendix A.	
+information on this survey, please see appendix A.
 2
 A school-associated violent death is defined as “a homicide, suicide, or legal intervention (involving a law enforcement officer), in which the fatal
 injury occurred on the campus of a functioning elementary or secondary school in the United States” while the victim was on the way to or from
 regular sessions at school or while the victim was attending or traveling to or from an official school-sponsored event. Victims include students, staff
-members, and others who are not students, from July 1, 1992, through June 30, 2009.		
-NOTE: “At school” includes on school property, on the way to or from regular sessions at school, and while attending or traveling to or from a schoolsponsored event. Estimates were revised and may differ from previously published data.					
+members, and others who are not students, from July 1, 1992, through June 30, 2009.
+NOTE: “At school” includes on school property, on the way to or from regular sessions at school, and while attending or traveling to or from a schoolsponsored event. Estimates were revised and may differ from previously published data.
 SOURCE: Data on homicides and suicides of youth ages 5–18 at school and total school-associated violent deaths are from the Centers for
 Disease Control and Prevention (CDC), 1992–2009 School-Associated Violent Deaths Surveillance Study (SAVD), partially funded by the U.S.
 Department of Education, Office of Safe and Drug-Free Schools, previously unpublished tabulation (July 2010).
@@ -2260,14 +2260,14 @@ Year
 
 Year
 
-Serious violent crimes are also included in violent crimes.								
+Serious violent crimes are also included in violent crimes.
 NOTE: There were changes in the sample design and survey methodology in the 2006 National Crime Victimization Survey (NCVS) that affected
 survey estimates. Due to this redesign, 2006 data are not presented in this indicator. Data from 2007 are comparable to earlier years. For more
 information, please see appendix A. Serious violent crimes include rape, sexual assault, robbery, and aggravated assault. Violent crimes include
 serious violent crimes and simple assault. Theft includes purse snatching, pick pocketing, all burglaries, attempted forcible entry, and all attempted
 and completed thefts except motor vehicle thefts. Theft does not include robbery in which threat or use of force is involved.Total crimes include violent crimes and theft. “At school” includes inside the school building, on school property, or on the way to or from school. Although Indicators 2 and
 3 present information on similar topics, the survey sources for these two indicators differ with respect to time coverage and administration. For more
-information on these two surveys, please see appendix A. Detail may not sum to totals because of rounding. 		
+information on these two surveys, please see appendix A. Detail may not sum to totals because of rounding.
 SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, National Crime Victimization Survey (NCVS), 1992–2005 and 2007–2008.
 1
 
@@ -2404,14 +2404,14 @@ Type of crime
 
 15–18 years
 
-Serious violent crimes are also included in violent crimes.								
+Serious violent crimes are also included in violent crimes.
 NOTE: Serious violent crimes include rape, sexual assault, robbery, and aggravated assault. Violent crimes include serious violent crimes and
 simple assault. Theft includes purse snatching, pick pocketing, all burglaries, attempted forcible entry, and all attempted and completed thefts except
 motor vehicle thefts. Theft does not include robbery in which threat or use of force is involved. Total crimes include violent crimes and theft. “At
 school” includes inside the school building, on school property, or on the way to or from school. Although Indicators 2 and 3 present information on
 similar topics, the survey sources for these two indicators differ with respect to time coverage and administration. For more information on these two
 surveys, please see appendix A. Population size is 26,314,000 students ages 12–18 in 2008. Detail may not sum to totals because of rounding and
-missing data on student characteristics.						
+missing data on student characteristics.
 SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, National Crime Victimization Survey (NCVS), 2008.
 1
 
@@ -2616,7 +2616,7 @@ Year
 
 Year
 
-Serious violent crimes are also included in violent crimes.								
+Serious violent crimes are also included in violent crimes.
 NOTE: Theft includes purse snatching, pick pocketing, all burglaries, attempted forcible entry, and all attempted and completed thefts except motor
 vehicle thefts. Theft does not include robbery in which threat or use of force is involved. Serious violent crimes include rape, sexual assault, robbery,
 and aggravated assault. Violent crimes include serious violent crimes and simple assault. Total crimes include violent crimes and theft. “At school”
@@ -2756,7 +2756,7 @@ Total
 2009
 
 Year
-NOTE: “On school property” was not defined for survey respondents. 								
+NOTE: “On school property” was not defined for survey respondents.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), various years, 1993–2009.
 
@@ -2870,8 +2870,8 @@ Male
 
 Female
 
-# Rounds to zero.										
-NOTE: “On school property” was not defined for survey respondents. Detail may not sum to totals because of rounding.		
+# Rounds to zero.
+NOTE: “On school property” was not defined for survey respondents. Detail may not sum to totals because of rounding.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), 2009.
 
@@ -2990,7 +2990,7 @@ Physically attacked
 2007–08
 
 Year
-NOTE: Teachers who taught only prekindergarten students are excluded.							
+NOTE: Teachers who taught only prekindergarten students are excluded.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, Schools and Staffing Survey (SASS), “Public School Teacher
 Data File,” and “Private School Teacher Data File,” 1993–94, 1999–2000, 2003–04, and 2007–08; “Charter School Teacher Data File,” 1999–2000;
 and “Bureau of Indian Education Teacher Data File,” 1999–2000, 2003–04, and 2007–08.
@@ -3061,7 +3061,7 @@ Secondary
 
 NOTE: Teachers who taught only prekindergarten students are excluded. Instructional level divides teachers into elementary or secondary based
 on a combination of the grades taught, main teaching assignment, and the structure of the teachers’ class(es). Please see the glossary for a more
-detailed definition. 										
+detailed definition.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, Schools and Staffing Survey (SASS), “Public School Teacher
 Data File,” “Private School Teacher Data File,” and “Bureau of Indian Education Teacher Data File,” 2007–08.
 
@@ -3268,17 +3268,17 @@ Recorded
 
 Reported to the police
 
-Violent incidents include serious violent incidents; physical attack or fight without a weapon; and threat of physical attack without a weapon.	
+Violent incidents include serious violent incidents; physical attack or fight without a weapon; and threat of physical attack without a weapon.
 Serious violent incidents include rape or attempted rape; sexual battery other than rape; physical attack or fight with a weapon; threat of physical
-attack with a weapon; and robbery with or without a weapon.								
+attack with a weapon; and robbery with or without a weapon.
 3
-Theft/larceny includes taking things worth over $10 without personal confrontation. Please see appendix B for a more detailed definition.		
+Theft/larceny includes taking things worth over $10 without personal confrontation. Please see appendix B for a more detailed definition.
 4
 Other incidents include possession of a firearm or explosive device; possession of a knife or sharp object; distribution, possession, or use of illegal
-drugs or alcohol; and vandalism.											
+drugs or alcohol; and vandalism.
 NOTE: Responses were provided by the principal or the person most knowledgeable about crime and safety issues at the school. “At school” was
 defined for respondents to include activities that happen in school buildings, on school grounds, on school buses, and at places that hold schoolsponsored events or activities. Respondents were instructed to include incidents that occurred before, during, or after normal school hours or when
-school activities or events were in session. 										
+school activities or events were in session.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, 2007–08 School Survey on Crime and Safety (SSOCS), 2008.
 1
 2
@@ -3518,15 +3518,15 @@ Percent
 
 Percent
 
-# Rounds to zero.											
+# Rounds to zero.
 1
-Violent incidents include serious violent incidents; physical attack or fight without a weapon; and threat of physical attack without a weapon. 	
+Violent incidents include serious violent incidents; physical attack or fight without a weapon; and threat of physical attack without a weapon.
 2
 Serious violent incidents include rape or attempted rape; sexual battery other than rape; physical attack or fight with a weapon; threat of physical
-attack with a weapon; and robbery with or without a weapon. 								
+attack with a weapon; and robbery with or without a weapon.
 NOTE: Responses were provided by the principal or the person most knowledgeable about crime and safety issues at the school. “At school” was
 defined for respondents to include activities that happen in school buildings, on school grounds, on school buses, and at places that hold schoolsponsored events or activities. Respondents were instructed to include incidents that occurred before, during, or after normal school hours or when
-school activities or events were in session. Detail may not sum to totals because of rounding.						
+school activities or events were in session. Detail may not sum to totals because of rounding.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, 2007–08 School Survey on Crime and Safety (SSOCS), 2008.
 
 Indicators of School Crime and Safety: 2010
@@ -3645,19 +3645,19 @@ Year
 Year
 
 Total incidents include violent incidents; thefts; and other incidents such as possession of a firearm or explosive device; possession of a knife or
-sharp object; distribution, possession, or use of illegal drugs or alcohol; and vandalism.						
+sharp object; distribution, possession, or use of illegal drugs or alcohol; and vandalism.
 2
-Violent incidents include serious violent incidents; physical attack or fight without a weapon; and threat of physical attack without a weapon.	
+Violent incidents include serious violent incidents; physical attack or fight without a weapon; and threat of physical attack without a weapon.
 3
 Serious violent incidents include rape or attempted rape; sexual battery other than rape; physical attack or fight with a weapon; threat of physical
-attack with a weapon; and robbery with or without a weapon.								
+attack with a weapon; and robbery with or without a weapon.
 4
-Theft/larceny includes taking things worth over $10 without personal confrontation. Please see appendix B for a more detailed definition.		
+Theft/larceny includes taking things worth over $10 without personal confrontation. Please see appendix B for a more detailed definition.
 NOTE: Responses were provided by the principal or the person most knowledgeable about crime and safety issues at the school. “At school” was
 defined for respondents to include activities that happen in school buildings, on school grounds, on school buses, and at places that hold schoolsponsored events or activities. Respondents were instructed to include incidents that occurred before, during, or after normal school hours or when
-school activities or events were in session. 										
+school activities or events were in session.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, 1999–2000, 2003–04, 2005–06, and 2007–08 School Survey on
-Crime and Safety (SSOCS), 2000, 2004, 2006, and 2008.	
+Crime and Safety (SSOCS), 2000, 2004, 2006, and 2008.
 1
 
 28
@@ -3829,19 +3829,19 @@ Primary school
 
 Middle school
 
-! Interpret data with caution.									
-‡ Reporting standards not met.									
+! Interpret data with caution.
+‡ Reporting standards not met.
 1
-Includes schools that reported the activity happens either at least once a week or daily.						
+Includes schools that reported the activity happens either at least once a week or daily.
 2
-Includes schools that reported the activity has happened at all at their school during the school year.					
+Includes schools that reported the activity has happened at all at their school during the school year.
 NOTE: Primary schools are defined as schools in which the lowest grade is not higher than grade 3 and the highest grade is not higher than grade
 8. Middle schools are defined as schools in which the lowest grade is not lower than grade 4 and the highest grade is not higher than grade 9. High
 schools are defined as schools in which the lowest grade is not lower than grade 9. Combined schools include all other combinations of grades,
 including K–12 schools. Responses were provided by the principal or the person most knowledgeable about crime and safety issues at the school.
 “At school” was defined for respondents to include activities that happen in school buildings, on school grounds, on school buses, and at places that
 hold school-sponsored events or activities. Respondents were instructed to respond only for those times that were during normal school hours or
-when school activities or events were in session, unless the survey specified otherwise. 						
+when school activities or events were in session, unless the survey specified otherwise.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, 2007–08 School Survey on Crime and Safety (SSOCS), 2008.
 
 Indicators of School Crime and Safety: 2010
@@ -3936,8 +3936,8 @@ and DeVoe and Bauer (2010), (http://nces.ed.gov/pubs2010/2010319.pdf).
 School Environment
 
 Figure 8.1.	 Percentage of students ages 12–18 who reported that gangs were present at school during
-the school year, by school sector and race/ethnicity: 2007				
-	
+the school year, by school sector and race/ethnicity: 2007
+
 
 Percent
 50
@@ -3980,7 +3980,7 @@ Asian
 
 Student or school characteristic
 NOTE: Race categories exclude persons of Hispanic ethnicity. All gangs, whether or not they are involved in violent or illegal activity, are included.
-“At school” includes the school building, on school property, on a school bus, or going to and from school. 				
+“At school” includes the school building, on school property, on a school bus, or going to and from school.
 SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey, 2007.
 
 Figure 8.2.	 Percentage of students ages 12–18 who reported that gangs were present at school, by sex:
@@ -4011,11 +4011,11 @@ Female
 
 Year
 In 2007, the reference period was the school year, whereas in prior survey years the reference period was the previous 6 months. Cognitive testing
-showed that estimates from 2007 are comparable to previous years.							
+showed that estimates from 2007 are comparable to previous years.
 NOTE: All gangs, whether or not they are involved in violent or illegal activity, are included. “At school” includes the school building, on school
-property, on a school bus, or going to and from school. 						
+property, on a school bus, or going to and from school.
 SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey,
-various years, 2001–2007.									
+various years, 2001–2007.
 1
 
 Indicators of School Crime and Safety: 2010
@@ -4120,7 +4120,7 @@ Female
 2009
 
 Year
-NOTE: “On school property” was not defined for survey respondents. 								
+NOTE: “On school property” was not defined for survey respondents.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), various years, 1993–2009.
 
@@ -4169,7 +4169,7 @@ Indian/
 Alaska Native
 
 Race/ethnicity
-NOTE: “On school property” was not defined for survey respondents. Race categories exclude persons of Hispanic ethnicity.			
+NOTE: “On school property” was not defined for survey respondents. Race categories exclude persons of Hispanic ethnicity.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), 2009.
 
@@ -4370,9 +4370,9 @@ Percent
 
 Percent
 
-Race categories exclude persons of Hispanic ethnicity. Other includes American Indian, Alaska Native, Pacific Islander, and two or more races. 	
+Race categories exclude persons of Hispanic ethnicity. Other includes American Indian, Alaska Native, Pacific Islander, and two or more races.
 NOTE: “At school” includes the school building, on school property, on a school bus, and going to and from school. “Hate-related” refers to
-derogatory terms used by others in reference to students’ personal characteristics. 	
+derogatory terms used by others in reference to students’ personal characteristics.
 SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey, 2007.
 1
 
@@ -4459,9 +4459,9 @@ In the School Crime Supplement (SCS) questionnaire, students were asked if they 
 who indicated that they had been called a hate-related word were asked to choose the specific characteristics that the hate-related word targeted.
 Students were allowed to choose more than one characteristic. If a student chose more than one characteristic, he or she is counted once under
 the “total” category. Therefore, the total percentage of students who reported being called a hate-related word is less than the sum of the students’
-individual characteristics.									
+individual characteristics.
 NOTE: “At school” includes the school building, on school property, on a school bus, and going to and from school. Hate-related refers to derogatory
-terms used by others in reference to students’ personal characteristics. 					
+terms used by others in reference to students’ personal characteristics.
 SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey, 2007.
 1
 
@@ -4615,7 +4615,7 @@ Female
 Cyber-bullied includes students who responded that another student posted hurtful information about the respondent on the Internet; made
 unwanted contact by threatening or insulting the respondent via instant messaging; or made unwanted contact by threatening or insulting the
 respondent via text (SMS) messaging. The latter category did not meet statistical standards to be reported separately.
-NOTE: “At school” includes the school building, on school property, on a school bus, or going to and from school. 				
+NOTE: “At school” includes the school building, on school property, on a school bus, or going to and from school.
 SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey, 2007.
 
 Figure 11.2.	 Percentage of students ages 12–18 who reported selected bullying problems at school and
@@ -4676,8 +4676,8 @@ Internet1
 Anywhere
 
 Unwanted contact on Internet was defined as another student making “unwanted contact, for example, threatened or insulted [the respondent] via
-instant messaging.”	
-NOTE: “At school” includes the school building, on school property, on a school bus, or going to and from school. 				
+instant messaging.”
+NOTE: “At school” includes the school building, on school property, on a school bus, or going to and from school.
 SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey, 2007.
 1
 
@@ -4748,7 +4748,7 @@ Female
 1
 Injury includes bruises or swelling; cuts, scratches, or scrapes; black eye or bloody nose; teeth chipped or knocked out; broken bones or internal
 injuries; knocked unconscious; or other injuries. Only students who reported that their bullying incident constituted being pushed, shoved, tripped,
-or spit on were asked if they suffered injuries as a result of the incident.							
+or spit on were asked if they suffered injuries as a result of the incident.
 NOTE: “At school” includes the school building, on school property, on a school bus, or going to and from school.
 SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey, 2007.
 
@@ -4823,10 +4823,10 @@ notified1
 
 Cyber-bullying anywhere
 
-‡ Reporting standards not met.									
+‡ Reporting standards not met.
 1
-Teacher or other adult at school notified.									
-NOTE: “At school” includes the school building, on school property, on a school bus, or going to and from school. 			
+Teacher or other adult at school notified.
+NOTE: “At school” includes the school building, on school property, on a school bus, or going to and from school.
 SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey, 2007.
 
 44
@@ -4973,7 +4973,7 @@ Town
 
 Rural
 
-NOTE: Teachers who taught only prekindergarten students are excluded. 							
+NOTE: Teachers who taught only prekindergarten students are excluded.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, Schools and Staffing Survey (SASS), “Public School Teacher
 Data File,” “Private School Teacher Data File,” and “Bureau of Indian Education Teacher Data File,” 2007–08.
 
@@ -5010,12 +5010,12 @@ Elementary
 Secondary
 
 Respondents were asked whether “rules for student behavior are consistently enforced by teachers in this school, even for students not in their
-classes.”									
+classes.”
 2
-Respondents were asked whether their “principal enforces school rules for student conduct and backs me up when I need it.”			
+Respondents were asked whether their “principal enforces school rules for student conduct and backs me up when I need it.”
 NOTE: Teachers who taught only prekindergarten students are excluded. Elementary schools are defined as schools in which the lowest grade is
 less than or equal to grade 6 and the highest grade is less than or equal to grade 8. Secondary schools are defined as schools in which the lowest
-grade is greater than or equal to grade 7. Combined schools are included in totals, but are not shown separately. 				
+grade is greater than or equal to grade 7. Combined schools are included in totals, but are not shown separately.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, Schools and Staffing Survey (SASS), “Public School Teacher
 Data File,” “Private School Teacher Data File,” and “Bureau of Indian Education Teacher Data File,” 2007–08.
 1
@@ -5253,7 +5253,7 @@ Year
 Year
 
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students are
-simply asked how many times in the last 12 months they had been in a physical fight. 						
+simply asked how many times in the last 12 months they had been in a physical fight.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), various years, 1993–2009.
 
@@ -5324,7 +5324,7 @@ more races
 On school property
 
 NOTE: Race categories exclude persons of Hispanic ethnicity. “On school property” was not defined for survey respondents. The term “anywhere” is
-not used in the YRBS questionnaire; students are simply asked how many times in the last 12 months they had been in a physical fight. 		
+not used in the YRBS questionnaire; students are simply asked how many times in the last 12 months they had been in a physical fight.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), 2009.
 
@@ -5455,9 +5455,9 @@ Male
 
 Female
 
-# Rounds to zero.											
+# Rounds to zero.
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students are
-simply asked how many times in the last 12 months they had been in a physical fight. Detail may not sum to totals because of rounding.		
+simply asked how many times in the last 12 months they had been in a physical fight. Detail may not sum to totals because of rounding.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), 2009.
 
@@ -5618,7 +5618,7 @@ Year
 Year
 
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students are
-simply asked how many days they carried a weapon during the past 30 days. 							
+simply asked how many days they carried a weapon during the past 30 days.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), various years, 1993–2009.
 
@@ -5686,9 +5686,9 @@ more races
 
 On school property
 
-! Interpret data with caution.										
+! Interpret data with caution.
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students
-are simply asked on how many days they carried a weapon during the past 30 days. Race categories exclude persons of Hispanic ethnicity. 	
+are simply asked on how many days they carried a weapon during the past 30 days. Race categories exclude persons of Hispanic ethnicity.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), 2009.
 
@@ -5838,7 +5838,7 @@ Year
 Year
 
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students are
-simply asked how many days during the past 30 days they had at least one drink of alcohol.						
+simply asked how many days during the past 30 days they had at least one drink of alcohol.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), various years, 1993–2009.
 
@@ -5928,11 +5928,11 @@ Male
 
 Female
 
-# Rounds to zero.											
+# Rounds to zero.
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students are
-simply asked how many days during the past 30 days they had at least one drink of alcohol. Detail may not sum to totals because of rounding.	
+simply asked how many days during the past 30 days they had at least one drink of alcohol. Detail may not sum to totals because of rounding.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
-Surveillance System (YRBSS), 2009.	
+Surveillance System (YRBSS), 2009.
 
 Indicators of School Crime and Safety: 2010
 
@@ -6022,9 +6022,9 @@ Anywhere
 On school property
 
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students are
-simply asked how many days during the past 30 days they had at least one drink of alcohol.						
+simply asked how many days during the past 30 days they had at least one drink of alcohol.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
-Surveillance System (YRBSS), 2009.	
+Surveillance System (YRBSS), 2009.
 
 Figure 15.4.	 Percentage of students in grades 9–12 who reported using alcohol at least one day during
 the previous 30 days, by location and race/ethnicity: 2009
@@ -6085,9 +6085,9 @@ more races
 
 On school property
 
-! Interpret data with caution.											
+! Interpret data with caution.
 NOTE: Race categories exclude persons of Hispanic ethnicity. “On school property” was not defined for survey respondents. The term “anywhere” is
-not used in the YRBS questionnaire; students are simply asked how many days during the past 30 days they had at least one drink of alcohol. 	
+not used in the YRBS questionnaire; students are simply asked how many days during the past 30 days they had at least one drink of alcohol.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), 2009.
 
@@ -6244,7 +6244,7 @@ Year
 Year
 
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students are
-simply asked how many times during the past 30 days they used marijuana. 							
+simply asked how many times during the past 30 days they used marijuana.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), various years, 1993–2009.
 
@@ -6333,9 +6333,9 @@ Male
 
 Female
 
-# Rounds to zero.											
+# Rounds to zero.
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students are
-simply asked how many times during the past 30 days they used marijuana. Detail may not sum to totals because of rounding.			
+simply asked how many times during the past 30 days they used marijuana. Detail may not sum to totals because of rounding.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), 2009.
 
@@ -6433,9 +6433,9 @@ Anywhere
 
 On school property
 
-! Interpret data with caution.										
+! Interpret data with caution.
 NOTE: Race categories exclude persons of Hispanic ethnicity. “On school property” was not defined for survey respondents. The term “anywhere” is
-not used in the YRBS questionnaire; students are simply asked how many times during the past 30 days they used marijuana. 			
+not used in the YRBS questionnaire; students are simply asked how many times during the past 30 days they used marijuana.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), 2009.
 
@@ -6478,7 +6478,7 @@ Anywhere
 On school property
 
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students are
-simply asked how many times during the past 30 days they used marijuana. 							
+simply asked how many times during the past 30 days they used marijuana.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), 2009.
 
@@ -6639,8 +6639,8 @@ Asian
 
 Other
 
-! Interpret data with caution.									
-‡ Reporting standards not met.									
+! Interpret data with caution.
+‡ Reporting standards not met.
 NOTE: Race categories exclude persons of Hispanic ethnicity. Other includes American Indian, Alaska Native, Pacific Islander, and two or
 more races.
 SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey, 2007.
@@ -6716,10 +6716,10 @@ Year
 Year
 
 In 2007, the reference period was the school year, whereas in prior survey years the reference period was the previous 6 months. Cognitive
-testing showed that estimates from 2007 are comparable to previous years.							
-NOTE: Fear of attack away from school was not collected in 1995. For more information, please see appendix A. 				
+testing showed that estimates from 2007 are comparable to previous years.
+NOTE: Fear of attack away from school was not collected in 1995. For more information, please see appendix A.
 SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey,
-various years, 1995–2007.									
+various years, 1995–2007.
 1
 
 Indicators of School Crime and Safety: 2010
@@ -6939,7 +6939,7 @@ Private
 25
 
 Percent
-! Interpret data with caution.									
+! Interpret data with caution.
 SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey, 2007.
 
 70
@@ -7102,7 +7102,7 @@ Percent
 NOTE: Responses were provided by the principal or the person most knowledgeable about crime and safety issues at the school. Serious disciplinary actions include removals with no continuing services for at least the remainder of the school year, transfers to specialized schools for disciplinary
 reasons, and out-of-school suspensions lasting 5 or more days, but less than the remainder of the school year. Respondents were instructed to
 respond only for offenses that occurred during normal school hours or when school activities or events were in session, unless the survey specified
-otherwise.												
+otherwise.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, 2007–08 School Survey on Crime and Safety (SSOCS), 2008.
 
 Indicators of School Crime and Safety: 2010
@@ -7206,12 +7206,12 @@ Percent
 Out-of-school suspensions lasting 5 days or more
 Removal with no services for remainder of school year
 Transfer to specialized schools
-‡ Reporting standards not met.										
+‡ Reporting standards not met.
 NOTE: Responses were provided by the principal or the person most knowledgeable about crime and safety issues at the school. Serious
 disciplinary actions include removals with no continuing services for at least the remainder of the school year, transfers to specialized schools for
 disciplinary reasons, and out-of-school suspensions lasting 5 or more days, but less than the remainder of the school year. Respondents were
 instructed to respond only for offenses that occurred during normal school hours or when school activities or events were in session, unless the
-survey specified otherwise. Details may not sum to totals because of rounding.							
+survey specified otherwise. Details may not sum to totals because of rounding.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, 2007–08 School Survey on Crime and Safety (SSOCS), 2008.
 
 74
@@ -7242,14 +7242,14 @@ Use or possession of a firearm or explosive device1
 2007–08
 
 Year
-Data not available prior to 2003–04.								
+Data not available prior to 2003–04.
 NOTE: Responses were provided by the principal or the person most knowledgeable about crime and safety issues at the school. Serious
 disciplinary actions include removals with no continuing services for at least the remainder of the school year, transfers to specialized schools for
 disciplinary reasons, and out-of-school suspensions lasting 5 or more days, but less than the remainder of the school year. Respondents were
 instructed to respond only for offenses that occurred during normal school hours or when school activities or events were in session, unless the
-survey specified otherwise. 								
+survey specified otherwise.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, 1999–2000, 2003–04, 2005–06, and 2007–08 School Survey on
-Crime and Safety (SSOCS), 2000, 2004, 2006, and 2008.	
+Crime and Safety (SSOCS), 2000, 2004, 2006, and 2008.
 1
 
 Indicators of School Crime and Safety: 2010
@@ -7452,13 +7452,13 @@ wear uniforms
 100
 
 Percent
-Excludes athletes.										
-One or more check, sweep, or camera.									
+Excludes athletes.
+One or more check, sweep, or camera.
 3
-For example, drugs or weapons. Does not include dog sniffs.								
+For example, drugs or weapons. Does not include dog sniffs.
 NOTE: Responses were provided by the principal or the person most knowledgeable about crime and safety issues at the school. Respondents
 were instructed to respond only for those times that were during normal school hours or when school activities or events were in session, unless the
-survey specified otherwise. 										
+survey specified otherwise.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, 2007–08 School Survey on Crime and Safety (SSOCS), 2008.
 1
 2
@@ -7499,11 +7499,11 @@ Required students to wear badges or picture IDs
 2007–08
 
 Year
-For example, locked or monitored doors.										
-One or more cameras.											
-NOTE: Responses were provided by the principal or the person most knowledgeable about crime and safety issues at the school.		
+For example, locked or monitored doors.
+One or more cameras.
+NOTE: Responses were provided by the principal or the person most knowledgeable about crime and safety issues at the school.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, 1999–2000, 2003–04, 2005–06, and 2007–08 School Survey on
-Crime and Safety (SSOCS), 2000, 2004, 2006, and 2008.	
+Crime and Safety (SSOCS), 2000, 2004, 2006, and 2008.
 1
 2
 
@@ -7710,7 +7710,7 @@ Percent
 
 2007
 
-Data for 1999 are not available.											
+Data for 1999 are not available.
 NOTE: “At school” includes the school building, on school property, on a school bus, and, from 2001 onward, going to and from school. In 2005 and
 2007, the unit response rate for this survey did not meet NCES statistical standards. For more information, please see appendix A.
 SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey,
@@ -8077,18 +8077,18 @@ suicides4
 1,231
 —
 
-— Not available.							
+— Not available.
 1
 A school-associated violent death is defined as “a homicide, suicide, or legal intervention (involving a law enforcement officer), in which the fatal
 injury occurred on the campus of a functioning elementary or secondary school in the United States” while the victim was on the way to or from
 regular sessions at school or while the victim was attending or traveling to or from an official school-sponsored event. Victims include students, staff
-members, and others who are not students, from July 1, 1992, through June 20, 2009.			
+members, and others who are not students, from July 1, 1992, through June 20, 2009.
 2
-Youth ages 5–18 from July 1, 1992, through June 30, 2009.							
+Youth ages 5–18 from July 1, 1992, through June 30, 2009.
 3
-Youth ages 5–18 from July 1, 1992, through June 30, 2008.							
+Youth ages 5–18 from July 1, 1992, through June 30, 2008.
 4
-Youth ages 5–18 in the calendar year from 1992 to 2007.							
+Youth ages 5–18 in the calendar year from 1992 to 2007.
 5
 The data from 1999–2000 onward are subject to change until interviews with school and law enforcement officials have been completed. The details
 learned during the interviews can occasionally change the classification of a case. For more information on this survey, please see appendix A.
@@ -8229,11 +8229,11 @@ Data are subject to change as additional information is received and assessed.
 NOTE: A school-associated violent death is defined as “a homicide, suicide, or legal intervention (involving a law enforcement officer), in which the
 fatal injury occurred on the campus of a functioning elementary or secondary school in the United States” while the victim was on the way to or from
 regular sessions at school or while the victim was attending or traveling to or from an official school-sponsored event. Victims include students, staff
-members, and others who are not students. Estimates were revised and may differ from previously published data.	
+members, and others who are not students. Estimates were revised and may differ from previously published data.
 SOURCE: Centers for Disease Control and Prevention (CDC), 1992–2009 School-Associated Violent Deaths Surveillance Study (SAVD), partially
-funded by the U.S. Department of Education, Office of Safe and Drug-Free Schools, previously unpublished tabulation (July 2010).		
-			
-					
+funded by the U.S. Department of Education, Office of Safe and Drug-Free Schools, previously unpublished tabulation (July 2010).
+
+
 
 Indicators of School Crime and Safety: 2010
 
@@ -8566,7 +8566,7 @@ violent1
 6
 8
 
-Serious violent crimes are also included in violent crimes. 								
+Serious violent crimes are also included in violent crimes.
 NOTE: There were changes in the sample design and survey methodology in the 2006 National Crime Victimization Survey (NCVS) that affected
 survey estimates. Due to this redesign, 2006 data are not presented in this indicator. Data from 2007 onward are comparable to earlier years. For
 more information, please see appendix A. Serious violent crimes include rape, sexual assault, robbery, and aggravated assault. Violent crimes
@@ -8775,7 +8775,7 @@ Violent violent1
 1
 Serious violent crimes are also included in violent crimes.
 2
-Other includes Asians, Pacific Islanders, and American Indians (including Alaska Natives). Race categories exclude persons of Hispanic ethnicity. 	
+Other includes Asians, Pacific Islanders, and American Indians (including Alaska Natives). Race categories exclude persons of Hispanic ethnicity.
 NOTE: Serious violent crimes include rape, sexual assault, robbery, and aggravated assault. Violent crimes include serious violent crimes and
 simple assault. Theft includes purse snatching, pick pocketing, all burglaries, attempted forcible entry, and all attempted and completed thefts except
 motor vehicle thefts. Theft does not include robbery in which threat or use of force is involved. Total crimes include violent crimes and theft. “At
@@ -8982,9 +8982,9 @@ violent1
 5!
 7!
 
-! Interpret data with caution. Estimate based on 10 or fewer sample cases.							
+! Interpret data with caution. Estimate based on 10 or fewer sample cases.
 1
-Serious violent crimes are also included in violent crimes.								
+Serious violent crimes are also included in violent crimes.
 2
 Other includes Asians, Pacific Islanders, and American Indians (including Alaska Natives). Race categories exclude persons of Hispanic ethnicity.
 NOTE: Serious violent crimes include rape, sexual assault, robbery, and aggravated assault. Violent crimes include serious violent crimes and
@@ -9715,16 +9715,16 @@ violent1
 0.4
 ‡
 
-— Not available.												
-# Rounds to zero.												
-! Interpret data with caution.											
-‡ Reporting standards not met.											
+— Not available.
+# Rounds to zero.
+! Interpret data with caution.
+‡ Reporting standards not met.
 1
-Serious violent crimes are also included in violent crimes.								
+Serious violent crimes are also included in violent crimes.
 2
 Race categories exclude persons of Hispanic ethnicity. Other includes American Indian, Alaska Native, Asian (prior to 2005), Pacific Islander,
 and, from 2003 onward, two or more races. Due to changes in racial/ethnic categories, comparisons of race/ethnicity across years should be
-made with caution.												
+made with caution.
 NOTE: Theft includes purse snatching, pick pocketing, all burglaries, attempted forcible entry, and all attempted and completed thefts except motor
 vehicle thefts. Theft does not include robbery in which threat or use of force is involved. Serious violent crimes include rape, sexual assault, robbery,
 and aggravated assault. Violent crimes include serious violent crimes and simple assault. Total crimes include violent crimes and theft. “At school”
@@ -9998,15 +9998,15 @@ Rural
 7.0
 5.6 !
 
-— Not available.												
-! Interpret data with caution.											
+— Not available.
+! Interpret data with caution.
 1
-Race categories exclude persons of Hispanic ethnicity.									
+Race categories exclude persons of Hispanic ethnicity.
 2
 The response categories for race/ethnicity changed in 1999 making comparisons of some categories with earlier years problematic. In 1993, 1995,
 and 1997, Asian students and Pacific Islander students were not categorized separately and students were not given the option of choosing two or
-more races.												
-NOTE: “On school property” was not defined for survey respondents. 								
+more races.
+NOTE: “On school property” was not defined for survey respondents.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), various years, 1993–2009.
 
@@ -10289,10 +10289,10 @@ Wyoming
 
 — Not available.
 NOTE: “On school property” was not defined for survey respondents. The estimate for the United States is drawn from a nationally representative
-sample of schools and is not the aggregate of participating states. Each state estimate is based on a sample that is representative of that state. 	
+sample of schools and is not the aggregate of participating states. Each state estimate is based on a sample that is representative of that state.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
-Surveillance System (YRBSS), previously unpublished tabulation, various years, 2003–2009.						
-				
+Surveillance System (YRBSS), previously unpublished tabulation, various years, 2003–2009.
+
 
 Indicators of School Crime and Safety: 2010
 
@@ -10427,10 +10427,10 @@ Grade
 1.3
 1.0
 
-! Interpret data with caution.											
-‡ Reporting standards not met.											
-1 Race categories exclude persons of Hispanic ethnicity. 									
-NOTE: “On school property” was not defined for survey respondents. Detail may not sum to totals because of rounding.			
+! Interpret data with caution.
+‡ Reporting standards not met.
+1 Race categories exclude persons of Hispanic ethnicity.
+NOTE: “On school property” was not defined for survey respondents. Detail may not sum to totals because of rounding.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), 2009.
 
@@ -10462,7 +10462,7 @@ Sector
 Public3
 Private
 
-		
+
 
 Teacher or school
 characteristic
@@ -10758,20 +10758,20 @@ Rural
 50,600
 2,200
 
-! Interpret data with caution.											
+! Interpret data with caution.
 1
 Other includes American Indian, Alaska Native, Asian or Pacific Islander, and, in 2003–04 and 2007–08, two or more races. Race categories
-exclude persons of Hispanic ethnicity.										
+exclude persons of Hispanic ethnicity.
 2
 Instructional level divides teachers into elementary or secondary based on a combination of the grades taught, main teaching assignment, and the
-structure of the teachers’ class(es). Please see the glossary for a more detailed definition. 						
+structure of the teachers’ class(es). Please see the glossary for a more detailed definition.
 3
-The public sector includes public, public charter, and Bureau of Indian Education school teachers. 					
+The public sector includes public, public charter, and Bureau of Indian Education school teachers.
 NOTE: Teachers who taught only prekindergarten students are excluded. Detail may not sum to totals because of rounding. Estimates of number of
 reports are rounded to the nearest 100. Figures were revised and may differ from previously published data.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, Schools and Staffing Survey (SASS), “Public School Teacher
 Data File,” and “Private School Teacher Data File,” 1993–94, 1999–2000, 2003–04, and 2007–08; “Charter School Teacher Data File,” 1999–2000;
-and “Bureau of Indian Education Teacher Data File,” 1999–2000, 2003–04, and 2007–08.			
+and “Bureau of Indian Education Teacher Data File,” 1999–2000, 2003–04, and 2007–08.
 
 100
 
@@ -10798,7 +10798,7 @@ Secondary
 Sector
 Public3
 Private
-			
+
 
 Teacher or school
 characteristic
@@ -11093,24 +11093,24 @@ Rural
 27,000
 1,100 !
 
-! Interpret data with caution.											
-‡ Reporting standards not met.											
+! Interpret data with caution.
+‡ Reporting standards not met.
 1
 Other includes American Indian, Alaska Native, Asian or Pacific Islander, and, in 2003–04 and 2007–08, two or more races. Race categories
-exclude persons of Hispanic ethnicity.										
+exclude persons of Hispanic ethnicity.
 2
 Instructional level divides teachers into elementary or secondary based on a combination of the grades taught, main teaching assignment, and the
-structure of the teachers’ class(es). Please see the glossary for a more detailed definition.						
+structure of the teachers’ class(es). Please see the glossary for a more detailed definition.
 3
-The public sector includes public, public charter, and Bureau of Indian Education school teachers. 					
+The public sector includes public, public charter, and Bureau of Indian Education school teachers.
 NOTE: Teachers who taught only prekindergarten students are excluded. Detail may not sum to totals because of rounding. Estimates of number of
-reports are rounded to the nearest 100. 										
+reports are rounded to the nearest 100.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, Schools and Staffing Survey (SASS), “Public School Teacher
 Data File,” and “Private School Teacher Data File,” 1993–94, 1999–2000, 2003–04, and 2007–08; “Charter School Teacher Data File,” 1999–2000;
-and “Bureau of Indian Education Teacher Data File,” 1999–2000, 2003–04, and 2007–08. 						
-													
-										
-	
+and “Bureau of Indian Education Teacher Data File,” 1999–2000, 2003–04, and 2007–08.
+
+
+
 
 Indicators of School Crime and Safety: 2010
 
@@ -11601,9 +11601,9 @@ Number
 6,200
 400
 
-! Interpret data with caution.											
+! Interpret data with caution.
 NOTE: Teachers who taught only prekindergarten students are excluded. Private school teachers are excluded because the data are not state representative. The public sector includes public, public charter, and Bureau of Indian Education school teachers. Detail may not sum to totals because
-of rounding. Estimates of number of reports are rounded to the nearest 100.					
+of rounding. Estimates of number of reports are rounded to the nearest 100.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, Schools and Staffing Survey (SASS), “Public School Teacher
 Data File,” 1993–94, 1999–2000, 2003–04, and 2007–08; “Charter School Teacher Data File,” 1999–2000; and “Bureau of Indian Education Teacher
 Data File,” 1999–2000, 2003–04, and 2007–08.
@@ -12168,11 +12168,11 @@ Number
 4,600
 200!
 
-! Interpret data with caution.											
-‡ Reporting standards not met.											
+! Interpret data with caution.
+‡ Reporting standards not met.
 NOTE: Teachers who taught only prekindergarten students are excluded. Private school teachers are excluded because the data are not state
 representative. The public sector includes public, public charter, and Bureau of Indian Education school teachers. Details may not sum to totals
-because of rounding. Estimates of number of reports are rounded to the nearest 100.						
+because of rounding. Estimates of number of reports are rounded to the nearest 100.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, Schools and Staffing Survey (SASS), “Public School Teacher
 Data File,” 1993–94, 1999–2000, 2003–04, and 2007–08; “Charter School Teacher Data File,” 1999–2000; and “Bureau of Indian Education Teacher
 Data File,” 1999–2000, 2003–04, and 2007–08.
@@ -12207,7 +12207,7 @@ Distribution, possession, or use of illegal drugs
 Distribution, possession, or use of alcohol
 Sexual harassment
 Vandalism
-See notes at end of table.			
+See notes at end of table.
 
 104
 
@@ -12536,17 +12536,17 @@ students
 —
 2.1
 
-— Not available.												
-# Rounds to zero.												
-! Interpret data with caution. 											
+— Not available.
+# Rounds to zero.
+! Interpret data with caution.
 1
-Theft/larceny includes taking things worth over $10 without personal confrontation. Please see appendix B for a more detailed definition.		
+Theft/larceny includes taking things worth over $10 without personal confrontation. Please see appendix B for a more detailed definition.
 NOTE: Responses were provided by the principal or the person most knowledgeable about crime and safety issues at the school. “At school” was
 defined for respondents to include activities that happen in school buildings, on school grounds, on school buses, and at places that hold schoolsponsored events or activities. Respondents were instructed to include incidents that occurred before, during, or after normal school hours or when
 school activities or events were in session. Detail may not sum to totals because of rounding. Estimates of number of incidents are rounded to the
-nearest 100.												
+nearest 100.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, 1999–2000, 2003–04, 2005–06, and 2007–08 School Survey on
-Crime and Safety (SSOCS), 2000, 2004, 2006, and 2008.	
+Crime and Safety (SSOCS), 2000, 2004, 2006, and 2008.
 
 Indicators of School Crime and Safety: 2010
 
@@ -13069,30 +13069,30 @@ students
 8.8
 11.1
 
-! Interpret data with caution. 											
+! Interpret data with caution.
 1
-Violent incidents include serious violent incidents; physical attack or fight without a weapon; and threat of physical attack without a weapon.	
+Violent incidents include serious violent incidents; physical attack or fight without a weapon; and threat of physical attack without a weapon.
 2
 Serious violent incidents include rape or attempted rape; sexual battery other than rape; physical attack or fight with a weapon; threat of physical
-attack with a weapon; and robbery with or without a weapon.								
+attack with a weapon; and robbery with or without a weapon.
 3
-Theft/larceny includes taking things worth over $10 without personal confrontation. Please see appendix B for a more detailed definition.		
+Theft/larceny includes taking things worth over $10 without personal confrontation. Please see appendix B for a more detailed definition.
 4
 Other incidents include possession of a firearm or explosive device; possession of a knife or sharp object; distribution, possession, or use of illegal
-drugs or alcohol; and vandalism.											
+drugs or alcohol; and vandalism.
 5
 Primary schools are defined as schools in which the lowest grade is not higher than grade 3 and the highest grade is not higher than grade 8.
 Middle schools are defined as schools in which the lowest grade is not lower than grade 4 and the highest grade is not higher than grade 9. High
 schools are defined as schools in which the lowest grade is not lower than grade 9. Combined schools include all other combinations of grades,
-including K–12 schools.											
+including K–12 schools.
 6
 Student/teacher ratio was calculated by dividing the total number of students enrolled in the school by the total number of full-time-equivalent
 (FTE) teachers and aides. The total number of FTE teachers and aides is a combination of full-time and part-time teachers and aides, including
-special education teachers and aides, with an adjustment for part-time status.							
+special education teachers and aides, with an adjustment for part-time status.
 NOTE: Responses were provided by the principal or the person most knowledgeable about crime and safety issues at the school. “At school” was
 defined for respondents to include activities that happen in school buildings, on school grounds, on school buses, and at places that hold schoolsponsored events or activities. Respondents were instructed to include incidents that occurred before, during, or after normal school hours or when
 school activities or events were in session. Detail may not sum to totals because of rounding. Estimates of number of incidents and schools are
-rounded to the nearest 100.											
+rounded to the nearest 100.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, 2007–08 School Survey on Crime and Safety (SSOCS), 2008.
 
 Indicators of School Crime and Safety: 2010
@@ -13617,30 +13617,30 @@ students
 5.6
 7.0
 
-! Interpret data with caution. 											
+! Interpret data with caution.
 1
-Violent incidents include serious violent incidents; physical attack or fight without a weapon; and threat of physical attack without a weapon.	
+Violent incidents include serious violent incidents; physical attack or fight without a weapon; and threat of physical attack without a weapon.
 2
 Serious violent incidents include rape or attempted rape; sexual battery other than rape; physical attack or fight with a weapon; threat of physical
-attack with a weapon; and robbery with or without a weapon.								
+attack with a weapon; and robbery with or without a weapon.
 3
-Theft/larceny includes taking things worth over $10 without personal confrontation. Please see appendix B for a more detailed definition.		
+Theft/larceny includes taking things worth over $10 without personal confrontation. Please see appendix B for a more detailed definition.
 4
 Other incidents include possession of a firearm or explosive device; possession of a knife or sharp object; distribution, possession, or use of illegal
-drugs or alcohol; and vandalism.											
+drugs or alcohol; and vandalism.
 5
 Primary schools are defined as schools in which the lowest grade is not higher than grade 3 and the highest grade is not higher than grade 8.
 Middle schools are defined as schools in which the lowest grade is not lower than grade 4 and the highest grade is not higher than grade 9. High
 schools are defined as schools in which the lowest grade is not lower than grade 9. Combined schools include all other combinations of grades,
-including K–12 schools.											
+including K–12 schools.
 6
 Student/teacher ratio was calculated by dividing the total number of students enrolled in the school by the total number of full-time-equivalent
 (FTE) teachers and aides. The total number of FTE teachers and aides is a combination of the full-time and part-time teachers and aides, including
-special education teachers and aides, with an adjustment for part-time status.							
+special education teachers and aides, with an adjustment for part-time status.
 NOTE: Responses were provided by the principal or the person most knowledgeable about crime and safety issues at the school. “At school” was
 defined for respondents to include activities that happen in school buildings, on school grounds, on school buses, and at places that hold schoolsponsored events or activities. Respondents were instructed to include incidents that occurred before, during, or after normal school hours or when
 school activities or events were in session. Detail may not sum to totals because of rounding. Estimates of number of incidents and schools are
-rounded to the nearest 100.											
+rounded to the nearest 100.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, 2007–08 School Survey on Crime and Safety (SSOCS), 2008.
 
 Indicators of School Crime and Safety: 2010
@@ -14172,21 +14172,21 @@ Number of violent incidents reported to the police
 5.7
 8.3
 
-! Interpret data with caution. 											
-‡ Reporting standards not met.											
+! Interpret data with caution.
+‡ Reporting standards not met.
 1
 Primary schools are defined as schools in which the lowest grade is not higher than grade 3 and the highest grade is not higher than grade 8.
 Middle schools are defined as schools in which the lowest grade is not lower than grade 4 and the highest grade is not higher than grade 9. High
 schools are defined as schools in which the lowest grade is not lower than grade 9. Combined schools include all other combinations of grades,
-including K–12 schools.											
+including K–12 schools.
 2
 Student/teacher ratio was calculated by dividing the total number of students enrolled in the school by the total number of full-time-equivalent
 (FTE) teachers and aides. The total number of FTE teachers and aides is a combination of the full-time and part-time teachers and aides, including
-special education teachers and aides, with an adjustment for part-time status.							
+special education teachers and aides, with an adjustment for part-time status.
 NOTE: Violent incidents include rape or attempted rape, sexual battery other than rape, physical attack or fight with or without a weapon, threat
 of physical attack with or without a weapon, and robbery with or without a weapon. Responses were provided by the principal or the person most
 knowledgeable about crime and safety issues at the school. “At school” was defined for respondents to include activities that happen in school buildings, on school grounds, on school buses, and at places that hold school-sponsored events or activities. Respondents were instructed to include
-incidents that occurred before, during, or after normal school hours or when school activities or events were in session. 			
+incidents that occurred before, during, or after normal school hours or when school activities or events were in session.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, 2007–08 School Survey on Crime and Safety (SSOCS), 2008.
 
 Indicators of School Crime and Safety: 2010
@@ -14653,23 +14653,23 @@ Number of serious violent incidents reported to the police
 0.6
 1.2
 
-# Rounds to zero.												
-! Interpret data with caution. 											
-‡ Reporting standards not met.											
+# Rounds to zero.
+! Interpret data with caution.
+‡ Reporting standards not met.
 1
 Primary schools are defined as schools in which the lowest grade is not higher than grade 3 and the highest grade is not higher than grade 8.
 Middle schools are defined as schools in which the lowest grade is not lower than grade 4 and the highest grade is not higher than grade 9. High
 schools are defined as schools in which the lowest grade is not lower than grade 9. Combined schools include all other combinations of grades,
-including K–12 schools.											
+including K–12 schools.
 2
 Student/teacher ratio was calculated by dividing the total number of students enrolled in the school by the total number of full-time-equivalent
 (FTE) teachers and aides. The total number of FTE teachers and aides is a combination of the full-time and part-time teachers and aides, including
-special education teachers and aides, with an adjustment for part-time status.							
+special education teachers and aides, with an adjustment for part-time status.
 NOTE: Serious violent incidents include rape or attempted rape, sexual battery other than rape, physical attack or fight with a weapon, threat of
 physical attack with a weapon, and robbery with or without a weapon. Serious violent incidents are also included in violent incidents. Responses
 were provided by the principal or the person most knowledgeable about crime and safety issues at the school. “At school” was defined for respondents to include activities that happen in school buildings, on school grounds, on school buses, and at places that hold school-sponsored events or
 activities. Respondents were instructed to include incidents that occurred before, during, or after normal school hours or when school activities or
-events were in session. 											
+events were in session.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, 2007–08 School Survey on Crime and Safety (SSOCS), 2008.
 
 Indicators of School Crime and Safety: 2010
@@ -15043,28 +15043,28 @@ activities
 ‡
 3.3
 
-! Interpret data with caution.											
-‡ Reporting standards not met.											
+! Interpret data with caution.
+‡ Reporting standards not met.
 1
-Includes schools that reported the activity happens either at least once a week or daily.						
+Includes schools that reported the activity happens either at least once a week or daily.
 2
-Includes schools that reported the activity has happened at all at their school during the school year.				
+Includes schools that reported the activity has happened at all at their school during the school year.
 3
 Primary schools are defined as schools in which the lowest grade is not higher than grade 3 and the highest grade is not higher than grade 8. Middle
 schools are defined as schools in which the lowest grade is not lower than grade 4 and the highest grade is not higher than grade 9. High schools are
-defined as schools in which the lowest grade is not lower than grade 9. Combined schools include all other combinations of grades, including K–12 schools. 	
+defined as schools in which the lowest grade is not lower than grade 9. Combined schools include all other combinations of grades, including K–12 schools.
 4
 Student/teacher ratio was calculated by dividing the total number of students enrolled in the school by the total number of full-time-equivalent
 (FTE) teachers and aides. The total number of FTE teachers and aides is a combination of the full-time and part-time teachers and aides, including
-special education teachers and aides, with an adjustment for part-time status.							
+special education teachers and aides, with an adjustment for part-time status.
 5
-Violent incidents include rape or attempted rape,, sexual battery other than rape, physical attack or fight with or without a weapon, threat of physical attack or fight with or without a weapon, and robbery with or without a weapon.						
+Violent incidents include rape or attempted rape,, sexual battery other than rape, physical attack or fight with or without a weapon, threat of physical attack or fight with or without a weapon, and robbery with or without a weapon.
 NOTE: Responses were provided by the principal or the person most knowledgeable about crime and safety issues at the school. “At school” was
 defined for respondents to include activities that happen in school buildings, on school grounds, on school buses, and at places that hold schoolsponsored events or activities. Respondents were instructed to respond only for those times that were during normal school hours or when school
 activities or events were in session.
-SOURCE: U.S. Department of Education, National Center for Education Statistics, 2007–08 School Survey on Crime and Safety (SSOCS), 2008.	
-													
-			
+SOURCE: U.S. Department of Education, National Center for Education Statistics, 2007–08 School Survey on Crime and Safety (SSOCS), 2008.
+
+
 Supplemental Tables
 
 Table 7.2.	 Percentage of public schools reporting selected discipline problems that occurred at school,
@@ -15134,22 +15134,22 @@ Undesirable extremist or cult group activities
 19.8
 2.6
 
-— Not available.					
+— Not available.
 1
-Includes schools that reported the activity happens either at least once a week or daily.					
+Includes schools that reported the activity happens either at least once a week or daily.
 2
-Prior to the 2007–08 survey administration, the questionnaire wording was “student racial tensions.”				
+Prior to the 2007–08 survey administration, the questionnaire wording was “student racial tensions.”
 3
 Prior to the 2007–08 survey administration, the questionnaire did not specify “other than verbal abuse.” Caution should be used making direct
-comparisons with earlier survey years.					
+comparisons with earlier survey years.
 4
 Includes schools that reported the activity has happened at all at their school during the school year. In the 1999–2000 survey administration, the
-questionnaire specified “undesirable” gang activities and “undesirable” cult or extremist group activities.				
+questionnaire specified “undesirable” gang activities and “undesirable” cult or extremist group activities.
 NOTE: Responses were provided by the principal or the person most knowledgeable about crime and safety issues at the school. “At school” was
 defined for respondents to include activities that happen in school buildings, on school grounds, on school buses, and at places that hold schoolsponsored events or activities. Respondents were instructed to respond for only those times that were during normal school hours or when school
-activities or events were in session, unless the survey specified otherwise. 					
+activities or events were in session, unless the survey specified otherwise.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, 1999–2000, 2003–04, 2005–06, and 2007–08 School Survey
-on Crime and Safety (SSOCS), 2000, 2004, 2006, and 2008.	
+on Crime and Safety (SSOCS), 2000, 2004, 2006, and 2008.
 
 Indicators of School Crime and Safety: 2010
 
@@ -15579,19 +15579,19 @@ Rural
 —
 —
 
-— Not available.												
-! Interpret data with caution.											
+— Not available.
+! Interpret data with caution.
 ‡ Reporting standards not met.
 1
 In 2007, the reference period was the school year, whereas in prior survey years the reference period was the previous 6 months. Cognitive testing
-showed that estimates from 2007 are comparable to previous years.								
+showed that estimates from 2007 are comparable to previous years.
 2
 Race categories exclude persons of Hispanic ethnicity. Other includes American Indian, Alaska Native, Asian (prior to 2005), Pacific Islander,
 and, from 2003 onward, two or more races. Due to changes in racial/ethnic categories, comparisons of race/ethnicity across years should be
-made with caution.												
+made with caution.
 NOTE: Data for 2005 have been revised from previously published figures. All gangs, whether or not they are involved in violent or illegal activity,
 are included. “At school” includes the school building, on school property, on a school bus, or going to and from school. Due to a redesign of the
-methods used to measure urbanicity, estimates for 2007 locales are not shown. For more information, please see appendix A. 			
+methods used to measure urbanicity, estimates for 2007 locales are not shown. For more information, please see appendix A.
 SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey,
 various years, 2001–2007.
 
@@ -15859,14 +15859,14 @@ Rural
 
 (2)
 
-— Not available.									
+— Not available.
 1
-Race categories exclude persons of Hispanic ethnicity.								
+Race categories exclude persons of Hispanic ethnicity.
 2
 The response categories for race/ethnicity changed in 1999, making comparisons of some categories with earlier years problematic. In 1993,
 1995, and 1997, Asian students and Pacific Islander students were not categorized separately and students were not given the option of choosing
-two or more races.									
-NOTE: “On school property” was not defined for survey respondents. 								
+two or more races.
+NOTE: “On school property” was not defined for survey respondents.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), various years, 1993–2009.
 
@@ -16146,18 +16146,18 @@ Wyoming
 20.5
 23.7
 
-— Not available.										
+— Not available.
 NOTE: “On school property” was not defined for survey respondents. The estimate for the United States is drawn from a nationally representative
-sample of schools and is not the aggregate of participating states. Each state estimate is based on a sample that is representative of that state. 	
+sample of schools and is not the aggregate of participating states. Each state estimate is based on a sample that is representative of that state.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
-Surveillance System (YRBSS), previously unpublished tabulation, various years, 2003–2009.				
-								
+Surveillance System (YRBSS), previously unpublished tabulation, various years, 2003–2009.
+
 
 118
 
 Supplemental Tables
 
-Table 10.1.	
+Table 10.1.
 
 Percentage of students ages 12–18 who reported being targets of hate-related words and
 seeing hate-related graffiti at school, by selected student and school characteristics: Various
@@ -16460,14 +16460,14 @@ Hate-related graffiti
 18.5
 
 — Not available.
-‡ Reporting standards not met.											
+‡ Reporting standards not met.
 1
 In 2007, the reference period was the school year, whereas in prior survey years the reference period was the previous 6 months. Cognitive testing
-showed that estimates from 2007 are comparable to previous years.							
+showed that estimates from 2007 are comparable to previous years.
 2
 Race categories exclude persons of Hispanic ethnicity. Other includes American Indian, Alaska Native, Asian (prior to 2005), Pacific Islander,
 and, from 2003 onward, two or more races. Due to changes in racial/ethnic categories, comparisons of race/ethnicity across years should be
-made with caution.											
+made with caution.
 NOTE: Data for 2005 have been revised from previously published figures. “At school” includes the school building, on school property, on a school
 bus, and, from 2001 onward, going to and from school. Hate-related refers to derogatory terms used by others in reference to students’ personal
 characteristics. Due to a redesign of the methods used to measure urbanicity, estimates for 2007 locales are not shown. For more information,
@@ -16479,7 +16479,7 @@ Indicators of School Crime and Safety: 2010
 
 119
 
-Table 10.2.	
+Table 10.2.
 
 Percentage of students ages 12–18 who reported being targets of hate-related words at
 school during the school year, by selected student and school characteristics: 2007
@@ -16703,23 +16703,23 @@ orientation
 1.6
 1.1 !
 
-! Interpret data with caution.											
-‡ Reporting standards not met.											
+! Interpret data with caution.
+‡ Reporting standards not met.
 1
 In the School Crime Supplement (SCS) questionnaire, students were asked if they had been the target of hate-related words at school. Students
 who indicated that they had been called a hate-related word were asked to choose the specific characteristics that the hate-related word targeted.
 Students were allowed to choose more than one characteristic. If a student chose more than one characteristic, he or she is counted once under
 the “total” category. Therefore, the total percentage of students who reported being called a hate-related word is less than the sum of the students’
-individual characteristics.											
+individual characteristics.
 2
 Race categories exclude persons of Hispanic ethnicity. Other includes American Indian, Alaska Native, Asian (prior to 2005), Pacific Islander,
 and, from 2003 onward, two or more races. Due to changes in racial/ethnic categories, comparisons of race/ethnicity across years should be
-made with caution.											
+made with caution.
 NOTE: “At school” includes the school building, on school property, on a school bus, or going to and from school. Hate-related refers to derogatory
 terms used by others in reference to students’ personal characteristics. Due to a redesign of the methods used to measure urbanicity, estimates for
 2007 locales are not shown. For more information, please see appendix A.
-SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey, 2007.	
-											
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey, 2007.
+
 
 120
 
@@ -16727,7 +16727,7 @@ Supplemental Tables
 
 This page intentionally left blank.
 
-Table 11.1.	
+Table 11.1.
 
 Percentage of students ages 12–18 who reported being bullied at school and cyber-bullied
 anywhere during the school year, by selected bullying problems and selected student and
@@ -16988,7 +16988,7 @@ harm
 
 Supplemental Tables
 
-Table 11.1.	
+Table 11.1.
 
 Percentage of students ages 12–18 who reported being bullied at school and cyber-bullied
 anywhere during the school year, by selected bullying problems and selected student and
@@ -17120,29 +17120,29 @@ on Internet3
 2.2
 1.0 !
 
-! Interpret data with caution.											
-‡ Reporting standards not met.											
+! Interpret data with caution.
+‡ Reporting standards not met.
 1
 Injury includes bruises or swelling; cuts, scratches, or scrapes; black eye or bloody nose; teeth chipped or knocked out; broken bones or internal
 injuries; knocked unconscious; or other injuries. Only students who reported that their bullying incident constituted being pushed, shoved, tripped, or
-spit on were asked if they suffered injuries as a result of the incident.								
+spit on were asked if they suffered injuries as a result of the incident.
 2
 Cyber-bullied includes students who responded that another student “made unwanted contact, for example, threatened or insulted [the respondent]
-via text (SMS) messaging.” This category did not meet reporting standards to be reported separately.					
+via text (SMS) messaging.” This category did not meet reporting standards to be reported separately.
 3
-This was defined as another student making “unwanted contact, for example, threatened or insulted [the respondent] via instant messaging.”		
+This was defined as another student making “unwanted contact, for example, threatened or insulted [the respondent] via instant messaging.”
 4
-Race categories exclude persons of Hispanic ethnicity. Other includes American Indian, Alaska Native, Pacific Islander, and two or more races. 	
+Race categories exclude persons of Hispanic ethnicity. Other includes American Indian, Alaska Native, Pacific Islander, and two or more races.
 NOTE: Table was revised on June 30, 2010. “At school” includes the school building, on school property, on a school bus, or going to and from school.
 Bullying types do not sum to total because students could have experienced more than one type of bullying. In 2007, the unit response rate for this
-survey did not meet NCES statistical standards; therefore, interpret the data with caution. For more information, please see appendix A. 		
-SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey, 2007.	
+survey did not meet NCES statistical standards; therefore, interpret the data with caution. For more information, please see appendix A.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey, 2007.
 
 Indicators of School Crime and Safety: 2010
 
 123
 
-Table 11.2.	
+Table 11.2.
 
 Percentage of students ages 12–18 who reported being bullied at school during the school
 year, by location of bullying and selected student and school characteristics: 2007
@@ -17287,16 +17287,16 @@ Somewhere else
 4.0
 ‡
 
-! Interpret data with caution.									
-‡ Reporting standards not met.									
+! Interpret data with caution.
+‡ Reporting standards not met.
 1
-Race categories exclude persons of Hispanic ethnicity. Other includes American Indian, Alaska Native, Pacific Islander, and two or more races.	
+Race categories exclude persons of Hispanic ethnicity. Other includes American Indian, Alaska Native, Pacific Islander, and two or more races.
 NOTE: Table was revised on June 30, 2010. “At school” includes the school building, on school property, on a school bus, or going to and from
 school. For more information, please see appendix A. Location totals may sum to more than 100 because students could have been bullied in more
 than one location. In 2007, the unit response rate for this survey did not meet NCES statistical standards; therefore, interpret the data with caution.
-For more information, please see appendix A. 									
-SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey, 2007.	
-								
+For more information, please see appendix A.
+SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey, 2007.
+
 
 124
 
@@ -17304,7 +17304,7 @@ Supplemental Tables
 
 This page intentionally left blank.
 
-Table 11.3.	
+Table 11.3.
 
 Percentage distribution of students ages 12–18 who reported being bullied at school
 and cyber-bullied anywhere by the frequency of bullying at school during the school
@@ -17459,7 +17459,7 @@ Adult notified1
 36.5
 30.8
 
-Table 11.3.	
+Table 11.3.
 
 Percentage distribution of students ages 12–18 who reported being bullied at school
 and cyber-bullied anywhere by the frequency of bullying at school during the school
@@ -17609,23 +17609,23 @@ Adult notified1
 30.1
 ‡
 
-! Interpret data with caution.											
-‡ Reporting standards not met.											
+! Interpret data with caution.
+‡ Reporting standards not met.
 1
-Teacher or other adult at school notified.										
+Teacher or other adult at school notified.
 2
 Race categories exclude persons of Hispanic ethnicity. Other includes American Indian, Alaska Native, Asian or Pacific Islander, and, from 2003
-onward, two or more races. Due to changes in racial/ethnic categories, comparisons of race/ethnicity across years should be made with caution.	
+onward, two or more races. Due to changes in racial/ethnic categories, comparisons of race/ethnicity across years should be made with caution.
 NOTE: Table was revised on June 30, 2010. “At school” includes the school building, on school property, on a school bus, or going to and from school.
 In 2007, the unit response rate for this survey did not meet NCES statistical standards; therefore, interpret the data with caution. Detail may not sum to
-totals because of rounding. For more information, please see appendix A. 							
+totals because of rounding. For more information, please see appendix A.
 SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey, 2007.
 
 Indicators of School Crime and Safety: 2010
 
 127
 
-Table 12.1.	
+Table 12.1.
 
 Percentage of public and private school teachers who agreed or strongly agreed that student
 misbehavior and student tardiness and class cutting interfered with their teaching, by
@@ -17962,16 +17962,16 @@ Student tardiness and class cutting
 32.4
 27.1
 
-— Not available.												
+— Not available.
 1
 Elementary schools are defined as schools in which the lowest grade is less than or equal to grade 6 and the highest grade is less than or equal to
 grade 8. Secondary schools are defined as schools in which the lowest grade is greater than or equal to grade 7. Combined schools are included in
-totals, but are not shown separately. 										
+totals, but are not shown separately.
 2
-The public sector includes public, public charter, and Bureau of Indian Education school teachers.					
+The public sector includes public, public charter, and Bureau of Indian Education school teachers.
 3
-Substantial improvements in geocoding technology and changes in the Office of Management and Budget’s definition of metropolitan and nonmetropolitan areas allow for more precision in describing an area. Comparisons with earlier years are not possible. 				
-NOTE: Teachers who taught only prekindergarten students are excluded. 							
+Substantial improvements in geocoding technology and changes in the Office of Management and Budget’s definition of metropolitan and nonmetropolitan areas allow for more precision in describing an area. Comparisons with earlier years are not possible.
+NOTE: Teachers who taught only prekindergarten students are excluded.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, Schools and Staffing Survey (SASS), “Public School Teacher
 Data File,” and “Private School Teacher Data File,” 1993–94, 1999–2000, 2003–04, and 2007–08; “Charter School Teacher Data File,” 1999–2000;
 and “Bureau of Indian Education Teacher Data File,” 1999–2000, 2003–04, and 2007–08.
@@ -17980,7 +17980,7 @@ and “Bureau of Indian Education Teacher Data File,” 1999–2000, 2003–04, 
 
 Supplemental Tables
 
-Table 12.2.	
+Table 12.2.
 
 Percentage of public and private school teachers who agreed or strongly agreed that school
 rules are enforced by other teachers and by the principal, by selected teacher and school
@@ -18324,22 +18324,22 @@ By other teachers1
 89.2
 89.5
 
-— Not available.												
+— Not available.
 1
 Respondents were asked whether “rules for student behavior are consistently enforced by teachers in this school, even for students not in their
-classes.”												
+classes.”
 2
-Respondents were asked whether their “principal enforces school rules for student conduct and backs me up when I need it.”			
+Respondents were asked whether their “principal enforces school rules for student conduct and backs me up when I need it.”
 3
 Elementary schools are defined as schools in which the lowest grade is less than or equal to grade 6 and the highest grade is less than or equal to
 grade 8. Secondary schools are defined as schools in which the lowest grade is greater than or equal to grade 7. Combined schools are included in
-totals, but are not shown separately. 										
+totals, but are not shown separately.
 4
-The public sector includes public, public charter, and Bureau of Indian Education school teachers.			
+The public sector includes public, public charter, and Bureau of Indian Education school teachers.
 5
 Substantial improvements in geocoding technology and changes in the Office of Management and Budget’s definition of metropolitan and
-nonmetropolitan areas allow for more precision in describing an area. Comparisons with earlier years are not possible. 			
-NOTE: Teachers who taught only prekindergarten students are excluded. 							
+nonmetropolitan areas allow for more precision in describing an area. Comparisons with earlier years are not possible.
+NOTE: Teachers who taught only prekindergarten students are excluded.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, Schools and Staffing Survey (SASS), “Public School Teacher
 Data File,” and “Private School Teacher Data File,” 1993–94, 1999–2000, 2003–04, and 2007–08; “Charter School Teacher Data File,” 1999–2000;
 and “Bureau of Indian Education Teacher Data File,” 1999–2000, 2003–04, and 2007–08.
@@ -18348,7 +18348,7 @@ Indicators of School Crime and Safety: 2010
 
 129
 
-Table 12.3.	
+Table 12.3.
 
 Percentage of public school teachers who agreed or strongly agreed that student
 misbehavior and student tardiness and class cutting interfered with their teaching and
@@ -18629,11 +18629,11 @@ By the principal2
 86.8
 
 Respondents were asked whether “rules for student behavior are consistently enforced by teachers in this school, even for students not in their
-classes.”												
+classes.”
 2
-Respondents were asked whether their “principal enforces school rules for student conduct and backs me up when I need it.”			
+Respondents were asked whether their “principal enforces school rules for student conduct and backs me up when I need it.”
 NOTE: Teachers who taught only prekindergarten students are excluded. The public sector includes public, public charter, and Bureau of Indian
-Education school teachers. Detail may not sum to totals because of rounding. 							
+Education school teachers. Detail may not sum to totals because of rounding.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, Schools and Staffing Survey (SASS), “Public School Teacher
 Data File,” 2007–08; and “Bureau of Indian Education Teacher Data File,” 2007–08.
 1
@@ -18644,7 +18644,7 @@ Supplemental Tables
 
 This page intentionally left blank.
 
-Table 13.1.	
+Table 13.1.
 
 Percentage of students in grades 9–12 who reported having been in a physical fight at
 least one time during the previous 12 months, by location and selected student and school
@@ -18912,7 +18912,7 @@ Anywhere
 
 (2)
 
-Table 13.1.	
+Table 13.1.
 
 Percentage of students in grades 9–12 who reported having been in a physical fight at
 least one time during the previous 12 months, by location and selected student and school
@@ -19174,16 +19174,16 @@ On school property
 
 (2)
 
-— Not available.												
-! Interpret data with caution.											
+— Not available.
+! Interpret data with caution.
 1
-Race categories exclude persons of Hispanic ethnicity. 									
+Race categories exclude persons of Hispanic ethnicity.
 2
 The response categories for race/ethnicity changed in 1999 making comparisons of some categories with earlier years problematic. In 1993, 1995,
 and 1997, Asian students and Pacific Islander students were not categorized separately and students were not given the option of choosing two or
-more races.												
+more races.
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students are
-simply asked how many times in the last 12 months they have been in a physical fight. 						
+simply asked how many times in the last 12 months they have been in a physical fight.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), various years, 1993–2009.
 
@@ -19191,7 +19191,7 @@ Indicators of School Crime and Safety: 2010
 
 133
 
-Table 13.2.	
+Table 13.2.
 
 Percentage of students in grades 9–12 who reported having been in a physical fight during
 the previous 12 months, by location, number of times, and selected student characteristics:
@@ -19392,12 +19392,12 @@ times
 0.6 !
 0.6 !
 
-! Interpret data with caution.											
-‡ Reporting standards not met.											
+! Interpret data with caution.
+‡ Reporting standards not met.
 1
-Race categories exclude persons of Hispanic ethnicity. 									
+Race categories exclude persons of Hispanic ethnicity.
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students are
-simply asked how many times in the last 12 months they had been in a physical fight. Detail may not sum to totals because of rounding.		
+simply asked how many times in the last 12 months they had been in a physical fight. Detail may not sum to totals because of rounding.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), 2009.
 
@@ -19405,7 +19405,7 @@ Surveillance System (YRBSS), 2009.
 
 Supplemental Tables
 
-Table 13.3.	
+Table 13.3.
 
 Percentage of students in grades 9–12 who reported having been in a physical fight at least
 one time during the previous 12 months, by location and state: Various years, 2003–2009
@@ -19896,23 +19896,23 @@ On school property
 9.6
 12.6
 
-— Not available.												
+— Not available.
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students are
 simply asked how many times in the last 12 months they had been in a physical fight. The estimate for the United States is drawn from a nationally
 representative sample of schools and is not the aggregate of participating states. Each state estimate is based on a sample that is representative of
-that state.													
+that state.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
-Surveillance System (YRBSS), previously unpublished tabulation, various years, 2003–2009.						
-													
-	
-													
-		
+Surveillance System (YRBSS), previously unpublished tabulation, various years, 2003–2009.
+
+
+
+
 
 Indicators of School Crime and Safety: 2010
 
 135
 
-Table 14.1.	
+Table 14.1.
 
 Percentage of students in grades 9–12 who reported carrying a weapon at least one day
 during the previous 30 days, by location and selected student and school characteristics:
@@ -20181,7 +20181,7 @@ Anywhere
 
 (2)
 
-Table 14.1.	
+Table 14.1.
 
 Percentage of students in grades 9–12 who reported carrying a weapon at least one day
 during the previous 30 days, by location and selected student and school characteristics:
@@ -20444,16 +20444,16 @@ On school property
 —
 —
 
-— Not available.												
-! Interpret data with caution.											
+— Not available.
+! Interpret data with caution.
 1
-Race categories exclude persons of Hispanic ethnicity.									
+Race categories exclude persons of Hispanic ethnicity.
 2
 The response categories for race/ethnicity changed in 1999 making comparisons of some categories with earlier years problematic. In 1993, 1995,
 and 1997, Asian students and Pacific Islander students were not categorized separately and students were not given the option of choosing two or
-more races.												
+more races.
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students were
-simply asked on how many days they carried a weapon during the past 30 days.							
+simply asked on how many days they carried a weapon during the past 30 days.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), various years, 1993–2009.
 
@@ -20461,7 +20461,7 @@ Indicators of School Crime and Safety: 2010
 
 137
 
-Table 14.2.	
+Table 14.2.
 
 Percentage of students in grades 9–12 who reported carrying a weapon during the previous
 30 days, by location, number of days, and selected student characteristics: 2009
@@ -20659,22 +20659,22 @@ days
 2.5
 3.2
 
-! Interpret data with caution.											
-‡ Reporting standards not met.											
+! Interpret data with caution.
+‡ Reporting standards not met.
 1
-Race categories exclude persons of Hispanic ethnicity. 									
+Race categories exclude persons of Hispanic ethnicity.
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” was not used in the YRBS questionnaire; students were
-simply asked on how many days they carried a weapon during the past 30 days. Detail may not sum to totals because of rounding.		
+simply asked on how many days they carried a weapon during the past 30 days. Detail may not sum to totals because of rounding.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
-Surveillance System (YRBSS), 2009.										
-					
-	
+Surveillance System (YRBSS), 2009.
+
+
 
 138
 
 Supplemental Tables
 
-Table 14.3.	
+Table 14.3.
 
 Percentage of students in grades 9–12 who reported carrying a weapon at least one day
 during the previous 30 days, by location and state: Various years, 2003–2009
@@ -21165,21 +21165,21 @@ On school property
 3.4
 11.5
 
-— Not available.												
+— Not available.
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students
 are simply asked how many days they carried a weapon during the past 30 days. The estimate for the United States is drawn from a nationally
 representative sample of schools and is not the aggregate of participating states. Each state estimate is based on a sample that is representative
-of that state. 	
+of that state.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
-Surveillance System (YRBSS), previously unpublished tabulation, various years, 2003–2009.						
-						
-		
+Surveillance System (YRBSS), previously unpublished tabulation, various years, 2003–2009.
+
+
 
 Indicators of School Crime and Safety: 2010
 
 139
 
-Table 15.1.	
+Table 15.1.
 
 Percentage of students in grades 9–12 who reported using alcohol at least one day during the
 previous 30 days, by location and selected student and school characteristics: Various years,
@@ -21448,7 +21448,7 @@ Anywhere
 
 (2)
 
-Table 15.1.	
+Table 15.1.
 
 Percentage of students in grades 9–12 who reported using alcohol at least one day during the
 previous 30 days, by location and selected student and school characteristics: Various years,
@@ -21710,17 +21710,17 @@ On school property
 
 (2)
 
-— Not available.												
-! Interpret data with caution.											
-‡ Reporting standards not met.											
+— Not available.
+! Interpret data with caution.
+‡ Reporting standards not met.
 1
-Race categories exclude persons of Hispanic ethnicity.									
+Race categories exclude persons of Hispanic ethnicity.
 2
 The response categories for race/ethnicity changed in 1999 making comparisons of some categories with earlier years problematic. In 1993, 1995,
 and 1997, Asian students and Pacific Islander students were not categorized separately and students were not given the option of choosing two or
-more races.												
+more races.
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students are
-simply asked how many days did they have at least one drink of alcohol during the past 30 days. 					
+simply asked how many days did they have at least one drink of alcohol during the past 30 days.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), various years, 1993–2009.
 
@@ -21728,7 +21728,7 @@ Indicators of School Crime and Safety: 2010
 
 141
 
-Table 15.2.	
+Table 15.2.
 
 Percentage of students in grades 9–12 who reported using alcohol during the previous
 30 days, by location, number of days, and selected student characteristics: 2009
@@ -21930,13 +21930,13 @@ days
 0.3
 0.3 !
 
-# Rounds to zero.												
-! Interpret data with caution.											
-‡ Reporting standards not met.											
+# Rounds to zero.
+! Interpret data with caution.
+‡ Reporting standards not met.
 1
-Race categories exclude persons of Hispanic ethnicity. 									
+Race categories exclude persons of Hispanic ethnicity.
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students are
-simply asked how many days during the past 30 days they had at least one drink of alcohol. Detail may not sum to totals because of rounding.	
+simply asked how many days during the past 30 days they had at least one drink of alcohol. Detail may not sum to totals because of rounding.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), 2009.
 
@@ -21944,7 +21944,7 @@ Surveillance System (YRBSS), 2009.
 
 Supplemental Tables
 
-Table 15.3.	
+Table 15.3.
 
 Percentage of students in grades 9–12 who reported using alcohol at least one day during the
 previous 30 days, by location and state: Various years, 2003–2009
@@ -22434,22 +22434,22 @@ On school property
 —
 6.4
 
-— Not available.												
-! Interpret data with caution.											
+— Not available.
+! Interpret data with caution.
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students are
 simply asked how many days did they have at least one drink of alcohol during the past 30 days. The estimate for the United States is drawn from a
 nationally representative sample of schools and is not the aggregate of participating states. Each state estimate is based on a sample that is representative of that state.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
-Surveillance System (YRBSS), previously unpublished tabulation, various years, 2003–2009.						
-					
-		
-		
+Surveillance System (YRBSS), previously unpublished tabulation, various years, 2003–2009.
+
+
+
 
 Indicators of School Crime and Safety: 2010
 
 143
 
-Table 16.1.	
+Table 16.1.
 
 Percentage of students in grades 9–12 who reported using marijuana at least one time during
 the previous 30 days, by location and selected student and school characteristics: Various
@@ -22718,7 +22718,7 @@ Anywhere
 
 (2)
 
-Table 16.1.	
+Table 16.1.
 
 Percentage of students in grades 9–12 who reported using marijuana at least one time during
 the previous 30 days, by location and selected student and school characteristics: Various
@@ -22980,17 +22980,17 @@ On school property
 —
 —
 
-— Not available.												
-! Interpret data with caution.											
-‡ Reporting standards not met.											
+— Not available.
+! Interpret data with caution.
+‡ Reporting standards not met.
 1
-Race categories exclude persons of Hispanic ethnicity.									
+Race categories exclude persons of Hispanic ethnicity.
 2
 The response categories for race/ethnicity changed in 1999, making comparisons of some categories with earlier years problematic. In 1993,
 1995, and 1997, Asian students and Pacific Islander students were not categorized separately and students were not given the option of choosing
-two or more races.												
+two or more races.
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students are
-simply asked how many times during the past 30 days they used marijuana. 							
+simply asked how many times during the past 30 days they used marijuana.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), various years, 1993–2009.
 
@@ -22998,7 +22998,7 @@ Indicators of School Crime and Safety: 2010
 
 145
 
-Table 16.2.	
+Table 16.2.
 
 Percentage of students in grades 9–12 who reported using marijuana during the previous 30
 days, by location, number of times, and selected student characteristics: 2009
@@ -23200,13 +23200,13 @@ days
 0.5
 0.8
 
-# Rounds to zero.												
-! Interpret data with caution.											
-‡ Reporting standards not met.											
+# Rounds to zero.
+! Interpret data with caution.
+‡ Reporting standards not met.
 1
-Race categories exclude persons of Hispanic ethnicity. 									
+Race categories exclude persons of Hispanic ethnicity.
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students are
-simply asked how many times during the past 30 days they used marijuana. Detail may not sum to totals because of rounding.			
+simply asked how many times during the past 30 days they used marijuana. Detail may not sum to totals because of rounding.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
 Surveillance System (YRBSS), 2009.
 
@@ -23214,7 +23214,7 @@ Surveillance System (YRBSS), 2009.
 
 Supplemental Tables
 
-Table 16.3.	
+Table 16.3.
 
 Percentage of students in grades 9–12 who reported using marijuana at least one time during
 the previous 30 days, by location and state: Various years 2003–2009
@@ -23705,21 +23705,21 @@ On school property
 —
 5.3
 
-— Not available.												
-! Interpret data with caution.											
+— Not available.
+! Interpret data with caution.
 NOTE: “On school property” was not defined for survey respondents. The term “anywhere” is not used in the YRBS questionnaire; students
 are simply asked how many times during the past 30 days they used marijuana. The estimate for the United States is drawn from a nationally
 representative sample of schools and is not the aggregate of participating states. Each state estimate is based on a sample that is representative
 of that state.
 SOURCE: Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Youth Risk Behavior
-Surveillance System (YRBSS), previously unpublished tabulation, various years, 2003–2009.		
-		
+Surveillance System (YRBSS), previously unpublished tabulation, various years, 2003–2009.
+
 
 Indicators of School Crime and Safety: 2010
 
 147
 
-Table 17.1.	
+Table 17.1.
 
 Percentage of students ages 12–18 who reported being afraid of attack or harm, by location
 and selected student and school characteristics: Various years, 1995–2007
@@ -24075,15 +24075,15 @@ Away from school
 3.6
 2.1 !
 
-— Not available.												
-! Interpret data with caution.											
+— Not available.
+! Interpret data with caution.
 ‡ Reporting standards not met.
 1
-In 2007, the reference period was the school year, whereas in prior survey years the reference period was the previous 6 months. Cognitive testing showed that estimates from 2007 are comparable to previous years.							
+In 2007, the reference period was the school year, whereas in prior survey years the reference period was the previous 6 months. Cognitive testing showed that estimates from 2007 are comparable to previous years.
 2
 Race categories exclude persons of Hispanic ethnicity. Other includes American Indian, Alaska Native, Asian (prior to 2005), Pacific Islander,
 and, from 2003 onward, two or more races. Due to changes in racial/ethnic categories, comparisons of race/ethnicity across years should be made
-with caution.												
+with caution.
 NOTE: Data for 2005 have been revised from previously published figures. “At school” includes the school building, on school property, on a school
 bus, and, from 2001 onward, going to and from school. For the 2001 survey, the wording was changed from “attack or harm” to “attack or threat of
 attack.” Students were asked if they “never,” “almost never,” “sometimes,” or “most of the time” feared attack or harm at school or away from school.
@@ -24096,7 +24096,7 @@ various years, 1995–2007.
 
 Supplemental Tables
 
-Table 18.1.	
+Table 18.1.
 
 Percentage of students ages 12–18 who reported avoiding school activities or one or more
 places in school because of fear of attack or harm: Various years, 1995–2007
@@ -24220,15 +24220,15 @@ school building
 
 1.5
 
-— Not available.							
+— Not available.
 1
 In 2007, the reference period was the school year, whereas in prior survey years the reference period was the previous 6 months. Cognitive testing
 showed that estimates from 2007 are comparable to previous years.
 2
 In 2007, the survey wording was changed from “any extracurricular activities” to “any activities.” Please use caution when comparing changes in
-this item over time.							
+this item over time.
 NOTE: Data for 2005 have been revised from previously published figures. For the 2001 survey, the wording was changed from “attack or harm”
-to “attack or threat of attack.” For more information, please see appendix A. 							
+to “attack or threat of attack.” For more information, please see appendix A.
 SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey,
 various years, 1995–2007.
 
@@ -24236,7 +24236,7 @@ Indicators of School Crime and Safety: 2010
 
 149
 
-Table 18.2.	
+Table 18.2.
 
 Percentage of students ages 12–18 who reported avoiding one or more places in school
 because of fear of attack or harm, by selected student and school characteristics: Various
@@ -24431,20 +24431,20 @@ Private
 6.2
 1.4 !
 
-— Not available.										
-! Interpret data with caution.										
-‡ Reporting standards not met.										
+— Not available.
+! Interpret data with caution.
+‡ Reporting standards not met.
 1
 In 2007, the reference period was the school year, whereas in prior survey years the reference period was the previous 6 months. Cognitive testing
-showed that estimates from 2007 are comparable to previous years.							
+showed that estimates from 2007 are comparable to previous years.
 2
 Race categories exclude persons of Hispanic ethnicity. Other includes American Indian, Alaska Native, (Asian prior to 2005), Pacific Islander,
 and, from 2003 onward, two or more races. Due to changes in racial/ethnic categories, comparisons of race/ethnicity across years should be made
-with caution.										
+with caution.
 NOTE: Data for 2005 have been revised from previously published figures. Places include the entrance, any hallways or stairs, parts of the
 cafeteria, restrooms, and other places inside the school building. For the 2001 survey, the wording was changed from “attack or harm” to “attack
 or threat of attack.” Due to a redesign of the methods used to measure urbanicity, estimates for 2007 locales are not shown. For more information,
-please see appendix A. 										
+please see appendix A.
 SOURCE: U.S. Department of Justice, Bureau of Justice Statistics, School Crime Supplement (SCS) to the National Crime Victimization Survey,
 various years, 1995–2007.
 
@@ -24452,7 +24452,7 @@ various years, 1995–2007.
 
 Supplemental Tables
 
-Table 19.1.	
+Table 19.1.
 
 Number and percentage of public schools that took a serious disciplinary action, number of
 serious actions taken, and percentage distribution of serious actions, by type of action and
@@ -24560,20 +24560,20 @@ schools
 
 31.9
 
-‡ Reporting standards not met.								
+‡ Reporting standards not met.
 1
-The questionnaire wording prior to 2005–06 was “use or possession of a weapon other than a firearm.”				
+The questionnaire wording prior to 2005–06 was “use or possession of a weapon other than a firearm.”
 NOTE: Responses were provided by the principal or the person most knowledgeable about crime and safety issues at the school. Serious disciplinary actions include removals with no continuing services for at least the remainder of the school year, transfers to specialized schools for disciplinary
 reasons, and out-of-school suspensions lasting 5 or more days, but less than the remainder of the school year. Respondents were instructed to
 respond only for those times that were during normal school hours or when school activities or events were in session, unless the survey specified
-otherwise. Detail may not sum to totals because of rounding. Estimates of number of actions and schools are rounded to the nearest 100.		
+otherwise. Detail may not sum to totals because of rounding. Estimates of number of actions and schools are rounded to the nearest 100.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, 2007–08 School Survey on Crime and Safety (SSOCS), 2008.
 
 Indicators of School Crime and Safety: 2010
 
 151
 
-Table 19.2.	
+Table 19.2.
 
 Percentage of public schools that took a serious disciplinary action and number of serious
 actions taken, by type of offense: Various school years, 1999–2000 through 2007–08
@@ -24690,14 +24690,14 @@ Number of serious disciplinary actions
 
 35,400
 
-— Not available.											
-! Interpret data with caution.										
+— Not available.
+! Interpret data with caution.
 1
-The questionnaire wording prior to 2005–06 was “use or possession of a weapon other than a firearm.”					
+The questionnaire wording prior to 2005–06 was “use or possession of a weapon other than a firearm.”
 NOTE: Responses were provided by the principal or the person most knowledgeable about crime and safety issues at the school. Serious disciplinary actions include removals with no continuing services for at least the remainder of the school year, transfers to specialized schools for disciplinary
 reasons, and out-of-school suspensions lasting 5 or more days, but less than the remainder of the school year. Respondents were instructed to
 respond only for those times that were during normal school hours or when school activities or events were in session, unless the survey specified
-otherwise. Detail may not sum to totals because of rounding. Estimates of number of actions are rounded to the nearest 100.			
+otherwise. Detail may not sum to totals because of rounding. Estimates of number of actions are rounded to the nearest 100.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, 1999–2000, 2003–04, 2005–06, and 2007–08 School Survey on
 Crime and Safety (SSOCS), 2000, 2004, 2006, and 2008.
 
@@ -24705,7 +24705,7 @@ Crime and Safety (SSOCS), 2000, 2004, 2006, and 2008.
 
 Supplemental Tables
 
-Table 20.1.	
+Table 20.1.
 
 Percentage of public schools that used safety and security measures: Various school years,
 1999–2000 through 2007–08
@@ -24886,22 +24886,22 @@ Provided school lockers to students
 6.0
 48.9
 
-— Not available.				
+— Not available.
 1
-One or more check, sweep, or camera.				
+One or more check, sweep, or camera.
 2
-For example, drugs or weapons. Does not include dog sniffs.				
+For example, drugs or weapons. Does not include dog sniffs.
 NOTE: Responses were provided by the principal or the person most knowledgeable about crime and safety issues at the school. Respondents
 were instructed to respond only for those times that were during normal school hours or when school activities or events were in session, unless the
-survey specified otherwise. 				
+survey specified otherwise.
 SOURCE: U.S. Department of Education, National Center for Education Statistics, 1999–2000, 2003–04, 2005–06, and 2007–08 School Survey on
-Crime and Safety (SSOCS), 2000, 2004, 2006, and 2008.	
+Crime and Safety (SSOCS), 2000, 2004, 2006, and 2008.
 
 Indicators of School Crime and Safety: 2010
 
 153
 
-Table 20.2.	
+Table 20.2.
 
 Percentage of public schools that used selected safety and security measures, by school
 characteristics: School year 2007–08
@@ -25168,7 +25168,7 @@ and staff
 62.0
 55.4
 
-Table 20.2.	
+Table 20.2.
 
 Percentage of public schools that used selected safety and security measures, by school
 characteristics: School year 2007–08—Continued
@@ -25504,33 +25504,33 @@ uniforms
 18.6
 18.2
 
-! Interpret data with caution.											
-‡ Reporting standards not met.											
+! Interpret data with caution.
+‡ Reporting standards not met.
 1
-One or more check, sweep, or camera.										
+One or more check, sweep, or camera.
 2
-For example, drugs or weapons. Does not include dog sniffs.								
+For example, drugs or weapons. Does not include dog sniffs.
 3
 Primary schools are defined as schools in which the lowest grade is not higher than grade 3 and the highest grade is not higher than grade 8.
 Middle schools are defined as schools in which the lowest grade is not lower than grade 4 and the highest grade is not higher than grade 9. High
 schools are defined as schools in which the lowest grade is not lower than grade 9. Combined schools include all other combinations of grades,
-including K–12 schools. 											
+including K–12 schools.
 4
 Student/teacher ratio was calculated by dividing the total number of students enrolled in the school by the total number of full-time-equivalent
 (FTE) teachers and aides. The total number of FTE teachers and aides is a combination of the full-time and part-time teachers and aides, including
-special education teachers and aides, with an adjustment for part-time status.							
+special education teachers and aides, with an adjustment for part-time status.
 NOTE: Responses were provided by the principal or the person most knowledgeable about crime and safety issues at the school. Respondents
 were instructed to respond only for those times that were during normal school hours or when school activities or events were in session, unless the
-survey specified otherwise.											
-SOURCE: U.S. Department of Education, National Center for Education Statistics, 2007–08 School Survey on Crime and Safety (SSOCS), 2008.	
-													
-							
+survey specified otherwise.
+SOURCE: U.S. Department of Education, National Center for Education Statistics, 2007–08 School Survey on Crime and Safety (SSOCS), 2008.
+
+
 
 Indicators of School Crime and Safety: 2010
 
 155
 
-Table 21.1.	
+Table 21.1.
 
 Percentage of students ages 12–18 who reported selected security measures at school:
 Various years, 1999–2007
@@ -25631,7 +25631,7 @@ A requirement that visitors sign in
 60.9
 94.3
 
-— Not available.					
+— Not available.
 NOTE: Data for 2005 have been revised from previously published figures. “At school” includes the school building, on school property, on a school
 bus, and, from 2001 onward, going to and from school. In 2005 and 2007, the unit response rate for this survey did not meet NCES statistical
 standards. For more information, please see appendix A.
@@ -26295,12 +26295,12 @@ Indicators of School Crime and Safety: 2010
 
 For additional information about the YRBS, contact:
 
-a.	
-b.	
-c.	
-d.	
-e.	
-f.	
+a.
+b.
+c.
+d.
+e.
+f.
 
 Laura Kann
 Division of Adolescent and School Health
@@ -26325,12 +26325,12 @@ The version used in 1999, 2001, 2003, 2005, and
 2007 and in the 2009 state and local surveys was:
 How do you describe yourself? (Select one or more
 responses.)
-a.	
-b.	
-c.	
-d.	
-e.	
-f.	
+a.
+b.
+c.
+d.
+e.
+f.
 
 American Indian or Alaska Native
 Asian
@@ -26703,7 +26703,7 @@ E1 - E2
 
 +
 
-	
+
 
 se  22
 
@@ -26727,7 +26727,7 @@ E1 - E2
 
 se  22 -
 
-	
+
 
 (2 * r * se1 * se2 )
 
@@ -27155,7 +27155,7 @@ intent to threaten, injure, or kill. Includes look-alikes
 if they are used to threaten others.
 
 Indicators of School Crime and Safety: 2010
-•••
-does poorly in school frequently gets into fights with other children at school (uncontrollable anger, impulsive and chronic hitting, intimidating and bullying behavior) reacts to disappointments, criticism, or teasing with extreme and intense anger, blame, or revenge 
+***
+does poorly in schoolimpulsive and chronic hitting, intimidating and bullying behavior)reacts to disappointments, criticism, or teasing with extreme and intense anger,blame, or revenge
 
 

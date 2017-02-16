@@ -1,11 +1,11 @@
-gang activitiesstealingweapons use•••
+gang activitiesstealingweapons use***
 
 
 
 Indicators of
 School Crime
 and Safety: 2006
-•••
+***
 THIS PAGE INTENTIONALLY LEFT BLANK
 
 U.S. Department of Education
@@ -1743,7 +1743,7 @@ to previously
 published data
 and new data for
 2002 onward.
-•••
+
 For more
 information:
 Tables 1.1 & 1.2
@@ -1945,7 +1945,7 @@ has been
 updated to
 include 2004
 data.
-•••
+
 For more
 information:
 Tables 2.1,
@@ -2393,7 +2393,7 @@ This indicator has
 been updated
 to include 2005
 data.
-•••
+
 For more
 information:
 Table 3.1
@@ -2589,7 +2589,7 @@ In 2005, student reports of being threatened or injured with a weapon on school 
 varied among states for which data were available. Among states, the percentage of students
 with such reports ranged from 5 to 12 percent (table 4.2).
 
-•••
+
 For more
 information:
 Tables 4.1 & 4.2
@@ -2722,7 +2722,7 @@ This indicator has
 been updated to
 include 2003–04
 data.
-•••
+
 For more
 information:
 Tables 5.1, 5.2,
@@ -2898,7 +2898,7 @@ This indicator has
 been updated to
 include 2003–04
 data.
-•••
+
 For more
 information:
 Tables 6.1,
@@ -3403,7 +3403,7 @@ This indicator has
 been updated
 with 2003–04
 data.
-•••
+
 For more
 information:
 Table 7.1
@@ -3579,7 +3579,7 @@ This indicator has
 been updated
 to include 2005
 data.
-•••
+
 For more
 information:
 Table 8.1
@@ -3770,7 +3770,7 @@ This indicator has
 been updated
 to include 2005
 data.
-•••
+
 For more
 information:
 Tables 9.1 & 9.2
@@ -3921,7 +3921,7 @@ words and seeing hate-related grafﬁti according to the urbanicity and sector o
 word. Public school students were more likely than their private school counterparts to report being called a hate-related word (12 vs. 7 percent) and seeing hate-related grafﬁti (39
 vs. 18 percent).
 
-•••
+
 For more
 information:
 Tables 10.1 & 10.2
@@ -4121,7 +4121,7 @@ to report bullying incidents than were their private school counterparts (29 vs.
 This indicator has
 been updated
 with 2005 data.
-•••
+
 For more
 information:
 Tables 11.1,
@@ -4324,7 +4324,7 @@ This indicator has
 been updated
 to include 2005
 data.
-•••
+
 For more
 information:
 
@@ -4519,7 +4519,7 @@ This indicator has
 been updated
 to include 2005
 data.
-•••
+
 For more
 information:
 Tables 13.1 & 13.2
@@ -4769,7 +4769,7 @@ This indicator has
 been updated
 to include 2005
 data.
-•••
+
 
 In 2005, the percentage of students who reported drinking alcohol varied among states for
 which data were available. Among states, the percentages ranged from 16 to 49 percent for
@@ -4955,7 +4955,7 @@ This indicator has
 been updated
 to include 2005
 data.
-•••
+
 For more
 information:
 Tables 15.1 & 15.2
@@ -5153,7 +5153,7 @@ This indicator has
 been updated
 to include 2005
 data.
-•••
+
 For more
 information:
 Table 16.1
@@ -5349,7 +5349,7 @@ Consistent with most previous years, students in urban areas in 2005 were the mo
 to avoid places in school: 6 percent of urban students reported that they had done so, compared with 4 percent of suburban and rural students. In addition, public school students
 were more likely than private school students to avoid places in school (5 vs. 1 percent).
 
-•••
+
 For more
 information:
 Tables 17.1 & 17.2
@@ -5531,7 +5531,7 @@ This indicator has
 been updated
 with 2003–04
 data.
-•••
+
 For more
 information:
 Table 18.1
@@ -5674,7 +5674,7 @@ This indicator has
 been updated
 with 2003–04
 data.
-•••
+
 For more
 information:
 Table 19.1
@@ -5854,7 +5854,7 @@ This indicator has
 been updated
 to include 2005
 data.
-•••
+
 
 The percentage of students reporting the presence of many of the selected security measures
 increased between 2001 and 2005 (ﬁgure 20.1 and table 20.1). For example, the percentage
@@ -35367,7 +35367,7 @@ Weapon Any instrument or object used with the intent to threaten, injure, or kil
 look alikes if they are used to threaten others.
 
 192
-•••
-has few friends and is often rejected by other children because of his or her behavior  makes friends with other children known to be unruly or aggressive consistently does not listen to adults 
+***
+has few friends and is often rejected by other children because of his or her behaviormakes friends with other children known to be unruly or aggressiveconsistently does not listen to adults
 
 
