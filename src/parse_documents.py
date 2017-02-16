@@ -61,7 +61,7 @@ def parse_tags(contents, tag_name, delim_comma=True):
 def parse_file_contents(file_raw):
 
     # Split file by deliminter and store as dict
-    file_contents = file_raw.split('***')
+    file_contents = file_raw.decode('utf-8', 'ignore').encode("utf-8").split('***')
     if len(file_contents) == 3:
         contents = dict(zip(document_sections_abbr, file_contents))
     elif len(file_contents) == 4:
