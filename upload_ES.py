@@ -1,6 +1,7 @@
-import parse_documents as parse
+import os
 import warnings
 from elasticsearch import Elasticsearch, RequestsHttpConnection
+import parse_documents as parse
 
 
 class ES_uploader:
@@ -9,8 +10,7 @@ class ES_uploader:
         self.index_nm = 'nssd'
         self.docs_clean = parse.parse_files("documents")
         self.es = Elasticsearch(
-            hosts='https://of02woz6:vmq5ptx5spowyusb@birch-6237587.us-east-1.'
-            'bonsaisearch.net',
+            hosts=os.environ['ES_HOST'],
             verify_certs=True,
             connection_class=RequestsHttpConnection)
 
